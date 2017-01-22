@@ -145,7 +145,8 @@ Chicken Fresh,Chicken Thighs,143,12.2,0.0019,165,50,0.0016
 Dinner Sausage,Dnr Sausage _ Pork Rope Ckd,144,12.1,0.0018,227,38.2,0.0012
 Can Vegetables _ Shelf Stable,Corn,145,12.1,0.0018,197,44,0.0014
 Bacon,Bacon _ Trad Greater Than 16oz,146,12,0.0018,193,44.6,0.0014
-Ice Cream Ice Milk & Sherbets,"Super Premium Pints  [Ice Cream &Sherbert]",147,11.8,0.0018,71,91.1,0.0029
+Ice Cream Ice Milk & Sherbets,"Super Premium Pints  [Ice Cream &
+Sherbert]",147,11.8,0.0018,71,91.1,0.0029
 Baby Foods,Baby Food _ Beginner,148,11.7,0.0018,303,28.1,0.0009
 Molasses/Syrups/Pancake Mixes,Molasses & Syrups,149,11.7,0.0018,130,58.7,0.0019
 Water,Non_Carb Water Flvr _ Drnk/Mnr,150,11.6,0.0018,115,63.4,0.002
@@ -239,7 +240,8 @@ Energy Drinks,Energy Drink _ Single Serve,237,7.1,0.0011,224,39.5,0.0013
 Baked Breads,Sandwich Buns,238,7.1,0.0011,137,56.8,0.0018
 Refrigerated Dairy Case,Non_Dairy Milks,239,7.1,0.0011,105,67.7,0.0021
 Beef:Round,Select Beef,240,7.1,0.0011,278,30.4,0.001
-Powder & Crystal Drink Mix,"Unsweetened Envelope [Powder DrinkMix]",241,7,0.0011,802,6.2,0.0002
+Powder & Crystal Drink Mix,"Unsweetened Envelope [Powder Drink
+Mix]",241,7,0.0011,802,6.2,0.0002
 Refrigerated Desserts,Refrigerated Pudding,242,7,0.0011,170,49.5,0.0016
 Carrots,Carrots Mini Peeled,243,7,0.0011,118,61.4,0.0019
 Baking Mixes,Layer Cake Mix,244,7,0.0011,251,35.1,0.0011
@@ -477,7 +479,8 @@ Hot Cereal,Grits,475,2.8,0.0004,774,6.7,0.0002
 Cereals,Cereal _ Cold,476,2.8,0.0004,178,47.8,0.0015
 Frozen Vegetable & Veg Dish,Fz Bag Vegetables _ Value Added,477,2.8,0.0004,505,14.7,0.0005
 Traditional Asian Foods,Asian Other Sauces/Marinade,478,2.8,0.0004,422,18.9,0.0006
-Frozen Novelties_Water Ice,"Cups/Push Ups/Other [FrozenNovelties]",479,2.8,0.0004,661,9.6,0.0003
+Frozen Novelties_Water Ice,"Cups/Push Ups/Other [Frozen
+Novelties]",479,2.8,0.0004,661,9.6,0.0003
 Refrigerated Hispanic Grocery,Refrigerated Tortillas,480,2.8,0.0004,669,9.4,0.0003
 Frzn Prepared Chicken,Whole Muscle Unbreaded Chicken,481,2.8,0.0004,555,12.8,0.0004
 Meat _ Shelf Stable,Luncheon Meat (Spam),482,2.8,0.0004,693,8.9,0.0003
@@ -718,7 +721,8 @@ Bread,Bread:Sweet/Breakfast,716,1.3,0.0002,707,8.4,0.0003
 Bulk Food,Trail Mix/Nuts Bulk,717,1.3,0.0002,441,18,0.0006
 Service Case Meat,Seasoned Pork,718,1.3,0.0002,744,7.3,0.0002
 Refrigerated Vegetarian,Vegetarian Meats,719,1.3,0.0002,625,10.4,0.0003
-Candy _ Packaged,"Seasonal Miscellaneous W/Flour[Candy]",720,1.2,0.0002,754,7.1,0.0002
+Candy _ Packaged,"Seasonal Miscellaneous W/Flour
+[Candy]",720,1.2,0.0002,754,7.1,0.0002
 Teas,Tea Bags/Green,721,1.2,0.0002,604,11.2,0.0004
 Chicken Specialty/Natural,Chicken Wings,722,1.2,0.0002,1111,2.1,0.0001
 Refrgrated Dough Products,Refrigerated Breads,723,1.2,0.0002,634,10.2,0.0003
@@ -937,7 +941,7 @@ Vegetables Salad,Spinach Bulk,935,0.5,0.0001,883,4.8,0.0002
 Infant Formula,Infant Formula Milk Base,936,0.5,0.0001,1455,0.3,0
 Seafood _ Salad/Dip/Sce/Cond,Dips/Spreads,937,0.5,0.0001,1069,2.5,0.0001
 Authentic Hispanic Fds&Product,Hispanic Baking Needs,938,0.5,0.0001,1233,1.3,0
-Baking Needs,Marshmallow Crème,939,0.5,0.0001,977,3.5,0.0001
+Baking Needs,Marshmallow Cr¬ème,939,0.5,0.0001,977,3.5,0.0001
 Buffalo,Grinds [Buffalo],940,0.5,0.0001,712,8.3,0.0003
 Baking Needs,Yeast: Dry,941,0.5,0.0001,816,5.9,0.0002
 Lamb,Round/Leg [Lamb],942,0.5,0.0001,936,4.2,0.0001
