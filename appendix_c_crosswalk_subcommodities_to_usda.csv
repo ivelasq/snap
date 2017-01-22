@@ -20,9 +20,12 @@ Cheese,Natural Cheese Random Wt,Dairy,,,
 Cheese,Natural Cheese Slices,Dairy,,,
 Cheese,Shredded Cheese,Dairy,,,
 Cheese,String Cheese,Dairy,,,
-"Crackers & Misc BakedFood",Aerosol Cheese,Dairy,,,
-"Cubes/PrepackageCheese",Cubes Cheese,Dairy,,,
-"Cubes/PrepackageCheese",Prepackage Cheese,Dairy,,,
+"Crackers & Misc Baked
+Food",Aerosol Cheese,Dairy,,,
+"Cubes/Prepackage
+Cheese",Cubes Cheese,Dairy,,,
+"Cubes/Prepackage
+Cheese",Prepackage Cheese,Dairy,,,
  Dry Cheese                               ,Grated Cheese                                                                                        ,Dairy                                                                                                                          ,,,
 Dry Cheese,Loaf Cheese,Dairy,,,
 Dry Cheese,Misc Dry Cheese,Dairy,,,
@@ -38,15 +41,19 @@ Milk By_Products,Cottage Cheese,Dairy,,,
 Milk By_Products,Ricotta Cheese,Dairy,,,
 Non_Dairy/Dairy Aseptic,Aseptic Milk,Dairy,,,
  Non_Dairy/Dairy Aseptic       ,Soy Beverage                                                                                          ,Dairy                                                                                                                          ,,,
-"Pre_Slice Service CaseCheese",Pre_Sliced Processed [Cheese],Dairy,,,
-"Pre_Slice Service CaseCheese",Pre_Sliced Semi_Hard [Cheese],Dairy,,,
-"Pre_Slice Service CaseCheese",Pre_Sliced Semi_Soft [Cheese],Dairy,,,
+"Pre_Slice Service Case
+Cheese",Pre_Sliced Processed [Cheese],Dairy,,,
+"Pre_Slice Service Case
+Cheese",Pre_Sliced Semi_Hard [Cheese],Dairy,,,
+"Pre_Slice Service Case
+Cheese",Pre_Sliced Semi_Soft [Cheese],Dairy,,,
 Refrigerated Dairy Case,Cheese Spreads,Dairy,,,
 Refrigerated Dairy Case,Dairy Cheese,Dairy,,,
  Refrigerated Dairy Case         ,Fluid Milk                                                                                                 ,Dairy                                                                                                                          ,,,
 Refrigerated Dairy Case,Kefir,Dairy,,,
  Refrigerated Dairy Case         ,Yogurt                                                                                                      ,Dairy                                                                                                                          ,,,
-"Refrigerated HispanicGrocery",Hispanic Cheese,Dairy,,,
+"Refrigerated Hispanic
+Grocery",Hispanic Cheese,Dairy,,,
  Service Beverage                    ,Sv Bev: Milk/Milk Products                                                                  ,Dairy                                                                                                                          ,,,
 Specialty Bulk Cheese,Specialty Bulk Cheese Blue,Dairy,,,
 Specialty Bulk Cheese,Specialty Bulk Cheese Cheddar,Dairy,,,
@@ -82,7 +89,8 @@ Specialty Cheese Pre Pack,Specialty Ppk Cheese Soft&Ripe,Dairy,,,
 Specialty Cheese Pre Pack,Specialty Ppk Cheese Spreads,Dairy,,,
 Specialty Cheese Pre Pack,Specialty Ppk Cheese Swiss,Dairy,,,
 Specialty Cheese Pre Pack,Specialty Ppk Cheese: Smallwar,Dairy,,,
-"Traditional MexicanFoods",Mexican Con Queso,Dairy,,,
+"Traditional Mexican
+Foods",Mexican Con Queso,Dairy,,,
  Yogurt                                       ,Yogurt/Adult Drinks                                                                               ,Dairy                                                                                                                          ,,,
 Yogurt,Yogurt/Adult Multi_Packs,Dairy,,,
 Yogurt,Yogurt/Kids,Dairy,,,
@@ -109,7 +117,8 @@ Apples,Apples Red Delicious (Bulk&Bag),Fruit,,,
 Apples,Apples Red Delicious (Bulk&Bag),Fruit,,,
  Apples                                       ,Caramel/Candy Apples                                                                         ,Fruit                                                                                                                           ,,,
 Apples,Mixed Fruit Bags,Fruit,,,
-"Authentic HispanicFoods&Products",Hispanic Juices Over 50% Juice,Fruit,,,
+"Authentic Hispanic
+Foods&Products",Hispanic Juices Over 50% Juice,Fruit,,,
 Baking Needs,Maraschino Cherries,Fruit,,,
 Bananas,Bananas,Fruit,,,
 Bananas,Bananas Organic,Fruit,,,
@@ -172,8 +181,10 @@ Dried Fruit,Glace Fruit,Fruit,,,
  Dried Fruit                                ,Raisins                                                                                                      ,Fruit                                                                                                                           ,,,
 Frozen Breakfast,Juice Over 50% Juice,Fruit,,,
 Frozen Fruits,Frozen Fruit,Fruit,,,
-"Frozen Juice AndSmoothies",Frzn Conc Allieds Over 50% Juice,Fruit,,,
-"Frozen Juice AndSmoothies",Frozen Oj&Oj Substitutes,Fruit,,,
+"Frozen Juice And
+Smoothies",Frzn Conc Allieds Over 50% Juice,Fruit,,,
+"Frozen Juice And
+Smoothies",Frozen Oj&Oj Substitutes,Fruit,,,
 Fruit Snacks,Fruit Snacks,Fruit,,,
  Gift & Fruit Baskets                ,Fruit Baskets                                                                                           ,Fruit                                                                                                                           ,,,
 Gift & Fruit Baskets,In Store Made Fruit Baskets,Fruit,,,
@@ -207,7 +218,8 @@ Melons,Watermelon Seedless Whole Organic,Fruit,,,
 Melons,Watermelon W/Seeds Whole,Fruit,,,
  Packaged Natural Snacks      ,Dried Fruit                                                                                               ,Fruit                                                                                                                           ,,,
 Packaged Natural Snacks,Dried Fruit W/Sweetener,Fruit,,,
-"PeanutButter/Jelly/Jams&Honey",Apple Butter/Fruit Butter,Fruit,,,
+"Peanut
+Butter/Jelly/Jams&Honey",Apple Butter/Fruit Butter,Fruit,,,
 Pears,Pears Anjou,Fruit,,,
  Pears                                         ,Pears Anjou Organic                                                                              ,Fruit                                                                                                                           ,,,
 Pears,Pears Asian,Fruit,,,
@@ -246,9 +258,12 @@ Shelf Stable Juice,Other Citrus Juices (50% And Under Juice),Fruit,,,
 Shelf Stable Juice,Other Citrus Juices (Over 50% Juice),Fruit,,,
 Shelf Stable Juice,Pineapple Juice (Over 50% Juice),Fruit,,,
 Shelf Stable Juice,Prune Juice (Over 50% Juice),Fruit,,,
-"Single ServeFruit/Applesauce",Applesauce Cup,Fruit,,,
-"Single ServeFruit/Applesauce",Applesauce Pouch,Fruit,,,
-"Single ServeFruit/Applesauce",Fruit Cup,Fruit,,,
+"Single Serve
+Fruit/Applesauce",Applesauce Cup,Fruit,,,
+"Single Serve
+Fruit/Applesauce",Applesauce Pouch,Fruit,,,
+"Single Serve
+Fruit/Applesauce",Fruit Cup,Fruit,,,
  Stone Fruit                               ,Apricots                                                                                                   ,Fruit                                                                                                                           ,,,
 Stone Fruit,Cherries Ranier,Fruit,,,
 Stone Fruit,Cherries Red,Fruit,,,
@@ -283,9 +298,11 @@ Value Added Fruit,Melon Halves/Quarters Prepack,Fruit,,,
 Value Added Fruit,Melons Instore Cut,Fruit,,,
 Value Added Fruit,Pineapple Wedge/Sliced/Chunks,Fruit,,,
 Value Added Fruit,Value Added Fruit Organic,Fruit,,,
-"Authentic HispanicFds&Product",Hispanic Tostados & Tortillas,Grains,,,
+"Authentic Hispanic
+Fds&Product",Hispanic Tostados & Tortillas,Grains,,,
 Bag Snacks,Bagged Popped Popcorn,Grains,,,
-Bag Snacks,"Bagged Popped PopcornW/Sweetener",Grains,,,
+Bag Snacks,"Bagged Popped Popcorn
+W/Sweetener",Grains,,,
 Bag Snacks,Corn Chips,Grains,,,
  Bag Snacks                               ,Pretzel W/Sweetner                                                                              ,Grains                                                                                                                        ,,,
 Bag Snacks,Pretzels,Grains,,,
@@ -334,10 +351,17 @@ Cereals,Cereal _ Cold,Grains,,,
 Cereals,Cereal _ Hot,Grains,,,
 Cereals,Grains,Grains,,,
  Cereals                                      ,Granola                                                                                                    ,Grains                                                                                                                        ,,,
-"CnvBreakfast&WholesomeSnks",Cereal Bars,Grains,,,
-"CnvBreakfast&WholesomeSnks",Granola Bars,Grains,,,
-"CnvBreakfast&WholesomeSnks",Toaster Pastries,Grains,,,
-"Coffee Shop Sweet Goods& Rtl",Coffee Shop: Bagged Snacks,Grains,,,
+"Cnv
+Breakfast&Wholesome
+Snks",Cereal Bars,Grains,,,
+"Cnv
+Breakfast&Wholesome
+Snks",Granola Bars,Grains,,,
+"Cnv
+Breakfast&Wholesome
+Snks",Toaster Pastries,Grains,,,
+"Coffee Shop Sweet Goods
+& Rtl",Coffee Shop: Bagged Snacks,Grains,,,
 Cold Cereal,Adult Cereal,Grains,,,
 Cold Cereal,All Family Cereal,Grains,,,
 Cold Cereal,Kids Cereal,Grains,,,
@@ -345,16 +369,22 @@ Cold Cereal,Kids Cereal,Grains,,,
 Cookie/Cracker Multi_Pks,Multi_Pack Crackers,Grains,,,
 Cookies,Graham Crackers,Grains,,,
 Crackers,Crackers,Grains,,,
-"Crackers & Misc BakedFood",Butter Spray Cracker,Grains,,,
-"Crackers & Misc BakedFood",Cheese Crackers,Grains,,,
-"Crackers & Misc BakedFood",Saltine/Oyster,Grains,,,
-"Crackers & Misc BakedFood",Snack Crackers,Grains,,,
-"Crackers & Misc BakedFood",Specialty Crackers,Grains,,,
+"Crackers & Misc Baked
+Food",Butter Spray Cracker,Grains,,,
+"Crackers & Misc Baked
+Food",Cheese Crackers,Grains,,,
+"Crackers & Misc Baked
+Food",Saltine/Oyster,Grains,,,
+"Crackers & Misc Baked
+Food",Snack Crackers,Grains,,,
+"Crackers & Misc Baked
+Food",Specialty Crackers,Grains,,,
 Croutons/Bread Stick&Salad Toppings,Bread Sticks,Grains,,,
 Croutons/Bread Stick&Salad Toppings,Croutons,Grains,,,
 Croutons/Bread Stick&Salad Toppings,Salad Toppers,Grains,,,
 Deli Specialties (Retail Pk),Dl Spec: Dry/Refrig Pastas,Grains,,,
-"Dietary Aid Prdct/Med LiqNutr",Diabetic Dry Cereal,Grains,,,
+"Dietary Aid Prdct/Med Liq
+Nutr",Diabetic Dry Cereal,Grains,,,
 Dinner Mixes_Dry,Pizza Mix Dry,Grains,,,
 Dry Bean Veg&Rice,Misc Grain Mixes,Grains,,,
 Dry Bean Veg&Rice,Noodle Side Dish Mixes,Grains,,,
@@ -372,11 +402,16 @@ Flour & Meals,Breadings/Coatings/Crumbs,Grains,,,
 Flour & Meals,Cornmeal,Grains,,,
 Flour & Meals,Flour: Misc/Specialty/Blend Et,Grains,,,
  Flour & Meals                          ,Flour: White & Self Rising                                                                     ,Grains                                                                                                                        ,,,
-"Frozen Bread AndDesserts",Allergen Free [Frozen Bread],Grains,,,
-"Frozen Bread AndDesserts",Breads,Grains,,,
-"Frozen Bread AndDesserts",Muffins/Bagels,Grains,,,
-"Frozen Bread AndDesserts",Rolls,Grains,,,
-"Frozen Bread AndDesserts",Sprouted Breads,Grains,,,
+"Frozen Bread And
+Desserts",Allergen Free [Frozen Bread],Grains,,,
+"Frozen Bread And
+Desserts",Breads,Grains,,,
+"Frozen Bread And
+Desserts",Muffins/Bagels,Grains,,,
+"Frozen Bread And
+Desserts",Rolls,Grains,,,
+"Frozen Bread And
+Desserts",Sprouted Breads,Grains,,,
  Frozen Bread/Dough              ,Frzn Biscuits                                                                                            ,Grains                                                                                                                        ,,,
 Frozen Bread/Dough,Frzn Bread Dough,Grains,,,
 Frozen Bread/Dough,Frzn Breadsticks,Grains,,,
@@ -395,10 +430,13 @@ Hot Cereal,Grits,Grains,,,
 Hot Cereal,Instant Oatmeal,Grains,,,
  Hot Cereal                                ,Other Hot Cereal                                                                                    ,Grains                                                                                                                        ,,,
 Hot Cereal,Standard Oatmeal,Grains,,,
-"Kosher Foods AndProducts",Kosher Matzas,Grains,,,
-"Kosher Foods AndProducts",Kosher Noodles And Rice,Grains,,,
+"Kosher Foods And
+Products",Kosher Matzas,Grains,,,
+"Kosher Foods And
+Products",Kosher Noodles And Rice,Grains,,,
  Meat _ Shelf Stable                 ,Tamales                                                                                                   ,Grains                                                                                                                        ,,,
-"Molasses/Syrups/PancakeMixes",Pancake Mixes,Grains,,,
+"Molasses/Syrups/Pancake
+Mixes",Pancake Mixes,Grains,,,
 Multicultural Products,Rice Bulk/Bag,Grains,,,
 Non_Dairy/Dairy Aseptic,Rice Beverage,Grains,,,
  Pies                                            ,Pies: Sugar Free                                                                                      ,Grains                                                                                                                        ,,,
@@ -407,12 +445,18 @@ Popcorn,Popcorn _ Microwave,Grains,,,
 Popcorn,Popcorn _ Other,Grains,,,
 Prepared/Pdgd Foods,Grains,Grains,,,
 Prepared/Pdgd Foods,Pasta/Ramen,Grains,,,
-"Refrgrated DoughProducts",Misc Refrig Dough Products,Grains,,,
-"Refrgrated DoughProducts",Refrigerated Biscuits,Grains,,,
-"Refrgrated DoughProducts",Refrigerated Breads,Grains,,,
-"Refrgrated DoughProducts",Refrigerated Crescent Rolls,Grains,,,
-"Refrgrated DoughProducts",Refrigerated Specialty Rolls,Grains,,,
-"Refrigerated HispanicGrocery",Refrigerated Tortillas,Grains,,,
+"Refrgrated Dough
+Products",Misc Refrig Dough Products,Grains,,,
+"Refrgrated Dough
+Products",Refrigerated Biscuits,Grains,,,
+"Refrgrated Dough
+Products",Refrigerated Breads,Grains,,,
+"Refrgrated Dough
+Products",Refrigerated Crescent Rolls,Grains,,,
+"Refrgrated Dough
+Products",Refrigerated Specialty Rolls,Grains,,,
+"Refrigerated Hispanic
+Grocery",Refrigerated Tortillas,Grains,,,
  Refrigerated Italian                ,Refrigerated Pasta                                                                                 ,Grains                                                                                                                        ,,,
 Rice Cakes,Large _ Rice Cakes,Grains,,,
  Rice Cakes                                ,Large Cakes                                                                                             ,Grains                                                                                                                        ,,,
@@ -430,7 +474,8 @@ Rolls,Rolls: Sandwich,Grains,,,
 Salad & Dips,Pasta/Grain Salads _ Bulk,Grains,,,
 Salad & Dips,Pasta/Grain Salads _ Prepack,Grains,,,
  Salad Toppings                        ,Croutons Organic                                                                                   ,Grains                                                                                                                        ,,,
-"Seafood _Salad/Dip/Sce/Cond",Breading,Grains,,,
+"Seafood _
+Salad/Dip/Sce/Cond",Breading,Grains,,,
  Snack                                        ,Popcorn                                                                                                   ,Grains                                                                                                                        ,,,
 Snack,Popcorn W/Sweetener,Grains,,,
  Snack                                        ,Tortilla Chips                                                                                           ,Grains                                                                                                                        ,,,
@@ -439,477 +484,979 @@ Snacks,Snacks:Bagel Chips,Grains,,,
 Snacks,Snacks:Pita Chips,Grains,,,
  Snacks                                       ,Snacks:Tortilla Chips                                                                             ,Grains                                                                                                                        ,,,
 Specialty Cheese Pre Pack,Gourmet Crackers,Grains,,,
-"Ss/Vending _Cookie/Cracker",Vending Size/Sngl Serve Cracke,Grains,,,
+"Ss/Vending _
+Cookie/Cracker",Vending Size/Sngl Serve Cracke,Grains,,,
 Syrups Toppings & Cones,Cones [Frozen Novelties],Grains,,,
  Traditional Asian Foods         ,Asian Noodles/Rice                                                                               ,Grains                                                                                                                        ,,,
-"Traditional MexicanFoods",Mexican Soft Tortillas And Wra,Grains,,,
-"Traditional MexicanFoods",Mexican Taco/Tostado/Shells,Grains,,,
+"Traditional Mexican
+Foods",Mexican Soft Tortillas And Wra,Grains,,,
+"Traditional Mexican
+Foods",Mexican Taco/Tostado/Shells,Grains,,,
 Unknown,Frozen Bread,Grains,,,
 Unknown,Frozen Convenience/Pockets,Grains,,,
-Bacon,Bacon _ Natural/Organic,"ProteinFoods",,,
-Bacon,Bacon _ Other,"ProteinFoods",,,
-Bacon,Bacon _ Poultry,"ProteinFoods",,,
-Bacon,Bacon _ Pre_Cooked,"ProteinFoods",,,
-Bacon,Bacon _ Trad 16oz Or Less,"ProteinFoods",,,
-Bacon,Bacon _ Trad Center Cut,"ProteinFoods",,,
-Bacon,Bacon _ Trad Greater Than 16oz,"ProteinFoods",,,
-Baking Needs,Baking Nuts,"ProteinFoods",,,
-Beef:Chuck/Shoulder,Choice Beef,"ProteinFoods",,,
-Beef:Chuck/Shoulder,Natural Beef,"ProteinFoods",,,
-Beef:Chuck/Shoulder,Organic Beef,"ProteinFoods",,,
-Beef:Grinds,Angus [Beef],"ProteinFoods",,,
-Beef:Grinds,Lean [Beef],"ProteinFoods",,,
-Beef:Grinds,Natural [Beef],"ProteinFoods",,,
-Beef:Grinds,Organic [Beef],"ProteinFoods",,,
-Beef:Grinds,Patties [Beef],"ProteinFoods",,,
-Beef:Grinds,Primal [Beef],"ProteinFoods",,,
-Beef:Grinds,Sausage [Beef],"ProteinFoods",,,
-Beef:Loins,Choice Beef,"ProteinFoods",,,
-Beef:Loins,Select Beef,"ProteinFoods",,,
-Beef:Offal,External [Beef Offal],"ProteinFoods",,,
-Beef:Rib,Angus Beef,"ProteinFoods",,,
-Beef:Rib,Prime Beef,"ProteinFoods",,,
-Beef:Round,Angus Beef,"ProteinFoods",,,
-Beef:Round,Choice Beef,"ProteinFoods",,,
-Beef:Round,Natural Beef,"ProteinFoods",,,
-Beef:Round,Organic Beef,"ProteinFoods",,,
-Beef:Round,Prime Beef,"ProteinFoods",,,
-Beef:Round,Select Beef,"ProteinFoods",,,
-Beef:Thin Meats,Brisket,"ProteinFoods",,,
-Beef:Thin Meats,Corned Beef,"ProteinFoods",,,
-Beef:Thin Meats,Cubed Meats [Beef],"ProteinFoods",,,
-Beef:Thin Meats,Flank [Beef],"ProteinFoods",,,
-Beef:Thin Meats,Lifter Meat [Beef],"ProteinFoods",,,
-Beef:Thin Meats,Skirt [Beef],"ProteinFoods",,,
-Beef:Thin Meats,Soup/Stew,"ProteinFoods",,,
-Breakfast Sausage,Bkfst Sausage _ Bkfast Side Di,"ProteinFoods",,,
-Breakfast Sausage,Bkfst Sausage _ Fresh Links,"ProteinFoods",,,
-Breakfast Sausage,Bkfst Sausage _ Fresh Patties,"ProteinFoods",,,
-Breakfast Sausage,Bkfst Sausage _ Fresh Rolls,"ProteinFoods",,,
-Breakfast Sausage,Bkfst Sausage _ Other Forms,"ProteinFoods",,,
-Breakfast Sausage,Bkfst Sausage _ Precooked,"ProteinFoods",,,
-Buffalo,Chuck/Shoulder [Buffalo],"ProteinFoods",,,
-Buffalo,Grinds [Buffalo],"ProteinFoods",,,
-Buffalo,Loin [Buffalo],"ProteinFoods",,,
-Buffalo,Natural [Buffalo],"ProteinFoods",,,
-Buffalo,Rib [Buffalo],"ProteinFoods",,,
-Buffalo,Round/Leg [Buffalo],"ProteinFoods",,,
-Buffalo,Thin Meats [Buffalo],"ProteinFoods",,,
-Bulk Food,Nuts Bulk W/Sweetener,"ProteinFoods",,,
-Bulk Food,Trail Mix/Nuts Bulk,"ProteinFoods",,,
-Can Beans,Prepared Beans _ Baked W/Pork,"ProteinFoods",,,
-Can Beans,Variety Beans _ Kidney/Pinto/E,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Anchovies,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Caviar,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Clam Juice,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Clams,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Crabmeat,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Kipper Snack,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Mackerel,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Misc.Cnd Seafoods (Crab/Etc),"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Oysters,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Salmon,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Sardines,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Shrimp,"ProteinFoods",,,
-Can Seafood _ Shelf Stable,Tuna,"ProteinFoods",,,
-Chicken & Poultry,Chix/Poultry Ingredients,"ProteinFoods",,,
-Chicken & Poultry,Chix: Baked 8pc Cut Up (Cold),"ProteinFoods",,,
-Chicken & Poultry,Chix: Chicken Dinners/Snacks C,"ProteinFoods",,,
-Chicken & Poultry,Chix: Chicken Dinners/Snacks H,"ProteinFoods",,,
-Chicken & Poultry,Chix: Kosher (Cold),"ProteinFoods",,,
-Chicken & Poultry,Chix: Rotisserie Cold,"ProteinFoods",,,
-Chicken & Poultry,Chix:Frd 8pc/Cut Up (Cold),"ProteinFoods",,,
-Chicken & Poultry,Chix:Value Added (Cold),"ProteinFoods",,,
-Chicken Fresh,Chicken Breast Boneless,"ProteinFoods",,,
-Chicken Fresh,Chicken Drums,"ProteinFoods",,,
-Chicken Fresh,Chicken Legs/Quarters,"ProteinFoods",,,
-Chicken Fresh,Chicken Thighs,"ProteinFoods",,,
-Chicken Fresh,Chicken Wings,"ProteinFoods",,,
-Chicken Fresh,Mixed Packs,"ProteinFoods",,,
-Chicken Fresh,Whole Chicken (Roasters/Fryer),"ProteinFoods",,,
-Chicken Frozen,Chicken_Frz Iqf_Raw,"ProteinFoods",,,
-Chicken Frozen,Frzn Chicken _ Drk Meat,"ProteinFoods",,,
-Chicken Frozen,Frzn Chicken _ Wht Meat,"ProteinFoods",,,
-Chicken Frozen,Frzn Chicken _ Wings,"ProteinFoods",,,
-Chicken Frozen,Whole/Cutup [Chicken],"ProteinFoods",,,
-Chicken Frozen (Rw),Chicken Breast Bone In,"ProteinFoods",,,
-Chicken Frozen (Rw),Chicken Breast Boneless,"ProteinFoods",,,
-Chicken Frozen (Rw),Chicken Drums,"ProteinFoods",,,
-Chicken Frozen (Rw),Chicken Legs/Quarters,"ProteinFoods",,,
-Chicken Frozen (Rw),Chicken Thighs,"ProteinFoods",,,
-Chicken Frozen (Rw),Chicken Wings,"ProteinFoods",,,
-Chicken Frozen (Rw),Whole Chicken (Roasters/Fryer),"ProteinFoods",,,
-Chicken Grinds,Ground Chicken,"ProteinFoods",,,
-Chicken Offal,External [Chicken Offal],"ProteinFoods",,,
-Chicken Offal,Internal [Chicken Offal],"ProteinFoods",,,
-Chicken Organic,Chicken Breast Bone In,"ProteinFoods",,,
-Chicken Smoked,Chicken Breast Bone In,"ProteinFoods",,,
-Chicken Specialty/Natural,Chicken Breast Bone In,"ProteinFoods",,,
-Chicken Specialty/Natural,Chicken Breast Boneless,"ProteinFoods",,,
-Chicken Specialty/Natural,Chicken Drums,"ProteinFoods",,,
-Chicken Specialty/Natural,Chicken Legs/Quarters,"ProteinFoods",,,
-Chicken Specialty/Natural,Chicken Thighs,"ProteinFoods",,,
-Chicken Specialty/Natural,Chicken Wings,"ProteinFoods",,,
-Chicken Specialty/Natural,Mixed Packs [Chicken],"ProteinFoods",,,
-Chicken Specialty/Natural,Whole Chicken (Roasters/Fryer),"ProteinFoods",,,
-Condiments,Nut Butters/Peanut Butter,"ProteinFoods",,,
-Deli Meat: Bulk,Bologna/Loaves/Franks,"ProteinFoods",,,
-Deli Meat: Bulk,Meat Bulk: Specialty Dry Meats,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Bacon,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Beef Bulk,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Chicken Bulk,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Gift Pack,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Ham Ppk/Prslc,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Pates/Mousse,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Saus Dry Ppk/Prslc,"ProteinFoods",,,
-Deli Meat: Bulk,Meat: Turkey Bulk,"ProteinFoods",,,
-Deli Meat: Bulk,Meat:Ham Bulk,"ProteinFoods",,,
-Deli Meat: Bulk,Meat:Lnchmt Ppk/Prslc,"ProteinFoods",,,
-Deli Meat: Other,Deli Meat: Bacon,"ProteinFoods",,,
-Deli Meat: Other,Deli Meat: Kosher,"ProteinFoods",,,
-Deli Meat: Other,Deli Meat: Pates/Mousse,"ProteinFoods",,,
-Deli Meat: Other,Deli Meat: Shippers/Gift Packs,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Beef,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Bologna/Loaves/Fran,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Chicken,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Ham,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Semi_Dry Sausage,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Specialty Dry Meats,"ProteinFoods",,,
-Deli Meat: Presliced,Deli Meat: Turkey,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Beef Rope Ckd/Sm,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Cocktails,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Fresh Poultry,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Links Beef Ckd,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Links Fresh,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Links Pork Ckd,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Links Poultry Ck,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Natural/Organic,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Other Forms,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Pork Rope Ckd/Sm,"ProteinFoods",,,
-Dinner Sausage,Dnr Sausage _ Poultry Rope Ckd,"ProteinFoods",,,
-Dinner Sausage,Dnr Saus_Rope/Link_Smkd/Preckd,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Eggs _ Jumbo,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Eggs _ Large,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Eggs _ Medium,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Eggs _ Small,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Eggs _ X_Large,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Eggs Substitute,"ProteinFoods",,,
-Eggs/Muffins/Potatoes,Specialty Eggs,"ProteinFoods",,,
-Exotic,Goat,"ProteinFoods",,,
-Exotic,Rabbit,"ProteinFoods",,,
-Frozen Breakfast Foods,Frzn Breakfast Sausage,"ProteinFoods",,,
-Frozen Breakfast Foods,Frzn Egg Substitutes,"ProteinFoods",,,
-Frozen Entrees,Meat Protein,"ProteinFoods",,,
-Frozen Meat,Frozen Meat,"ProteinFoods",,,
-Frozen Meat Alternatives,Meat,"ProteinFoods",,,
-Frozen Meat Alternatives,Soy/Tofu,"ProteinFoods",,,
-Frzn Multi Serve,Frzn Burgers,"ProteinFoods",,,
-Frzn Multi Serve,Fz Bbq,"ProteinFoods",,,
-Frzn Multi Serve,Fz Meatballs,"ProteinFoods",,,
-Frzn Prepared Chicken,Bone_In Wings,"ProteinFoods",,,
-Frzn Prepared Chicken,Boneless Snack/18oz And Larger,"ProteinFoods",,,
-Frzn Prepared Chicken,Boneless Snack/Value/Small,"ProteinFoods",,,
-Frzn Prepared Chicken,Value Forms/ 18oz And Larger [Chicken],"ProteinFoods",,,
-Frzn Prepared Chicken,Whole Muscle Breaded/ 18oz And,"ProteinFoods",,,
-Frzn Prepared Chicken,Whole Muscle Unbreaded,"ProteinFoods",,,
-Frzn Seafood,Frz Coated Fish Fillets,"ProteinFoods",,,
-Frzn Seafood,Frz Fishsticks/Tenders/Nuggets,"ProteinFoods",,,
-Frzn Seafood,Frz Non_Coated Fish Fillets,"ProteinFoods",,,
-Frzn Seafood,Frz Seafood Entrees,"ProteinFoods",,,
-Frzn Seafood,Frzn Misc Seafood,"ProteinFoods",,,
-Hot Dogs,Hot Dogs _ Base Beef,"ProteinFoods",,,
-Hot Dogs,Hot Dogs _ Base Meat,"ProteinFoods",,,
-Hot Dogs,Hot Dogs _ Base Poultry,"ProteinFoods",,,
-Hot Dogs,Hot Dogs _ Premium,"ProteinFoods",,,
-Hot Dogs,Hot Dogs_Rw_All,"ProteinFoods",,,
-Kosher,Beef,"ProteinFoods",,,
-Kosher,Chicken,"ProteinFoods",,,
-Kosher,Lamb,"ProteinFoods",,,
-Kosher,Turkey,"ProteinFoods",,,
-Kosher,Veal,"ProteinFoods",,,
-"Kosher Foods AndProducts",Kosher Seafood,"ProteinFoods",,,
-Lamb,Chuck/Shoulder [Lamb],"ProteinFoods",,,
-Lamb,Grinds [Lamb],"ProteinFoods",,,
-Lamb,Loin [Lamb],"ProteinFoods",,,
-Lamb,Offals [Lamb],"ProteinFoods",,,
-Lamb,Rib [Lamb],"ProteinFoods",,,
-Lamb,Round/Leg [Lamb],"ProteinFoods",,,
-Lamb,Thin Meats [Lamb],"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Brauns/Liver/Loave,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Chip Meat,"ProteinFoods",,,
-Lunchmeat,"Lunchmeat _ Chop/FormPltry&Ha","ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Other,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Peggable Deli Fres,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Variety Pack,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Whole Muscle Pltry,"ProteinFoods",,,
-Lunchmeat,Lunchmeat_Rw_All,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Bologna/Sausage,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Deli Fresh,"ProteinFoods",,,
-Lunchmeat,Lunchmeat _ Natural/Organic,"ProteinFoods",,,
-Meat _ Shelf Stable,Beef Stew,"ProteinFoods",,,
-Meat _ Shelf Stable,Beef/Pork _ Dried Sliced W/Gra,"ProteinFoods",,,
-Meat _ Shelf Stable,Chicken & Dumplings,"ProteinFoods",,,
-Meat _ Shelf Stable,Chili: Canned,"ProteinFoods",,,
-Meat _ Shelf Stable,Chunk Meats _ Chix/Ham/Etc,"ProteinFoods",,,
-Meat _ Shelf Stable,Corn Beef,"ProteinFoods",,,
-Meat _ Shelf Stable,Hash: Canned,"ProteinFoods",,,
-Meat _ Shelf Stable,Hot Dog Chili Sauce,"ProteinFoods",,,
-Meat _ Shelf Stable,Luncheon Meat (Spam),"ProteinFoods",,,
-Meat _ Shelf Stable,Misc Cnd Meats,"ProteinFoods",,,
-Meat _ Shelf Stable,Potted Meats And Spreads,"ProteinFoods",,,
-Meat _ Shelf Stable,Sandwich Sauce (Manwich),"ProteinFoods",,,
-Meat _ Shelf Stable,Vienna Sausage,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Beef,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Breakfast Sausage,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Exotic,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Natural/Organic,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Offals,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Pork,"ProteinFoods",,,
-Meat Frozen,Frzn Meat _ Turkey,"ProteinFoods",,,
-Meat Frozen,Meat_Misc_Misc,"ProteinFoods",,,
-Meat Snacks,Jerky/Nuggets/Tenders,"ProteinFoods",,,
-Meat Snacks,Meat Sticks/Bites,"ProteinFoods",,,
-"Nat Foods_RefrigeratedMeat",Ntrn Refrig Meat: Breakfast Me,"ProteinFoods",,,
-"Nat Foods_RefrigeratedMeat",Ntrn Refrig Meat: Hot Dogs/Sau,"ProteinFoods",,,
-"Nat Foods_RefrigeratedMeat",Ntrn Refrig Meat: Lunchmeat,"ProteinFoods",,,
-Non_Dairy/Dairy Aseptic,Nut Milk,"ProteinFoods",,,
-Nuts,Almonds,"ProteinFoods",,,
-Nuts,Almonds Shelled,"ProteinFoods",,,
-Nuts,Almonds W/Sweetener,"ProteinFoods",,,
-Nuts,Cashews,"ProteinFoods",,,
-Nuts,Cashews W/Sweetener,"ProteinFoods",,,
-Nuts,Dry Roast Peanuts,"ProteinFoods",,,
-Nuts,Dry Roast Peanuts W/Sweetener,"ProteinFoods",,,
-Nuts,Misc Snack Nuts,"ProteinFoods",,,
-Nuts,Misc Snacks Nuts W/Sweetener,"ProteinFoods",,,
-Nuts,Mixed Nuts,"ProteinFoods",,,
-Nuts,Mixed Nuts W/Sweetener,"ProteinFoods",,,
-Nuts,Nuts Inshell,"ProteinFoods",,,
-Nuts,Nuts Other,"ProteinFoods",,,
-Nuts,Nuts Other Organic,"ProteinFoods",,,
-Nuts,Nuts Sugar Coated All,"ProteinFoods",,,
-Nuts,Oil Roast Peanuts,"ProteinFoods",,,
-Nuts,Oil Roast Peanuts W/Sweetener,"ProteinFoods",,,
-Nuts,Peanuts All,"ProteinFoods",,,
-Nuts,Pecans Shelled,"ProteinFoods",,,
-Nuts,Pecans W/Sweetener,"ProteinFoods",,,
-Nuts,Pistachios,"ProteinFoods",,,
-Nuts,Sunflower/Other Seeds,"ProteinFoods",,,
-Nuts,"Sunflower/Other SeedsW/Sweete","ProteinFoods",,,
-Nuts,Trail Mix,"ProteinFoods",,,
-Nuts,Walnuts Shelled,"ProteinFoods",,,
-Packaged Natural Snacks,Nuts,"ProteinFoods",,,
-Packaged Natural Snacks,Nuts W/Sweetener,"ProteinFoods",,,
-"PeanutButter/Jelly/Jams&Honey",Peanut Butter,"ProteinFoods",,,
-Pkgd Meat Corp Use Only,Pkgd Meat Corp Use Only,"ProteinFoods",,,
-Pork Bone In Loin/Rib,Dry [Pork Bone In Loin/Rib],"ProteinFoods",,,
-Pork Boneless Loin/Rib,Enhanced [Pork Boneless Loin/Rib],"ProteinFoods",,,
-Pork Boneless Loin/Rib,Natural [Pork Boneless Loin/Rib],"ProteinFoods",,,
-Pork Grinds,Ground Pork,"ProteinFoods",,,
-Pork Offal,External Fresh [Pork Offal],"ProteinFoods",,,
-Pork Offal,Internal Fresh [Pork Offal],"ProteinFoods",,,
-Pork Shoulder,Butts [Pork Shoulder],"ProteinFoods",,,
-Pork Shoulder,Fresh Hams,"ProteinFoods",,,
-Pork Thin Meats,Kabobs [Pork],"ProteinFoods",,,
-Pork Thin Meats,Organics [Pork],"ProteinFoods",,,
-Pork Thin Meats,Ribs [Pork],"ProteinFoods",,,
-Pork Thin Meats,Stir Fry/Strips/Fajitas [Pork],"ProteinFoods",,,
-Poultry Other,Capons,"ProteinFoods",,,
-Poultry Other,Cornish Hen,"ProteinFoods",,,
-Poultry Other,Ducks,"ProteinFoods",,,
-Poultry Other,Geese,"ProteinFoods",,,
-Poultry Other,Poultry/Other,"ProteinFoods",,,
-Prepared/Pdgd Foods,Meat _ Can/Pouch,"ProteinFoods",,,
-Processed,Beans Dried,"ProteinFoods",,,
-"Random Weight MeatProducts",Lunch Meats,"ProteinFoods",,,
-Refrigerated Dairy Case,Eggs,"ProteinFoods",,,
-Refrigerated Vegetarian,Non_Dairy Cheese,"ProteinFoods",,,
-Refrigerated Vegetarian,Tofu,"ProteinFoods",,,
-Refrigerated Vegetarian,Vegetarian Meats,"ProteinFoods",,,
-Restricted Diet,Pnut Btr/Jelly,"ProteinFoods",,,
-Salad & Dips,Protein Salads _ Bulk,"ProteinFoods",,,
-Salad & Dips,Protein Salads _ Prepack,"ProteinFoods",,,
-Seafood _ Catfish,Catfish _ Fillet,"ProteinFoods",,,
-Seafood _ Catfish,Catfish _ Nuggets,"ProteinFoods",,,
-Seafood _ Catfish,Catfish _ Other Form,"ProteinFoods",,,
-Seafood _ Catfish,Catfish _ Whole,"ProteinFoods",,,
-Seafood _ Cod,Cod _ Fillet,"ProteinFoods",,,
-Seafood _ Cod,Cod _ Other Form,"ProteinFoods",,,
-Seafood _ Cod,Cod _ Whole,"ProteinFoods",,,
-Seafood _ Crab,Crab _ Dungy,"ProteinFoods",,,
-Seafood _ Crab,Crab _ King,"ProteinFoods",,,
-Seafood _ Crab,Crab _ Other,"ProteinFoods",,,
-Seafood _ Crab,Crab _ Snow,"ProteinFoods",,,
-Seafood _ Exotic,Exotic _ Mahi Mahi,"ProteinFoods",,,
-Seafood _ Exotic,Exotic _ Other,"ProteinFoods",,,
-Seafood _ Exotic,Exotic _ Red Snapper,"ProteinFoods",,,
-Seafood _ Exotic,Exotic _ Shark,"ProteinFoods",,,
-Seafood _ Exotic,Exotic _ Swordfish,"ProteinFoods",,,
-Seafood _ Exotic,Exotic _ Tuna,"ProteinFoods",,,
-Seafood _ Finfish Other,Finfish _ Halibut,"ProteinFoods",,,
-Seafood _ Finfish Other,Finfish _ Other,"ProteinFoods",,,
-Seafood _ Finfish Other,Finfish _ Other,"ProteinFoods",,,
-Seafood _ Finfish Other,Finfish _ Rockfish,"ProteinFoods",,,
-Seafood _ Finfish Other,Finfish _ Sole/Flounder,"ProteinFoods",,,
-Seafood _ Finfish Other,Finfish _ Sole/Flounder,"ProteinFoods",,,
-"Seafood _ ImitationSeafood",Imitation Crab,"ProteinFoods",,,
-"Seafood _ ImitationSeafood",Imitation Other,"ProteinFoods",,,
-"Seafood _ ImitationSeafood",Imitation Shrimp,"ProteinFoods",,,
-Seafood _ Lobster,Lobster _ Live,"ProteinFoods",,,
-Seafood _ Lobster,Lobster _ Meat,"ProteinFoods",,,
-Seafood _ Lobster,Lobster _ Other Form,"ProteinFoods",,,
-Seafood _ Lobster,Lobster _ Tails,"ProteinFoods",,,
-Seafood _ Oyster,Oyster _ Bulk,"ProteinFoods",,,
-Seafood _ Oyster,Oyster _ Cup (Packaged),"ProteinFoods",,,
-Seafood _ Oyster,Oyster _ Cup (Packaged),"ProteinFoods",,,
-Seafood _ Party Trays,Party Tray _ Shrimp,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Salmon Fr _ Altantic,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Salmon Fr _ Other Form,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Salmon Fr _ Atlantic,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Salmon Fr _ Coho,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Salmon Fr _ King,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Seafood_Fre_Catfish,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Seafood_Fre_Misc,"ProteinFoods",,,
-"Seafood _ Salmon_FarmRaised",Seafood_Fre_Raw Finfish_Other,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ Other Form,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ Coho,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ King,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ Pink,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ Silverbrite,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ Silverbrite,"ProteinFoods",,,
-"Seafood _ Salmon_WildCaught",Salmon Wc _ Sockeye,"ProteinFoods",,,
-Seafood _ Scallops,Scallops _ Bay,"ProteinFoods",,,
-Seafood _ Scallops,Scallops _ Sea,"ProteinFoods",,,
-Seafood _ Shellfish Other,Shellfish _ Clams,"ProteinFoods",,,
-Seafood _ Shellfish Other,Shellfish _ Clams,"ProteinFoods",,,
-Seafood _ Shellfish Other,Shellfish _ Mussles,"ProteinFoods",,,
-Seafood _ Shellfish Other,Shellfish _ Other,"ProteinFoods",,,
-Seafood _ Shrimp,Shrimp _ Cooked,"ProteinFoods",,,
-Seafood _ Shrimp,Shrimp _ Natural/Organic,"ProteinFoods",,,
-Seafood _ Shrimp,Shrimp _ Raw,"ProteinFoods",,,
-"Seafood _ SmokedSeafood",Smoked Other,"ProteinFoods",,,
-"Seafood _ SmokedSeafood",Smoked Salmon,"ProteinFoods",,,
-Seafood _ Tilapia,Tilapia _ Fillet,"ProteinFoods",,,
-Seafood _ Tilapia,Tilapia _ Other Form,"ProteinFoods",,,
-Seafood _ Tilapia,Tilapia _ Whole,"ProteinFoods",,,
-Seafood _ Trout,Steelhead Fr,"ProteinFoods",,,
-Seafood _ Trout,Trout _ Fillet,"ProteinFoods",,,
-Seafood _ Trout,Trout _ Whole,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Catfish,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added In_Store Cooked Ho,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Breaded Shrimp,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Crab,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Finfish,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added In_Store Cooked Co,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Kabobs,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Other,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Salmon,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Shrimp,"ProteinFoods",,,
-"Seafood _ Value AddedSeafood",Value Added Tilapia,"ProteinFoods",,,
-"Seafood _Salad/Dips/Sce/Cond",Herring,"ProteinFoods",,,
-Service Case Meat,Cooked,"ProteinFoods",,,
-Service Case Meat,Ingredients,"ProteinFoods",,,
-Service Case Meat,Kabobs Beef,"ProteinFoods",,,
-Service Case Meat,Kabobs Pork,"ProteinFoods",,,
-Service Case Meat,Kabobs Poultry,"ProteinFoods",,,
-Service Case Meat,Marinated Beef,"ProteinFoods",,,
-Service Case Meat,Marinated Pork,"ProteinFoods",,,
-Service Case Meat,Marinated Poultry,"ProteinFoods",,,
-Service Case Meat,Seasoned,"ProteinFoods",,,
-Service Case Meat,Seasoned Beef,"ProteinFoods",,,
-Service Case Meat,Seasoned Pork,"ProteinFoods",,,
-Service Case Meat,Seasoned Poultry,"ProteinFoods",,,
-Service Case Meat,Stuffed/Mixed Beef,"ProteinFoods",,,
-Service Case Meat,Stuffed/Mixed Pork,"ProteinFoods",,,
-Service Case Meat,Stuffed/Mixed Poultry,"ProteinFoods",,,
-Smoked Hams,Hams_Canned,"ProteinFoods",,,
-Smoked Hams,Hams_Dry Cured/Country,"ProteinFoods",,,
-Smoked Hams,Hams_Half/Port Bone_In,"ProteinFoods",,,
-Smoked Hams,Hams_Half/Port Boneless,"ProteinFoods",,,
-Smoked Hams,Hams_Spiral,"ProteinFoods",,,
-Smoked Hams,Hams_Whole Bone_In,"ProteinFoods",,,
-Smoked Hams,Hams_Whole Boneless,"ProteinFoods",,,
-Smoked Pork,Bacon _ Belly/Jowl,"ProteinFoods",,,
-Smoked Pork,Ham Steaks/Cubes/Slices,"ProteinFoods",,,
-Smoked Pork,Smoked Chops Bone_In [Pork],"ProteinFoods",,,
-Smoked Pork,Smoked Chops Boneless [Pork],"ProteinFoods",,,
-Smoked Pork,Smoked Offal [Pork],"ProteinFoods",,,
-Smoked Pork,Smoked Picnics [Pork],"ProteinFoods",,,
-Snack Meat,Grnd/Patty _ Chuck,"ProteinFoods",,,
-Snack Meat,Snack Meat _ Other,"ProteinFoods",,,
-Snack Meat,Snack Meat _ Pepperoni,"ProteinFoods",,,
-Snack Meat,Snack Meat _ Salami/Smr Sausag,"ProteinFoods",,,
-Snacks,Snacks: Deli Nuts,"ProteinFoods",,,
-Ss/Vending _ Salty Snacks,Tube Nuts,"ProteinFoods",,,
-Ss/Vending _ Salty Snacks,Tube Nuts W/Sweetener,"ProteinFoods",,,
-Turkey Fresh,Turkey Legs,"ProteinFoods",,,
-Turkey Fresh,Whole Hen (Under 16lbs) [Turkey],"ProteinFoods",,,
-Turkey Fresh,Whole Tom (Over 16lbs) [Turkey],"ProteinFoods",,,
-Turkey Frozen,Turkey Breast Bone In,"ProteinFoods",,,
-Turkey Frozen,Turkey Breast Boneless,"ProteinFoods",,,
-Turkey Frozen,Turkey Halves/Quarters,"ProteinFoods",,,
-Turkey Frozen,Turkey Thighs,"ProteinFoods",,,
-Turkey Frozen,Whole Hens (Under 16lbs) [Turkey],"ProteinFoods",,,
-Turkey Frozen,Whole Toms (Over 16lbs) [Turkey],"ProteinFoods",,,
-Turkey Grinds,Ground Turkey,"ProteinFoods",,,
-Turkey Offal,External [Turkey Offal],"ProteinFoods",,,
-Turkey Offal,Internal [Turkey Offal],"ProteinFoods",,,
-Turkey Organic,Whole Hens (Under 15lbs) [Turkey],"ProteinFoods",,,
-Turkey Organic,Whole Toms (Over 15lbs) [Turkey],"ProteinFoods",,,
-Turkey Smoked,Turkey Drums,"ProteinFoods",,,
-Turkey Smoked,Turkey Wings,"ProteinFoods",,,
-Turkey Specialty Natural,Whole Hens (Under 15lbs) [Turkey],"ProteinFoods",,,
-Turkey Specialty Natural,Whole Toms (Over 15lbs) [Turkey],"ProteinFoods",,,
-Unknown,Beef_Boneless_Choice,"ProteinFoods",,,
-Unknown,Beef_Grinds,"ProteinFoods",,,
-Unknown,Breast _ Bone_In (Frz),"ProteinFoods",,,
-Unknown,Frozen Burgers,"ProteinFoods",,,
-Unknown,Frozen Meat,"ProteinFoods",,,
-Unknown,Frozen Meat (Vegetarian),"ProteinFoods",,,
-Unknown,Ham _ Bone_In Whole,"ProteinFoods",,,
-Unknown,Ham _ Boneless Half/Port,"ProteinFoods",,,
-Unknown,Marinated,"ProteinFoods",,,
-Unknown,Meal Sol_Precooked Meats,"ProteinFoods",,,
-Unknown,Meal Sol_Raw Frthr Preprd Mt,"ProteinFoods",,,
-Unknown,Meat Frz_Misc,"ProteinFoods",,,
-Unknown,Seafood_Frz_Rw_All,"ProteinFoods",,,
-Unknown,Smkd Ham Country_All,"ProteinFoods",,,
-Unknown,Turkey_Grinds,"ProteinFoods",,,
-Unknown,Turkey_Other Parts/Pieces_Fre,"ProteinFoods",,,
-Unknown,Whole _ Tom (16 Lbs & Over Frz,"ProteinFoods",,,
-Veal,Whole/Half [Veal],"ProteinFoods",,,
-Nuts,Pecans,"ProteinFoods",,,
-"Authentic HispanicFds&Product",Authentic Peppers,Vegetables,,,
-"Authentic HispanicFds&Product",Authentic Sauces/Salsa/Picante,Vegetables,,,
-"Authentic HispanicFds&Product",Authentic Vegetables And Foods,Vegetables,,,
+Bacon,Bacon _ Natural/Organic,"Protein
+Foods",,,
+Bacon,Bacon _ Other,"Protein
+Foods",,,
+Bacon,Bacon _ Poultry,"Protein
+Foods",,,
+Bacon,Bacon _ Pre_Cooked,"Protein
+Foods",,,
+Bacon,Bacon _ Trad 16oz Or Less,"Protein
+Foods",,,
+Bacon,Bacon _ Trad Center Cut,"Protein
+Foods",,,
+Bacon,Bacon _ Trad Greater Than 16oz,"Protein
+Foods",,,
+Baking Needs,Baking Nuts,"Protein
+Foods",,,
+Beef:Chuck/Shoulder,Choice Beef,"Protein
+Foods",,,
+Beef:Chuck/Shoulder,Natural Beef,"Protein
+Foods",,,
+Beef:Chuck/Shoulder,Organic Beef,"Protein
+Foods",,,
+Beef:Grinds,Angus [Beef],"Protein
+Foods",,,
+Beef:Grinds,Lean [Beef],"Protein
+Foods",,,
+Beef:Grinds,Natural [Beef],"Protein
+Foods",,,
+Beef:Grinds,Organic [Beef],"Protein
+Foods",,,
+Beef:Grinds,Patties [Beef],"Protein
+Foods",,,
+Beef:Grinds,Primal [Beef],"Protein
+Foods",,,
+Beef:Grinds,Sausage [Beef],"Protein
+Foods",,,
+Beef:Loins,Choice Beef,"Protein
+Foods",,,
+Beef:Loins,Select Beef,"Protein
+Foods",,,
+Beef:Offal,External [Beef Offal],"Protein
+Foods",,,
+Beef:Rib,Angus Beef,"Protein
+Foods",,,
+Beef:Rib,Prime Beef,"Protein
+Foods",,,
+Beef:Round,Angus Beef,"Protein
+Foods",,,
+Beef:Round,Choice Beef,"Protein
+Foods",,,
+Beef:Round,Natural Beef,"Protein
+Foods",,,
+Beef:Round,Organic Beef,"Protein
+Foods",,,
+Beef:Round,Prime Beef,"Protein
+Foods",,,
+Beef:Round,Select Beef,"Protein
+Foods",,,
+Beef:Thin Meats,Brisket,"Protein
+Foods",,,
+Beef:Thin Meats,Corned Beef,"Protein
+Foods",,,
+Beef:Thin Meats,Cubed Meats [Beef],"Protein
+Foods",,,
+Beef:Thin Meats,Flank [Beef],"Protein
+Foods",,,
+Beef:Thin Meats,Lifter Meat [Beef],"Protein
+Foods",,,
+Beef:Thin Meats,Skirt [Beef],"Protein
+Foods",,,
+Beef:Thin Meats,Soup/Stew,"Protein
+Foods",,,
+Breakfast Sausage,Bkfst Sausage _ Bkfast Side Di,"Protein
+Foods",,,
+Breakfast Sausage,Bkfst Sausage _ Fresh Links,"Protein
+Foods",,,
+Breakfast Sausage,Bkfst Sausage _ Fresh Patties,"Protein
+Foods",,,
+Breakfast Sausage,Bkfst Sausage _ Fresh Rolls,"Protein
+Foods",,,
+Breakfast Sausage,Bkfst Sausage _ Other Forms,"Protein
+Foods",,,
+Breakfast Sausage,Bkfst Sausage _ Precooked,"Protein
+Foods",,,
+Buffalo,Chuck/Shoulder [Buffalo],"Protein
+Foods",,,
+Buffalo,Grinds [Buffalo],"Protein
+Foods",,,
+Buffalo,Loin [Buffalo],"Protein
+Foods",,,
+Buffalo,Natural [Buffalo],"Protein
+Foods",,,
+Buffalo,Rib [Buffalo],"Protein
+Foods",,,
+Buffalo,Round/Leg [Buffalo],"Protein
+Foods",,,
+Buffalo,Thin Meats [Buffalo],"Protein
+Foods",,,
+Bulk Food,Nuts Bulk W/Sweetener,"Protein
+Foods",,,
+Bulk Food,Trail Mix/Nuts Bulk,"Protein
+Foods",,,
+Can Beans,Prepared Beans _ Baked W/Pork,"Protein
+Foods",,,
+Can Beans,Variety Beans _ Kidney/Pinto/E,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Anchovies,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Caviar,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Clam Juice,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Clams,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Crabmeat,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Kipper Snack,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Mackerel,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Misc.Cnd Seafoods (Crab/Etc),"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Oysters,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Salmon,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Sardines,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Shrimp,"Protein
+Foods",,,
+Can Seafood _ Shelf Stable,Tuna,"Protein
+Foods",,,
+Chicken & Poultry,Chix/Poultry Ingredients,"Protein
+Foods",,,
+Chicken & Poultry,Chix: Baked 8pc Cut Up (Cold),"Protein
+Foods",,,
+Chicken & Poultry,Chix: Chicken Dinners/Snacks C,"Protein
+Foods",,,
+Chicken & Poultry,Chix: Chicken Dinners/Snacks H,"Protein
+Foods",,,
+Chicken & Poultry,Chix: Kosher (Cold),"Protein
+Foods",,,
+Chicken & Poultry,Chix: Rotisserie Cold,"Protein
+Foods",,,
+Chicken & Poultry,Chix:Frd 8pc/Cut Up (Cold),"Protein
+Foods",,,
+Chicken & Poultry,Chix:Value Added (Cold),"Protein
+Foods",,,
+Chicken Fresh,Chicken Breast Boneless,"Protein
+Foods",,,
+Chicken Fresh,Chicken Drums,"Protein
+Foods",,,
+Chicken Fresh,Chicken Legs/Quarters,"Protein
+Foods",,,
+Chicken Fresh,Chicken Thighs,"Protein
+Foods",,,
+Chicken Fresh,Chicken Wings,"Protein
+Foods",,,
+Chicken Fresh,Mixed Packs,"Protein
+Foods",,,
+Chicken Fresh,Whole Chicken (Roasters/Fryer),"Protein
+Foods",,,
+Chicken Frozen,Chicken_Frz Iqf_Raw,"Protein
+Foods",,,
+Chicken Frozen,Frzn Chicken _ Drk Meat,"Protein
+Foods",,,
+Chicken Frozen,Frzn Chicken _ Wht Meat,"Protein
+Foods",,,
+Chicken Frozen,Frzn Chicken _ Wings,"Protein
+Foods",,,
+Chicken Frozen,Whole/Cutup [Chicken],"Protein
+Foods",,,
+Chicken Frozen (Rw),Chicken Breast Bone In,"Protein
+Foods",,,
+Chicken Frozen (Rw),Chicken Breast Boneless,"Protein
+Foods",,,
+Chicken Frozen (Rw),Chicken Drums,"Protein
+Foods",,,
+Chicken Frozen (Rw),Chicken Legs/Quarters,"Protein
+Foods",,,
+Chicken Frozen (Rw),Chicken Thighs,"Protein
+Foods",,,
+Chicken Frozen (Rw),Chicken Wings,"Protein
+Foods",,,
+Chicken Frozen (Rw),Whole Chicken (Roasters/Fryer),"Protein
+Foods",,,
+Chicken Grinds,Ground Chicken,"Protein
+Foods",,,
+Chicken Offal,External [Chicken Offal],"Protein
+Foods",,,
+Chicken Offal,Internal [Chicken Offal],"Protein
+Foods",,,
+Chicken Organic,Chicken Breast Bone In,"Protein
+Foods",,,
+Chicken Smoked,Chicken Breast Bone In,"Protein
+Foods",,,
+Chicken Specialty/Natural,Chicken Breast Bone In,"Protein
+Foods",,,
+Chicken Specialty/Natural,Chicken Breast Boneless,"Protein
+Foods",,,
+Chicken Specialty/Natural,Chicken Drums,"Protein
+Foods",,,
+Chicken Specialty/Natural,Chicken Legs/Quarters,"Protein
+Foods",,,
+Chicken Specialty/Natural,Chicken Thighs,"Protein
+Foods",,,
+Chicken Specialty/Natural,Chicken Wings,"Protein
+Foods",,,
+Chicken Specialty/Natural,Mixed Packs [Chicken],"Protein
+Foods",,,
+Chicken Specialty/Natural,Whole Chicken (Roasters/Fryer),"Protein
+Foods",,,
+Condiments,Nut Butters/Peanut Butter,"Protein
+Foods",,,
+Deli Meat: Bulk,Bologna/Loaves/Franks,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat Bulk: Specialty Dry Meats,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Bacon,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Beef Bulk,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Chicken Bulk,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Gift Pack,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Ham Ppk/Prslc,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Pates/Mousse,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Saus Dry Ppk/Prslc,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat: Turkey Bulk,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat:Ham Bulk,"Protein
+Foods",,,
+Deli Meat: Bulk,Meat:Lnchmt Ppk/Prslc,"Protein
+Foods",,,
+Deli Meat: Other,Deli Meat: Bacon,"Protein
+Foods",,,
+Deli Meat: Other,Deli Meat: Kosher,"Protein
+Foods",,,
+Deli Meat: Other,Deli Meat: Pates/Mousse,"Protein
+Foods",,,
+Deli Meat: Other,Deli Meat: Shippers/Gift Packs,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Beef,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Bologna/Loaves/Fran,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Chicken,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Ham,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Semi_Dry Sausage,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Specialty Dry Meats,"Protein
+Foods",,,
+Deli Meat: Presliced,Deli Meat: Turkey,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Beef Rope Ckd/Sm,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Cocktails,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Fresh Poultry,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Links Beef Ckd,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Links Fresh,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Links Pork Ckd,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Links Poultry Ck,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Natural/Organic,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Other Forms,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Pork Rope Ckd/Sm,"Protein
+Foods",,,
+Dinner Sausage,Dnr Sausage _ Poultry Rope Ckd,"Protein
+Foods",,,
+Dinner Sausage,Dnr Saus_Rope/Link_Smkd/Preckd,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Eggs _ Jumbo,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Eggs _ Large,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Eggs _ Medium,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Eggs _ Small,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Eggs _ X_Large,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Eggs Substitute,"Protein
+Foods",,,
+Eggs/Muffins/Potatoes,Specialty Eggs,"Protein
+Foods",,,
+Exotic,Goat,"Protein
+Foods",,,
+Exotic,Rabbit,"Protein
+Foods",,,
+Frozen Breakfast Foods,Frzn Breakfast Sausage,"Protein
+Foods",,,
+Frozen Breakfast Foods,Frzn Egg Substitutes,"Protein
+Foods",,,
+Frozen Entrees,Meat Protein,"Protein
+Foods",,,
+Frozen Meat,Frozen Meat,"Protein
+Foods",,,
+Frozen Meat Alternatives,Meat,"Protein
+Foods",,,
+Frozen Meat Alternatives,Soy/Tofu,"Protein
+Foods",,,
+Frzn Multi Serve,Frzn Burgers,"Protein
+Foods",,,
+Frzn Multi Serve,Fz Bbq,"Protein
+Foods",,,
+Frzn Multi Serve,Fz Meatballs,"Protein
+Foods",,,
+Frzn Prepared Chicken,Bone_In Wings,"Protein
+Foods",,,
+Frzn Prepared Chicken,Boneless Snack/18oz And Larger,"Protein
+Foods",,,
+Frzn Prepared Chicken,Boneless Snack/Value/Small,"Protein
+Foods",,,
+Frzn Prepared Chicken,Value Forms/ 18oz And Larger [Chicken],"Protein
+Foods",,,
+Frzn Prepared Chicken,Whole Muscle Breaded/ 18oz And,"Protein
+Foods",,,
+Frzn Prepared Chicken,Whole Muscle Unbreaded,"Protein
+Foods",,,
+Frzn Seafood,Frz Coated Fish Fillets,"Protein
+Foods",,,
+Frzn Seafood,Frz Fishsticks/Tenders/Nuggets,"Protein
+Foods",,,
+Frzn Seafood,Frz Non_Coated Fish Fillets,"Protein
+Foods",,,
+Frzn Seafood,Frz Seafood Entrees,"Protein
+Foods",,,
+Frzn Seafood,Frzn Misc Seafood,"Protein
+Foods",,,
+Hot Dogs,Hot Dogs _ Base Beef,"Protein
+Foods",,,
+Hot Dogs,Hot Dogs _ Base Meat,"Protein
+Foods",,,
+Hot Dogs,Hot Dogs _ Base Poultry,"Protein
+Foods",,,
+Hot Dogs,Hot Dogs _ Premium,"Protein
+Foods",,,
+Hot Dogs,Hot Dogs_Rw_All,"Protein
+Foods",,,
+Kosher,Beef,"Protein
+Foods",,,
+Kosher,Chicken,"Protein
+Foods",,,
+Kosher,Lamb,"Protein
+Foods",,,
+Kosher,Turkey,"Protein
+Foods",,,
+Kosher,Veal,"Protein
+Foods",,,
+"Kosher Foods And
+Products",Kosher Seafood,"Protein
+Foods",,,
+Lamb,Chuck/Shoulder [Lamb],"Protein
+Foods",,,
+Lamb,Grinds [Lamb],"Protein
+Foods",,,
+Lamb,Loin [Lamb],"Protein
+Foods",,,
+Lamb,Offals [Lamb],"Protein
+Foods",,,
+Lamb,Rib [Lamb],"Protein
+Foods",,,
+Lamb,Round/Leg [Lamb],"Protein
+Foods",,,
+Lamb,Thin Meats [Lamb],"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Brauns/Liver/Loave,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Chip Meat,"Protein
+Foods",,,
+Lunchmeat,"Lunchmeat _ Chop/Form
+Pltry&Ha","Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Other,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Peggable Deli Fres,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Variety Pack,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Whole Muscle Pltry,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat_Rw_All,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Bologna/Sausage,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Deli Fresh,"Protein
+Foods",,,
+Lunchmeat,Lunchmeat _ Natural/Organic,"Protein
+Foods",,,
+Meat _ Shelf Stable,Beef Stew,"Protein
+Foods",,,
+Meat _ Shelf Stable,Beef/Pork _ Dried Sliced W/Gra,"Protein
+Foods",,,
+Meat _ Shelf Stable,Chicken & Dumplings,"Protein
+Foods",,,
+Meat _ Shelf Stable,Chili: Canned,"Protein
+Foods",,,
+Meat _ Shelf Stable,Chunk Meats _ Chix/Ham/Etc,"Protein
+Foods",,,
+Meat _ Shelf Stable,Corn Beef,"Protein
+Foods",,,
+Meat _ Shelf Stable,Hash: Canned,"Protein
+Foods",,,
+Meat _ Shelf Stable,Hot Dog Chili Sauce,"Protein
+Foods",,,
+Meat _ Shelf Stable,Luncheon Meat (Spam),"Protein
+Foods",,,
+Meat _ Shelf Stable,Misc Cnd Meats,"Protein
+Foods",,,
+Meat _ Shelf Stable,Potted Meats And Spreads,"Protein
+Foods",,,
+Meat _ Shelf Stable,Sandwich Sauce (Manwich),"Protein
+Foods",,,
+Meat _ Shelf Stable,Vienna Sausage,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Beef,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Breakfast Sausage,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Exotic,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Natural/Organic,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Offals,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Pork,"Protein
+Foods",,,
+Meat Frozen,Frzn Meat _ Turkey,"Protein
+Foods",,,
+Meat Frozen,Meat_Misc_Misc,"Protein
+Foods",,,
+Meat Snacks,Jerky/Nuggets/Tenders,"Protein
+Foods",,,
+Meat Snacks,Meat Sticks/Bites,"Protein
+Foods",,,
+"Nat Foods_Refrigerated
+Meat",Ntrn Refrig Meat: Breakfast Me,"Protein
+Foods",,,
+"Nat Foods_Refrigerated
+Meat",Ntrn Refrig Meat: Hot Dogs/Sau,"Protein
+Foods",,,
+"Nat Foods_Refrigerated
+Meat",Ntrn Refrig Meat: Lunchmeat,"Protein
+Foods",,,
+Non_Dairy/Dairy Aseptic,Nut Milk,"Protein
+Foods",,,
+Nuts,Almonds,"Protein
+Foods",,,
+Nuts,Almonds Shelled,"Protein
+Foods",,,
+Nuts,Almonds W/Sweetener,"Protein
+Foods",,,
+Nuts,Cashews,"Protein
+Foods",,,
+Nuts,Cashews W/Sweetener,"Protein
+Foods",,,
+Nuts,Dry Roast Peanuts,"Protein
+Foods",,,
+Nuts,Dry Roast Peanuts W/Sweetener,"Protein
+Foods",,,
+Nuts,Misc Snack Nuts,"Protein
+Foods",,,
+Nuts,Misc Snacks Nuts W/Sweetener,"Protein
+Foods",,,
+Nuts,Mixed Nuts,"Protein
+Foods",,,
+Nuts,Mixed Nuts W/Sweetener,"Protein
+Foods",,,
+Nuts,Nuts Inshell,"Protein
+Foods",,,
+Nuts,Nuts Other,"Protein
+Foods",,,
+Nuts,Nuts Other Organic,"Protein
+Foods",,,
+Nuts,Nuts Sugar Coated All,"Protein
+Foods",,,
+Nuts,Oil Roast Peanuts,"Protein
+Foods",,,
+Nuts,Oil Roast Peanuts W/Sweetener,"Protein
+Foods",,,
+Nuts,Peanuts All,"Protein
+Foods",,,
+Nuts,Pecans Shelled,"Protein
+Foods",,,
+Nuts,Pecans W/Sweetener,"Protein
+Foods",,,
+Nuts,Pistachios,"Protein
+Foods",,,
+Nuts,Sunflower/Other Seeds,"Protein
+Foods",,,
+Nuts,"Sunflower/Other Seeds
+W/Sweete","Protein
+Foods",,,
+Nuts,Trail Mix,"Protein
+Foods",,,
+Nuts,Walnuts Shelled,"Protein
+Foods",,,
+Packaged Natural Snacks,Nuts,"Protein
+Foods",,,
+Packaged Natural Snacks,Nuts W/Sweetener,"Protein
+Foods",,,
+"Peanut
+Butter/Jelly/Jams&Honey",Peanut Butter,"Protein
+Foods",,,
+Pkgd Meat Corp Use Only,Pkgd Meat Corp Use Only,"Protein
+Foods",,,
+Pork Bone In Loin/Rib,Dry [Pork Bone In Loin/Rib],"Protein
+Foods",,,
+Pork Boneless Loin/Rib,Enhanced [Pork Boneless Loin/Rib],"Protein
+Foods",,,
+Pork Boneless Loin/Rib,Natural [Pork Boneless Loin/Rib],"Protein
+Foods",,,
+Pork Grinds,Ground Pork,"Protein
+Foods",,,
+Pork Offal,External Fresh [Pork Offal],"Protein
+Foods",,,
+Pork Offal,Internal Fresh [Pork Offal],"Protein
+Foods",,,
+Pork Shoulder,Butts [Pork Shoulder],"Protein
+Foods",,,
+Pork Shoulder,Fresh Hams,"Protein
+Foods",,,
+Pork Thin Meats,Kabobs [Pork],"Protein
+Foods",,,
+Pork Thin Meats,Organics [Pork],"Protein
+Foods",,,
+Pork Thin Meats,Ribs [Pork],"Protein
+Foods",,,
+Pork Thin Meats,Stir Fry/Strips/Fajitas [Pork],"Protein
+Foods",,,
+Poultry Other,Capons,"Protein
+Foods",,,
+Poultry Other,Cornish Hen,"Protein
+Foods",,,
+Poultry Other,Ducks,"Protein
+Foods",,,
+Poultry Other,Geese,"Protein
+Foods",,,
+Poultry Other,Poultry/Other,"Protein
+Foods",,,
+Prepared/Pdgd Foods,Meat _ Can/Pouch,"Protein
+Foods",,,
+Processed,Beans Dried,"Protein
+Foods",,,
+"Random Weight Meat
+Products",Lunch Meats,"Protein
+Foods",,,
+Refrigerated Dairy Case,Eggs,"Protein
+Foods",,,
+Refrigerated Vegetarian,Non_Dairy Cheese,"Protein
+Foods",,,
+Refrigerated Vegetarian,Tofu,"Protein
+Foods",,,
+Refrigerated Vegetarian,Vegetarian Meats,"Protein
+Foods",,,
+Restricted Diet,Pnut Btr/Jelly,"Protein
+Foods",,,
+Salad & Dips,Protein Salads _ Bulk,"Protein
+Foods",,,
+Salad & Dips,Protein Salads _ Prepack,"Protein
+Foods",,,
+Seafood _ Catfish,Catfish _ Fillet,"Protein
+Foods",,,
+Seafood _ Catfish,Catfish _ Nuggets,"Protein
+Foods",,,
+Seafood _ Catfish,Catfish _ Other Form,"Protein
+Foods",,,
+Seafood _ Catfish,Catfish _ Whole,"Protein
+Foods",,,
+Seafood _ Cod,Cod _ Fillet,"Protein
+Foods",,,
+Seafood _ Cod,Cod _ Other Form,"Protein
+Foods",,,
+Seafood _ Cod,Cod _ Whole,"Protein
+Foods",,,
+Seafood _ Crab,Crab _ Dungy,"Protein
+Foods",,,
+Seafood _ Crab,Crab _ King,"Protein
+Foods",,,
+Seafood _ Crab,Crab _ Other,"Protein
+Foods",,,
+Seafood _ Crab,Crab _ Snow,"Protein
+Foods",,,
+Seafood _ Exotic,Exotic _ Mahi Mahi,"Protein
+Foods",,,
+Seafood _ Exotic,Exotic _ Other,"Protein
+Foods",,,
+Seafood _ Exotic,Exotic _ Red Snapper,"Protein
+Foods",,,
+Seafood _ Exotic,Exotic _ Shark,"Protein
+Foods",,,
+Seafood _ Exotic,Exotic _ Swordfish,"Protein
+Foods",,,
+Seafood _ Exotic,Exotic _ Tuna,"Protein
+Foods",,,
+Seafood _ Finfish Other,Finfish _ Halibut,"Protein
+Foods",,,
+Seafood _ Finfish Other,Finfish _ Other,"Protein
+Foods",,,
+Seafood _ Finfish Other,Finfish _ Other,"Protein
+Foods",,,
+Seafood _ Finfish Other,Finfish _ Rockfish,"Protein
+Foods",,,
+Seafood _ Finfish Other,Finfish _ Sole/Flounder,"Protein
+Foods",,,
+Seafood _ Finfish Other,Finfish _ Sole/Flounder,"Protein
+Foods",,,
+"Seafood _ Imitation
+Seafood",Imitation Crab,"Protein
+Foods",,,
+"Seafood _ Imitation
+Seafood",Imitation Other,"Protein
+Foods",,,
+"Seafood _ Imitation
+Seafood",Imitation Shrimp,"Protein
+Foods",,,
+Seafood _ Lobster,Lobster _ Live,"Protein
+Foods",,,
+Seafood _ Lobster,Lobster _ Meat,"Protein
+Foods",,,
+Seafood _ Lobster,Lobster _ Other Form,"Protein
+Foods",,,
+Seafood _ Lobster,Lobster _ Tails,"Protein
+Foods",,,
+Seafood _ Oyster,Oyster _ Bulk,"Protein
+Foods",,,
+Seafood _ Oyster,Oyster _ Cup (Packaged),"Protein
+Foods",,,
+Seafood _ Oyster,Oyster _ Cup (Packaged),"Protein
+Foods",,,
+Seafood _ Party Trays,Party Tray _ Shrimp,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Salmon Fr _ Altantic,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Salmon Fr _ Other Form,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Salmon Fr _ Atlantic,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Salmon Fr _ Coho,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Salmon Fr _ King,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Seafood_Fre_Catfish,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Seafood_Fre_Misc,"Protein
+Foods",,,
+"Seafood _ Salmon_Farm
+Raised",Seafood_Fre_Raw Finfish_Other,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ Other Form,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ Coho,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ King,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ Pink,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ Silverbrite,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ Silverbrite,"Protein
+Foods",,,
+"Seafood _ Salmon_Wild
+Caught",Salmon Wc _ Sockeye,"Protein
+Foods",,,
+Seafood _ Scallops,Scallops _ Bay,"Protein
+Foods",,,
+Seafood _ Scallops,Scallops _ Sea,"Protein
+Foods",,,
+Seafood _ Shellfish Other,Shellfish _ Clams,"Protein
+Foods",,,
+Seafood _ Shellfish Other,Shellfish _ Clams,"Protein
+Foods",,,
+Seafood _ Shellfish Other,Shellfish _ Mussles,"Protein
+Foods",,,
+Seafood _ Shellfish Other,Shellfish _ Other,"Protein
+Foods",,,
+Seafood _ Shrimp,Shrimp _ Cooked,"Protein
+Foods",,,
+Seafood _ Shrimp,Shrimp _ Natural/Organic,"Protein
+Foods",,,
+Seafood _ Shrimp,Shrimp _ Raw,"Protein
+Foods",,,
+"Seafood _ Smoked
+Seafood",Smoked Other,"Protein
+Foods",,,
+"Seafood _ Smoked
+Seafood",Smoked Salmon,"Protein
+Foods",,,
+Seafood _ Tilapia,Tilapia _ Fillet,"Protein
+Foods",,,
+Seafood _ Tilapia,Tilapia _ Other Form,"Protein
+Foods",,,
+Seafood _ Tilapia,Tilapia _ Whole,"Protein
+Foods",,,
+Seafood _ Trout,Steelhead Fr,"Protein
+Foods",,,
+Seafood _ Trout,Trout _ Fillet,"Protein
+Foods",,,
+Seafood _ Trout,Trout _ Whole,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Catfish,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added In_Store Cooked Ho,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Breaded Shrimp,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Crab,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Finfish,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added In_Store Cooked Co,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Kabobs,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Other,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Salmon,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Shrimp,"Protein
+Foods",,,
+"Seafood _ Value Added
+Seafood",Value Added Tilapia,"Protein
+Foods",,,
+"Seafood _
+Salad/Dips/Sce/Cond",Herring,"Protein
+Foods",,,
+Service Case Meat,Cooked,"Protein
+Foods",,,
+Service Case Meat,Ingredients,"Protein
+Foods",,,
+Service Case Meat,Kabobs Beef,"Protein
+Foods",,,
+Service Case Meat,Kabobs Pork,"Protein
+Foods",,,
+Service Case Meat,Kabobs Poultry,"Protein
+Foods",,,
+Service Case Meat,Marinated Beef,"Protein
+Foods",,,
+Service Case Meat,Marinated Pork,"Protein
+Foods",,,
+Service Case Meat,Marinated Poultry,"Protein
+Foods",,,
+Service Case Meat,Seasoned,"Protein
+Foods",,,
+Service Case Meat,Seasoned Beef,"Protein
+Foods",,,
+Service Case Meat,Seasoned Pork,"Protein
+Foods",,,
+Service Case Meat,Seasoned Poultry,"Protein
+Foods",,,
+Service Case Meat,Stuffed/Mixed Beef,"Protein
+Foods",,,
+Service Case Meat,Stuffed/Mixed Pork,"Protein
+Foods",,,
+Service Case Meat,Stuffed/Mixed Poultry,"Protein
+Foods",,,
+Smoked Hams,Hams_Canned,"Protein
+Foods",,,
+Smoked Hams,Hams_Dry Cured/Country,"Protein
+Foods",,,
+Smoked Hams,Hams_Half/Port Bone_In,"Protein
+Foods",,,
+Smoked Hams,Hams_Half/Port Boneless,"Protein
+Foods",,,
+Smoked Hams,Hams_Spiral,"Protein
+Foods",,,
+Smoked Hams,Hams_Whole Bone_In,"Protein
+Foods",,,
+Smoked Hams,Hams_Whole Boneless,"Protein
+Foods",,,
+Smoked Pork,Bacon _ Belly/Jowl,"Protein
+Foods",,,
+Smoked Pork,Ham Steaks/Cubes/Slices,"Protein
+Foods",,,
+Smoked Pork,Smoked Chops Bone_In [Pork],"Protein
+Foods",,,
+Smoked Pork,Smoked Chops Boneless [Pork],"Protein
+Foods",,,
+Smoked Pork,Smoked Offal [Pork],"Protein
+Foods",,,
+Smoked Pork,Smoked Picnics [Pork],"Protein
+Foods",,,
+Snack Meat,Grnd/Patty _ Chuck,"Protein
+Foods",,,
+Snack Meat,Snack Meat _ Other,"Protein
+Foods",,,
+Snack Meat,Snack Meat _ Pepperoni,"Protein
+Foods",,,
+Snack Meat,Snack Meat _ Salami/Smr Sausag,"Protein
+Foods",,,
+Snacks,Snacks: Deli Nuts,"Protein
+Foods",,,
+Ss/Vending _ Salty Snacks,Tube Nuts,"Protein
+Foods",,,
+Ss/Vending _ Salty Snacks,Tube Nuts W/Sweetener,"Protein
+Foods",,,
+Turkey Fresh,Turkey Legs,"Protein
+Foods",,,
+Turkey Fresh,Whole Hen (Under 16lbs) [Turkey],"Protein
+Foods",,,
+Turkey Fresh,Whole Tom (Over 16lbs) [Turkey],"Protein
+Foods",,,
+Turkey Frozen,Turkey Breast Bone In,"Protein
+Foods",,,
+Turkey Frozen,Turkey Breast Boneless,"Protein
+Foods",,,
+Turkey Frozen,Turkey Halves/Quarters,"Protein
+Foods",,,
+Turkey Frozen,Turkey Thighs,"Protein
+Foods",,,
+Turkey Frozen,Whole Hens (Under 16lbs) [Turkey],"Protein
+Foods",,,
+Turkey Frozen,Whole Toms (Over 16lbs) [Turkey],"Protein
+Foods",,,
+Turkey Grinds,Ground Turkey,"Protein
+Foods",,,
+Turkey Offal,External [Turkey Offal],"Protein
+Foods",,,
+Turkey Offal,Internal [Turkey Offal],"Protein
+Foods",,,
+Turkey Organic,Whole Hens (Under 15lbs) [Turkey],"Protein
+Foods",,,
+Turkey Organic,Whole Toms (Over 15lbs) [Turkey],"Protein
+Foods",,,
+Turkey Smoked,Turkey Drums,"Protein
+Foods",,,
+Turkey Smoked,Turkey Wings,"Protein
+Foods",,,
+Turkey Specialty Natural,Whole Hens (Under 15lbs) [Turkey],"Protein
+Foods",,,
+Turkey Specialty Natural,Whole Toms (Over 15lbs) [Turkey],"Protein
+Foods",,,
+Unknown,Beef_Boneless_Choice,"Protein
+Foods",,,
+Unknown,Beef_Grinds,"Protein
+Foods",,,
+Unknown,Breast _ Bone_In (Frz),"Protein
+Foods",,,
+Unknown,Frozen Burgers,"Protein
+Foods",,,
+Unknown,Frozen Meat,"Protein
+Foods",,,
+Unknown,Frozen Meat (Vegetarian),"Protein
+Foods",,,
+Unknown,Ham _ Bone_In Whole,"Protein
+Foods",,,
+Unknown,Ham _ Boneless Half/Port,"Protein
+Foods",,,
+Unknown,Marinated,"Protein
+Foods",,,
+Unknown,Meal Sol_Precooked Meats,"Protein
+Foods",,,
+Unknown,Meal Sol_Raw Frthr Preprd Mt,"Protein
+Foods",,,
+Unknown,Meat Frz_Misc,"Protein
+Foods",,,
+Unknown,Seafood_Frz_Rw_All,"Protein
+Foods",,,
+Unknown,Smkd Ham Country_All,"Protein
+Foods",,,
+Unknown,Turkey_Grinds,"Protein
+Foods",,,
+Unknown,Turkey_Other Parts/Pieces_Fre,"Protein
+Foods",,,
+Unknown,Whole _ Tom (16 Lbs & Over Frz,"Protein
+Foods",,,
+Veal,Whole/Half [Veal],"Protein
+Foods",,,
+Nuts,Pecans,"Protein
+Foods",,,
+"Authentic Hispanic
+Fds&Product",Authentic Peppers,Vegetables,,,
+"Authentic Hispanic
+Fds&Product",Authentic Sauces/Salsa/Picante,Vegetables,,,
+"Authentic Hispanic
+Fds&Product",Authentic Vegetables And Foods,Vegetables,,,
  Authentic Italian Foods         ,Italian Vegetables                                                                                  ,Vegetables                                                                                                                ,,,
 Broccoli/Cauliflower,Brocco_Flower,Vegetables,,,
-Broccoli/Cauliflower,"Broccoli Whole & CrownsOrgani",Vegetables,,,
+Broccoli/Cauliflower,"Broccoli Whole & Crowns
+Organi",Vegetables,,,
 Broccoli/Cauliflower,Broccoli Whole&Crowns,Vegetables,,,
  Broccoli/Cauliflower              ,Cauliflower Whole                                                                                 ,Vegetables                                                                                                                ,,,
 Broccoli/Cauliflower,Cauliflower Whole Organic,Vegetables,,,
-"Can Vegetables _ ShelfStable",Artichokes,Vegetables,,,
-"Can Vegetables _ ShelfStable",Beans/Wax/Shellies,Vegetables,,,
-"Can Vegetables _ ShelfStable",Beets,Vegetables,,,
-"Can Vegetables _ ShelfStable",Carrots,Vegetables,,,
-"Can Vegetables _ ShelfStable",Corn,Vegetables,,,
-"Can Vegetables _ ShelfStable",Fried Onions,Vegetables,,,
-"Can Vegetables _ ShelfStable",Green Beans: Fs/Whl/Cut,Vegetables,,,
-"Can Vegetables _ ShelfStable",Hominy,Vegetables,,,
-"Can Vegetables _ ShelfStable",Kraut & Cabbage,Vegetables,,,
-"Can Vegetables _ ShelfStable",Lima Beans,Vegetables,,,
-"Can Vegetables _ ShelfStable",Miscellaneous Vegetables,Vegetables,,,
-"Can Vegetables _ ShelfStable",Mixed Vegetables,Vegetables,,,
-"Can Vegetables _ ShelfStable",Mushrooms Cnd & Glass,Vegetables,,,
-"Can Vegetables _ ShelfStable",Peas & Onions/Peas & Carrot,Vegetables,,,
-"Can Vegetables _ ShelfStable",Peas Fresh Pack/Crowder,Vegetables,,,
-"Can Vegetables _ ShelfStable",Peas/Green,Vegetables,,,
-"Can Vegetables _ ShelfStable",Pimentos,Vegetables,,,
-"Can Vegetables _ ShelfStable",Salads Cnd (Bean/Potato),Vegetables,,,
-"Can Vegetables _ ShelfStable",Spinach & Greens,Vegetables,,,
-"Can Vegetables _ ShelfStable",Squash,Vegetables,,,
-"Can Vegetables _ ShelfStable",Sweet Potatoes,Vegetables,,,
-"Can Vegetables _ ShelfStable",White Potatoes,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Artichokes,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Beans/Wax/Shellies,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Beets,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Carrots,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Corn,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Fried Onions,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Green Beans: Fs/Whl/Cut,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Hominy,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Kraut & Cabbage,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Lima Beans,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Miscellaneous Vegetables,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Mixed Vegetables,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Mushrooms Cnd & Glass,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Peas & Onions/Peas & Carrot,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Peas Fresh Pack/Crowder,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Peas/Green,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Pimentos,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Salads Cnd (Bean/Potato),Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Spinach & Greens,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Squash,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",Sweet Potatoes,Vegetables,,,
+"Can Vegetables _ Shelf
+Stable",White Potatoes,Vegetables,,,
 Carrots,Carrots _ Bulk,Vegetables,,,
 Carrots,Carrots Bagged,Vegetables,,,
  Carrots                                      ,Carrots Bagged Organic                                                                        ,Vegetables                                                                                                                ,,,
@@ -930,20 +1477,34 @@ Frozen Potatoes,Frzn French Fries,Vegetables,,,
 Frozen Potatoes,Frzn Hashbrown Potatoes,Vegetables,,,
 Frozen Potatoes,Frzn Onion Rings,Vegetables,,,
 Frozen Potatoes,Frzn Tater Tots/Other Extruded,Vegetables,,,
-"Frozen Vegetable & VegDish",Frzn Breaded Vegetables,Vegetables,,,
-"Frozen Vegetable & VegDish",Frzn Corn On The Cob,Vegetables,,,
-"Frozen Vegetable & VegDish",Frzn Organic Vegetables,Vegetables,,,
-"Frozen Vegetable & VegDish",Frzn Steamable Vegetables,Vegetables,,,
-"Frozen Vegetable & VegDish",Fz Bag Vegetables _ Plain,Vegetables,,,
-"Frozen Vegetable & VegDish",Fz Bag Vegetables _ Value Adde,Vegetables,,,
-"Frozen Vegetable & VegDish",Fz Box Vegetables _ Plain,Vegetables,,,
-"Frozen Vegetable & VegDish",Fz Box Vegetables _ Value Adde,Vegetables,,,
-"Frozen Vegetables AndPotatoes",Bag Vegetables,Vegetables,,,
-"Frozen Vegetables AndPotatoes",Box Vegetables,Vegetables,,,
-"Frozen Vegetables AndPotatoes",Edamame,Vegetables,,,
-"Frozen Vegetables AndPotatoes",Potatoes,Vegetables,,,
-"Fruit&Veg Plants(Outdoor)",Herbs (Outdoor),Vegetables,,,
-"Fruit&Veg Plants(Outdoor)",Vegetable,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Frzn Breaded Vegetables,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Frzn Corn On The Cob,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Frzn Organic Vegetables,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Frzn Steamable Vegetables,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Fz Bag Vegetables _ Plain,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Fz Bag Vegetables _ Value Adde,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Fz Box Vegetables _ Plain,Vegetables,,,
+"Frozen Vegetable & Veg
+Dish",Fz Box Vegetables _ Value Adde,Vegetables,,,
+"Frozen Vegetables And
+Potatoes",Bag Vegetables,Vegetables,,,
+"Frozen Vegetables And
+Potatoes",Box Vegetables,Vegetables,,,
+"Frozen Vegetables And
+Potatoes",Edamame,Vegetables,,,
+"Frozen Vegetables And
+Potatoes",Potatoes,Vegetables,,,
+"Fruit&Veg Plants
+(Outdoor)",Herbs (Outdoor),Vegetables,,,
+"Fruit&Veg Plants
+(Outdoor)",Vegetable,Vegetables,,,
 Herbs/Garlic,Garlic Whole Cloves,Vegetables,,,
 Herbs/Garlic,Garlic Whole Cloves Organic,Vegetables,,,
 Herbs/Garlic,Herbs Basil,Vegetables,,,
@@ -955,7 +1516,8 @@ Herbs/Garlic,Herbs Fresh Other Organic,Vegetables,,,
 Herbs/Garlic,Herbs Parsley,Vegetables,,,
 Herbs/Garlic,Herbs Parsley Organic,Vegetables,,,
 Herbs/Garlic,Sprouts,Vegetables,,,
-"Kosher Foods AndProducts",Kosher Potato Vegetable,Vegetables,,,
+"Kosher Foods And
+Products",Kosher Potato Vegetable,Vegetables,,,
 Mushrooms,Mushrooms Dried,Vegetables,,,
 Mushrooms,Mushrooms Other,Vegetables,,,
  Mushrooms                             ,Mushrooms Others Organic                                                                ,Vegetables                                                                                                                ,,,
@@ -973,11 +1535,15 @@ Onions,Onions White (Bulk&Bag),Vegetables,,,
  Onions                                      ,Onions Yellow (Bulk&Bag)                                                                    ,Vegetables                                                                                                                ,,,
 Organics Fruit & Vegetables,Organic Broccoli/Cauliflower,Vegetables,,,
 Organics Fruit & Vegetables,Organic Fruit/Veg Instore Proc,Vegetables,,,
-"Organics Fruit &Vegetables",Organic Other,Vegetables,,,
-"Organics Fruit &Vegetables",Organic Processed,Vegetables,,,
-"Organics Fruit &Vegetables",Organic Salad Mix,Vegetables,,,
+"Organics Fruit &
+Vegetables",Organic Other,Vegetables,,,
+"Organics Fruit &
+Vegetables",Organic Processed,Vegetables,,,
+"Organics Fruit &
+Vegetables",Organic Salad Mix,Vegetables,,,
 Organics Fruit & Vegetables,Organic Value Added Vegetables,Vegetables,,,
-"Organics Fruit &Vegetables",Organic Vegetables Salad,Vegetables,,,
+"Organics Fruit &
+Vegetables",Organic Vegetables Salad,Vegetables,,,
  Pasta & Pizza Sauce                ,Mainstream [Pasta & Pizza Sauce]                                                     ,Vegetables                                                                                                                ,,,
 Pasta & Pizza Sauce,Pizza Sauce,Vegetables,,,
  Pasta & Pizza Sauce                ,Specialty Italian Sauce                                                                          ,Vegetables                                                                                                                ,,,
@@ -1039,13 +1605,20 @@ Spices/Jarred Garlic,Herbs Dried,Vegetables,,,
  Spices/Jarred Garlic               ,Herbs Squeeze Tube Organic                                                               ,Vegetables                                                                                                                ,,,
 Spices/Jarred Garlic,Peppers Dried,Vegetables,,,
  Tomato Products_Shelf          ,Tomato Stewed                                                                                      ,Vegetables                                                                                                                ,,,
-"Tomato Products_ShelfStable",Tomato Paste,Vegetables,,,
-"Tomato Products_ShelfStable",Tomatoes Diced,Vegetables,,,
-"Tomato Products_ShelfStable",Tomato Crushed,Vegetables,,,
-"Tomato Products_ShelfStable",Tomato Puree,Vegetables,,,
-"Tomato Products_ShelfStable",Tomato Sauce,Vegetables,,,
-"Tomato Products_ShelfStable",Tomato Sun Dried,Vegetables,,,
-"Tomato Products_ShelfStable",Tomatoes/Whole,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomato Paste,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomatoes Diced,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomato Crushed,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomato Puree,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomato Sauce,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomato Sun Dried,Vegetables,,,
+"Tomato Products_Shelf
+Stable",Tomatoes/Whole,Vegetables,,,
 Tomatoes,Roma Tomatoes (Bulk/Pkg),Vegetables,,,
 Tomatoes,Tomatoes Cherry,Vegetables,,,
  Tomatoes                                 ,Tomatoes Cherry Organic                                                                    ,Vegetables                                                                                                                ,,,
@@ -1061,10 +1634,14 @@ Tomatoes,Tomatoes Vine Ripe Bulk,Vegetables,,,
  Tomatoes                                 ,Tomatoes Vine Ripe Pkg                                                                       ,Vegetables                                                                                                                ,,,
 Tomatoes,Tomatoes_Other,Vegetables,,,
 Traditional Asian Foods,Asian Vegetables,Vegetables,,,
-"Traditional MexicanFoods",Mexican Beans/Refried,Vegetables,,,
-"Traditional MexicanFoods",Mexican Enchilada Sauce,Vegetables,,,
-"Traditional MexicanFoods",Mexican Peppers Chilies,Vegetables,,,
-"Traditional MexicanFoods",Mexican Sauces And Picante Sau,Vegetables,,,
+"Traditional Mexican
+Foods",Mexican Beans/Refried,Vegetables,,,
+"Traditional Mexican
+Foods",Mexican Enchilada Sauce,Vegetables,,,
+"Traditional Mexican
+Foods",Mexican Peppers Chilies,Vegetables,,,
+"Traditional Mexican
+Foods",Mexican Sauces And Picante Sau,Vegetables,,,
 Tropical Fruit,Avocado,Vegetables,,,
  Tropical Fruit                           ,Avocado Organic                                                                                    ,Vegetables                                                                                                                ,,,
 Unknown,Frozen Vegetables,Vegetables,,,
@@ -1087,10 +1664,14 @@ Vegetables Cooking Bulk,Organic Vegetables All Others,Vegetables,,,
 Vegetables Cooking Bulk,Squash Other,Vegetables,,,
 Vegetables Cooking Bulk,Squash Other Organic,Vegetables,,,
 Vegetables Cooking Bulk,Vegetables All Other,Vegetables,,,
-"Vegetables CookingPackaged",Vegetables Cooking Packaged Organic,Vegetables,,,
-"Vegetables CookingPackaged",Broccoli/Cauliflower Processed,Vegetables,,,
-"Vegetables CookingPackaged",Potatoes/Onions Processed,Vegetables,,,
-"Vegetables CookingPackaged",Vegetables Cooking Packaged,Vegetables,,,
+"Vegetables Cooking
+Packaged",Vegetables Cooking Packaged Organic,Vegetables,,,
+"Vegetables Cooking
+Packaged",Broccoli/Cauliflower Processed,Vegetables,,,
+"Vegetables Cooking
+Packaged",Potatoes/Onions Processed,Vegetables,,,
+"Vegetables Cooking
+Packaged",Vegetables Cooking Packaged,Vegetables,,,
 Vegetables Salad,Cucumbers,Vegetables,,,
  Vegetables Salad                    ,Cucumbers Organic                                                                               ,Vegetables                                                                                                                ,,,
 Vegetables Salad,Green Onions,Vegetables,,,
@@ -1115,9 +1696,12 @@ Dressings/Dips,Dressing Yogurt Based,Oils,,,
 Margarines,Margarine: Squeeze,Oils,,,
 Margarines,Margarine: Tubs And Bowls,Oils,,,
  Processed                                 ,Dressings                                                                                                 ,Oils                                                                                                                             ,,,
-"Salad Dresing&SandwichSpreads",Mayonnaise&Whipped Dressing,Oils,,,
-"Salad Dresing&SandwichSpreads",Pourable Salad Dressings,Oils,,,
-"Salad Dresing&SandwichSpreads",Sand/Horseradish&Tartar Sauce,Oils,,,
+"Salad Dresing&Sandwich
+Spreads",Mayonnaise&Whipped Dressing,Oils,,,
+"Salad Dresing&Sandwich
+Spreads",Pourable Salad Dressings,Oils,,,
+"Salad Dresing&Sandwich
+Spreads",Sand/Horseradish&Tartar Sauce,Oils,,,
 Shortening & Oil,Canola Oils,Oils,,,
 Shortening & Oil,Cooking Oil: Peanut/Safflower,Oils,,,
  Shortening & Oil                     ,Cooking Sprays                                                                                       ,Oils                                                                                                                             ,,,
@@ -1125,189 +1709,595 @@ Shortening & Oil,Corn Oil,Oils,,,
 Shortening & Oil,Misc Oils,Oils,,,
 Shortening & Oil,Olive Oil,Oils,,,
 Shortening & Oil,Vegetable Oil,Oils,,,
-Aseptic Juice,Aseptic Pack Juice And Drinks,"Solid Fats &AddedSugar",sweetened beverage,,
-Aseptic Juice,Aseptic Pack Juice And Drinks,"Solid Fats &AddedSugar",sweetened beverage,,
-Aseptic Juice,Aseptic Pack Juice And Drinks,"Solid Fats &AddedSugar",sweetened beverage,,
-"Authentic CentralAmericanFds",Central American Candy W/O Flour,"Solid Fats &AddedSugar",candy/sweet,,
-"Authentic CentralAmericanFds",Central American Carbonated Bev,"Solid Fats &AddedSugar",sweetened beverage,,
-"Authentic HispanicFds&Product",Hispanic Carbonated Beverages,"Solid Fats &AddedSugar",sweetened beverage,,
-"Authentic HispanicFds&Product",Authentic Dry Beverages W/Sweetener,"Solid Fats &AddedSugar",sweetened beverage,,
-"Authentic HispanicFds&Product",Hispanic Juice Under 50% Juice,"Solid Fats &AddedSugar",sweetened beverage,,
-"Authentic South AmericanFds",South American Candy W/O Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Bag Snacks,Pork Skins/Cracklins,"Solid Fats &AddedSugar",butter/cream/soli d fat,,
-Bagels&Cream Cheese,Cream Cheese,"Solid Fats &AddedSugar",butter/cream/soli d fat,,
-Baking,Chocolate Chips & Bars (Sweete,"Solid Fats &AddedSugar",candy/sweet,,
-Baking Mixes,Frosting,"Solid Fats &AddedSugar",candy/sweet,,
-Baking Needs,Coconut [Baking Needs],"Solid Fats &AddedSugar",butter/cream/soli d fat,,
-Baking Needs,Marshmallow Creme,"Solid Fats &AddedSugar",candy/sweet,,
-Baking Needs,Marshmallows,"Solid Fats &AddedSugar",candy/sweet,,
-Beverages,Can/Btl Carb Beve 50% And Under,"Solid Fats &AddedSugar",sweetened beverage,,
-Beverages,Can/Btl N/Carb Beve 50% And Under,"Solid Fats &AddedSugar",sweetened beverage,,
-Beverages,Tea (Canned/Bottled) W/Sweetener,"Solid Fats &AddedSugar",sweetened beverage,,
-Bulk Food,Candy Bulk,"Solid Fats &AddedSugar",candy/sweet,,
-Bulk Food,Candy Bulk W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Cake Decor,Cake Decors _ Candies,"Solid Fats &AddedSugar",candy/sweet,,
-Cake Decor,Cake Decors & Icing,"Solid Fats &AddedSugar",candy/sweet,,
-Candy,Candy W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy,Candy/Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Checklane,Candy Bars (Singles)(Including,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Checklane,Candy Bars (Singles)(Including,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Checklane,Chewing Gum,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Checklane,Mints/Candy & Breath (Not Lifesavers),"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Checklane,Mints/Candy & Breath (Not Lifesavers),"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Checklane,Misc Checklane Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Bulk Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Bulk Candy W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy & Breath Mints (Pkgd),"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy & Breath Mints (Pkgd),"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Bags_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Bags_Chocolate W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Bags_Non Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Bags_Non Chocolate W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Bars (Multi Pack),"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Bars Multi Pack W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Box Non_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,"Candy Box Non_ChocolateW/Flour","Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Boxed Chocolates,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,"Candy Boxed ChocolatesW/Flour","Solid Fats & AddedSugar",candy/sweet,,
-Candy _ Packaged,Candy Refrigerated,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Gum (Packaged),"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Hispanic Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Miscellaneous Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Miscellaneous Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Novelty Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Novelty Candy W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Novelty Candy_Taxable,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Candy Bags Non_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Candy Bags Non_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Candy Bags_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Candy Bags_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,"Seasonal Candy Box Non_Chocolate","Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,"Seasonal Candy Box Non_Chocolate","Solid Fats & AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Candy Box_Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Candy Box_Chocolate W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Miscellaneous [Candy],"Solid Fats &AddedSugar",candy/sweet,,
-Candy _ Packaged,Seasonal Miscellaneous W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Cocoa Mixes,Hot Chocolate/Cocoa Mix,"Solid Fats &AddedSugar",sweetened beverage,,
-Cocoa Mixes,"Malted Mlk/Syrup/Pwdrs(Eggnog)","Solid Fats &AddedSugar",sweetened beverage,,
-Coffee & Creamers,Coffee Sweeteners,"Solid Fats &AddedSugar",sweetened beverage,,
-Coffee & Creamers,Non Dairy Creamer,"Solid Fats &AddedSugar",sweetened beverage,,
-"Coffee Shop Sweet Goods& Rtl",Coffee Shop: Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Condiments,Honey/Syrup,"Solid Fats &AddedSugar",candy/sweet,,
-Condiments,Jellies/Preserves/Apple Butter,"Solid Fats &AddedSugar",candy/sweet,,
-Deli Specialties (Retail Pk),Dl Spec: Jellies/Toppings,"Solid Fats &AddedSugar",candy/sweet,,
-Dressings/Dips,Dips Caramel/Fruit Glazes,"Solid Fats &AddedSugar",candy/sweet,,
-Dressings/Dips,Dips Fruit And Chocolate,"Solid Fats &AddedSugar",candy/sweet,,
-Dry Mix Desserts,Topping Mixes/Whip Topping,"Solid Fats &AddedSugar",butter/cream/soli d fat,,
-"Dry Tea/Coffee/CocoMixes",Coco Mix,"Solid Fats &AddedSugar",sweetened beverage,,
-"Dry Tea/Coffee/CocoMixes","Tea ConcentrateW/Sweetener/Su","Solid Fats &AddedSugar",sweetened beverage,,
-"Dry Tea/Coffee/CocoMixes",Tea Rtd With Sweetener/Sugar,"Solid Fats &AddedSugar",sweetened beverage,,
-Energy Drinks,Energy Drink _ Multi_Pack,"Solid Fats &AddedSugar",sweetened beverage,,
-Energy Drinks,Energy Drink _ Multi_Pack (Non,"Solid Fats &AddedSugar",sweetened beverage,,
-Energy Drinks,Energy Drink _ Single Serve,"Solid Fats &AddedSugar",sweetened beverage,,
-Energy Drinks,Energy Drink _ Single Serve,"Solid Fats &AddedSugar",sweetened beverage,,
-European Foods,British Carbonated Beverages,"Solid Fats &AddedSugar",sweetened beverage,,
-European Foods,European Carbonated Beverages,"Solid Fats &AddedSugar",sweetened beverage,,
-Fluid Milk Products,Refrigerated Coffee Creamers,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Fluid Milk Products,Whipping Cream,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Frozen Breakfast Foods,Frzn Non_Dairy Creamers,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-"Frozen Juice AndSmoothies",Cocktail Mixes_Frz,"Solid Fats &AddedSugar",sweetened beverage,,
-"Frozen Juice AndSmoothies",Frzn Conc Under 50% Juice,"Solid Fats &AddedSugar",sweetened beverage,,
-"Frozen Juice AndSmoothies",Frzn Fruit Drinks (Under 10% J,"Solid Fats &AddedSugar",sweetened beverage,,
-Frozen Whipped Topping,Frzn Whipped Topping,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Gift & Fruit Baskets,Candy Arrangements Food Only,"Solid Fats &AddedSugar",candy/sweet,,
-Juice,Drinks _ Carb Juice (Under 50%,"Solid Fats &AddedSugar",sweetened beverage,,
-Juice,Non_Carb Jce (Under 50% Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Juices Super Premium,Juices (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Juices Super Premium,Juices Organic (50% And Under,"Solid Fats &AddedSugar",sweetened beverage,,
-Juices Super Premium,Juices Smoothies/Blended,"Solid Fats &AddedSugar",sweetened beverages,,
-Juices Super Premium,Juices Superfoods/Enhanced,"Solid Fats &AddedSugar",sweetened beverages,,
-Juices Super Premium,Juices/Smoothies Instore Produ,"Solid Fats &AddedSugar",sweetened beverages,,
-"Kosher Foods AndProducts",Kosher Beverage,"Solid Fats &AddedSugar",sweetened beverages,,
-"Kosher Foods AndProducts",Kosher Candy,"Solid Fats &AddedSugar",candy/sweet,,
-"Kosher Foods AndProducts",Kosher Carbonated Soft Drinks,"Solid Fats &AddedSugar",sweetened beverage,,
-Margarines,Butter,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Margarines,Margarine Stick,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Milk By_Products,Aerosol Toppings [Milk By_Products],"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Milk By_Products,Refrig Dips,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Milk By_Products,Sour Creams,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Mixers,Cocktail Mixes_Dry,"Solid Fats &AddedSugar",sweetened beverage,,
-Mixers,Cocktail Mixes_Fluid:Add Liq,"Solid Fats &AddedSugar",sweetened beverage,,
-"Molasses/Syrups/PancakeMixes",Molasses & Syrups,"Solid Fats &AddedSugar",candy/sweet,,
-Packaged Natural Snacks,Candy,"Solid Fats &AddedSugar",candy/sweet,,
-"PeanutButter/Jelly/Jams&Honey",Preserves/Jam/Marmalade,"Solid Fats &AddedSugar",candy/sweet,,
-"PeanutButter/Jelly/Jams&Honey",Honey,"Solid Fats &AddedSugar",candy/sweet,,
-"PeanutButter/Jelly/Jams&Honey",Jelly,"Solid Fats &AddedSugar",candy/sweet,,
-"Powder & Crystal DrinkMix",Breakfast Crystals,"Solid Fats &AddedSugar",sweetened beverage,,
-"Powder & Crystal DrinkMix",Enhanced Stick [Powder Drink Mix],"Solid Fats &AddedSugar",sweetened beverage,,
-"Powder & Crystal DrinkMix",Fluid Pouch [Powder Drink Mix],"Solid Fats &AddedSugar",sweetened beverage,,
-"Powder & Crystal DrinkMix",Soft Drink Canisters [Powder Drink Mix],"Solid Fats &AddedSugar",sweetened beverage,,
-"Powder & Crystal DrinkMix",Sugar Sweetened Envelopes,"Solid Fats &AddedSugar",candy/sweet,,
-"Powder & Crystal DrinkMix",Sugar Sweetened Sticks,"Solid Fats &AddedSugar",candy/sweet,,
-Processed,Dips,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Processed,Packaged Dry Smoothie Mix,"Solid Fats &AddedSugar",sweetened beverages,,
-Refrgratd Juices/Drinks,Dairy Case Citrus Pnch/Oj Subs,"Solid Fats &AddedSugar",sweetened beverage,,
-Refrgratd Juices/Drinks,Dairy Case Fruit Drinks (No Ju,"Solid Fats &AddedSugar",sweetened beverage,,
-Refrgratd Juices/Drinks,Dairy Case Juice Drnk Under 10,"Solid Fats &AddedSugar",sweetened beverage,,
-Refrgratd Juices/Drinks,Dairy Case Tea With Sugar Or S,"Solid Fats &AddedSugar",sweetened beverage,,
-Refrigerated Dairy Case,Ntrn Refrig Juice Under 50%,"Solid Fats &AddedSugar",sweetened beverage,,
-Refrigerated Dairy Case,Sour Cream/Cottage Cheese,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Refrigerated Dairy Case,Tea With Sweetener/Sugar,"Solid Fats &AddedSugar",sweetened beverage,,
-Rtd Tea/New Age Juice,Juice (Under 10% Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Rtd Tea/New Age Juice,Juice (Under 50% Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Rtd Tea/New Age Juice,Tea Sweetened,"Solid Fats &AddedSugar",sweetened beverage,,
-Service Beverage,Sv Bev: Bev/Juic 10_50% Juice,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Apple Juice & Cider (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Apple Juice & Cider (Under 10% Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Blended Juice&Combinations,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Blended Juice&Combinations,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Cranapple/Cran Grape Juice,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Cranberry Juice (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Grape Juice (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Grapefruit Juice (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Lemon Juice & Lime Juice (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Lemon Juice & Lime Juice,"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Nectars (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shelf Stable Juice,Prune Juice (50% And Under Juice),"Solid Fats &AddedSugar",sweetened beverage,,
-Shortening & Oil,Solid Shortening,"Solid Fats &AddedSugar","butter/cream/solid fat",,
-Soft Drinks,Mixers(Tonic Water/Gngr Ale),"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Mixers(Tonic Wtr/Gngr Ale),"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk 1 Liter Btl Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk 2 Liter Btl Carb Incl,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk 3 Liter Btl Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk Misc Btl (Any Btl),"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk Misc Can (Ex:4/8/18pk,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk Mlt_Pk Btl Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Sft Drnk Sngl Srv Btl Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drink Bottle Non_Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drinks 12/18&15pk Can Car,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drinks 20pk&24pk Can Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drinks 6pk Can Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drinks Bottle Returnable,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drinks Can Non_Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Soft Drinks Single Cans Carb,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Tea Bottles With Sweetener/Sugar,"Solid Fats &AddedSugar",sweetened beverage,,
-Soft Drinks,Tea Can With Sweetener/Sugar,"Solid Fats &AddedSugar",sweetened beverage,,
-Sugars & Sweeteners,Sugar,"Solid Fats &AddedSugar",candy/sweet,,
-Sugars & Sweeteners,Sweeteners,"Solid Fats &AddedSugar",candy/sweet,,
-Sweet Goods & Snacks,Sweet Goods: Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Sweet Goods & Snacks,Sweet Goods: Candy W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Syrups Toppings & Cones,Ice Cream Toppings,"Solid Fats &AddedSugar",candy/sweet,,
-Teas,Instant Tea & Tea Mix (W/Sugar),"Solid Fats &AddedSugar",sweetened beverage,,
-"Traditional MexicanFoods",Mexican Candy,"Solid Fats &AddedSugar",candy/sweet,,
-Trail Mix & Snacks,Candy W/Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Trail Mix & Snacks,Candy W/O Flour,"Solid Fats &AddedSugar",candy/sweet,,
-Trail Mix & Snacks,Candy W/O Flour Organic,"Solid Fats &AddedSugar",candy/sweet,,
-Water,Carb Water_Flvrd Sweetened,"Solid Fats &AddedSugar",sweetened beverage,,
-Water,Energy Drinks,"Solid Fats &AddedSugar",sweetened beverage,,
-"Authentic HispanicFds&Product",Authentic Pasta/Rice/Beans,Composite,,entrée/meal,
-"Authentic HispanicFds&Product",Authentic Soups/Bouillons,Composite,,soup,
-"Authentic HispanicFds&Product",Hispanic Cookies/Crackers,Composite,,desserts,
-Authentic Italian Foods,Italian Pasta And Pasta Sauce,Composite,,entrée/meal,
+Aseptic Juice,Aseptic Pack Juice And Drinks,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Aseptic Juice,Aseptic Pack Juice And Drinks,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Aseptic Juice,Aseptic Pack Juice And Drinks,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Authentic Central
+American
+Fds",Central American Candy W/O Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Authentic Central
+American
+Fds",Central American Carbonated Bev,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Authentic Hispanic
+Fds&Product",Hispanic Carbonated Beverages,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Authentic Hispanic
+Fds&Product",Authentic Dry Beverages W/Sweetener,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Authentic Hispanic
+Fds&Product",Hispanic Juice Under 50% Juice,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Authentic South American
+Fds",South American Candy W/O Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Bag Snacks,Pork Skins/Cracklins,"Solid Fats &
+Added
+Sugar",butter/cream/soli d fat,,
+Bagels&Cream Cheese,Cream Cheese,"Solid Fats &
+Added
+Sugar",butter/cream/soli d fat,,
+Baking,Chocolate Chips & Bars (Sweete,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Baking Mixes,Frosting,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Baking Needs,Coconut [Baking Needs],"Solid Fats &
+Added
+Sugar",butter/cream/soli d fat,,
+Baking Needs,Marshmallow Creme,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Baking Needs,Marshmallows,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Beverages,Can/Btl Carb Beve 50% And Under,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Beverages,Can/Btl N/Carb Beve 50% And Under,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Beverages,Tea (Canned/Bottled) W/Sweetener,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Bulk Food,Candy Bulk,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Bulk Food,Candy Bulk W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Cake Decor,Cake Decors _ Candies,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Cake Decor,Cake Decors & Icing,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy,Candy W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy,Candy/Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Checklane,Candy Bars (Singles)(Including,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Checklane,Candy Bars (Singles)(Including,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Checklane,Chewing Gum,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Checklane,Mints/Candy & Breath (Not Lifesavers),"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Checklane,Mints/Candy & Breath (Not Lifesavers),"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Checklane,Misc Checklane Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Bulk Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Bulk Candy W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy & Breath Mints (Pkgd),"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy & Breath Mints (Pkgd),"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Bags_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Bags_Chocolate W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Bags_Non Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Bags_Non Chocolate W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Bars (Multi Pack),"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Bars Multi Pack W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Box Non_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,"Candy Box Non_Chocolate
+W/Flour","Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Boxed Chocolates,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,"Candy Boxed Chocolates
+W/Flour","Solid Fats & Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Candy Refrigerated,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Gum (Packaged),"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Hispanic Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Miscellaneous Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Miscellaneous Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Novelty Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Novelty Candy W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Novelty Candy_Taxable,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Candy Bags Non_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Candy Bags Non_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Candy Bags_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Candy Bags_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,"Seasonal Candy Box Non_
+Chocolate","Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,"Seasonal Candy Box Non_
+Chocolate","Solid Fats & Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Candy Box_Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Candy Box_Chocolate W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Miscellaneous [Candy],"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Candy _ Packaged,Seasonal Miscellaneous W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Cocoa Mixes,Hot Chocolate/Cocoa Mix,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Cocoa Mixes,"Malted Mlk/Syrup/Pwdrs
+(Eggnog)","Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Coffee & Creamers,Coffee Sweeteners,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Coffee & Creamers,Non Dairy Creamer,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Coffee Shop Sweet Goods
+& Rtl",Coffee Shop: Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Condiments,Honey/Syrup,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Condiments,Jellies/Preserves/Apple Butter,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Deli Specialties (Retail Pk),Dl Spec: Jellies/Toppings,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Dressings/Dips,Dips Caramel/Fruit Glazes,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Dressings/Dips,Dips Fruit And Chocolate,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Dry Mix Desserts,Topping Mixes/Whip Topping,"Solid Fats &
+Added
+Sugar",butter/cream/soli d fat,,
+"Dry Tea/Coffee/Coco
+Mixes",Coco Mix,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Dry Tea/Coffee/Coco
+Mixes","Tea Concentrate
+W/Sweetener/Su","Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Dry Tea/Coffee/Coco
+Mixes",Tea Rtd With Sweetener/Sugar,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Energy Drinks,Energy Drink _ Multi_Pack,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Energy Drinks,Energy Drink _ Multi_Pack (Non,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Energy Drinks,Energy Drink _ Single Serve,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Energy Drinks,Energy Drink _ Single Serve,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+European Foods,British Carbonated Beverages,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+European Foods,European Carbonated Beverages,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Fluid Milk Products,Refrigerated Coffee Creamers,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Fluid Milk Products,Whipping Cream,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Frozen Breakfast Foods,Frzn Non_Dairy Creamers,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+"Frozen Juice And
+Smoothies",Cocktail Mixes_Frz,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Frozen Juice And
+Smoothies",Frzn Conc Under 50% Juice,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Frozen Juice And
+Smoothies",Frzn Fruit Drinks (Under 10% J,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Frozen Whipped Topping,Frzn Whipped Topping,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Gift & Fruit Baskets,Candy Arrangements Food Only,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Juice,Drinks _ Carb Juice (Under 50%,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Juice,Non_Carb Jce (Under 50% Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Juices Super Premium,Juices (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Juices Super Premium,Juices Organic (50% And Under,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Juices Super Premium,Juices Smoothies/Blended,"Solid Fats &
+Added
+Sugar",sweetened beverages,,
+Juices Super Premium,Juices Superfoods/Enhanced,"Solid Fats &
+Added
+Sugar",sweetened beverages,,
+Juices Super Premium,Juices/Smoothies Instore Produ,"Solid Fats &
+Added
+Sugar",sweetened beverages,,
+"Kosher Foods And
+Products",Kosher Beverage,"Solid Fats &
+Added
+Sugar",sweetened beverages,,
+"Kosher Foods And
+Products",Kosher Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Kosher Foods And
+Products",Kosher Carbonated Soft Drinks,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Margarines,Butter,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Margarines,Margarine Stick,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Milk By_Products,Aerosol Toppings [Milk By_Products],"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Milk By_Products,Refrig Dips,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Milk By_Products,Sour Creams,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Mixers,Cocktail Mixes_Dry,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Mixers,Cocktail Mixes_Fluid:Add Liq,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Molasses/Syrups/Pancake
+Mixes",Molasses & Syrups,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Packaged Natural Snacks,Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Peanut
+Butter/Jelly/Jams&Honey",Preserves/Jam/Marmalade,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Peanut
+Butter/Jelly/Jams&Honey",Honey,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Peanut
+Butter/Jelly/Jams&Honey",Jelly,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Powder & Crystal Drink
+Mix",Breakfast Crystals,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Powder & Crystal Drink
+Mix",Enhanced Stick [Powder Drink Mix],"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Powder & Crystal Drink
+Mix",Fluid Pouch [Powder Drink Mix],"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Powder & Crystal Drink
+Mix",Soft Drink Canisters [Powder Drink Mix],"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Powder & Crystal Drink
+Mix",Sugar Sweetened Envelopes,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+"Powder & Crystal Drink
+Mix",Sugar Sweetened Sticks,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Processed,Dips,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Processed,Packaged Dry Smoothie Mix,"Solid Fats &
+Added
+Sugar",sweetened beverages,,
+Refrgratd Juices/Drinks,Dairy Case Citrus Pnch/Oj Subs,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Refrgratd Juices/Drinks,Dairy Case Fruit Drinks (No Ju,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Refrgratd Juices/Drinks,Dairy Case Juice Drnk Under 10,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Refrgratd Juices/Drinks,Dairy Case Tea With Sugar Or S,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Refrigerated Dairy Case,Ntrn Refrig Juice Under 50%,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Refrigerated Dairy Case,Sour Cream/Cottage Cheese,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Refrigerated Dairy Case,Tea With Sweetener/Sugar,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Rtd Tea/New Age Juice,Juice (Under 10% Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Rtd Tea/New Age Juice,Juice (Under 50% Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Rtd Tea/New Age Juice,Tea Sweetened,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Service Beverage,Sv Bev: Bev/Juic 10_50% Juice,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Apple Juice & Cider (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Apple Juice & Cider (Under 10% Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Blended Juice&Combinations,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Blended Juice&Combinations,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Cranapple/Cran Grape Juice,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Cranberry Juice (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Fruit Drinks: Canned & Glass,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Grape Juice (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Grapefruit Juice (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Lemon Juice & Lime Juice (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Lemon Juice & Lime Juice,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Nectars (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shelf Stable Juice,Prune Juice (50% And Under Juice),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Shortening & Oil,Solid Shortening,"Solid Fats &
+Added
+Sugar","butter/cream/
+solid fat",,
+Soft Drinks,Mixers(Tonic Water/Gngr Ale),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Mixers(Tonic Wtr/Gngr Ale),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk 1 Liter Btl Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk 2 Liter Btl Carb Incl,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk 3 Liter Btl Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk Misc Btl (Any Btl),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk Misc Can (Ex:4/8/18pk,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk Mlt_Pk Btl Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Sft Drnk Sngl Srv Btl Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drink Bottle Non_Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drinks 12/18&15pk Can Car,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drinks 20pk&24pk Can Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drinks 6pk Can Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drinks Bottle Returnable,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drinks Can Non_Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Soft Drinks Single Cans Carb,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Tea Bottles With Sweetener/Sugar,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Soft Drinks,Tea Can With Sweetener/Sugar,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Sugars & Sweeteners,Sugar,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Sugars & Sweeteners,Sweeteners,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Sweet Goods & Snacks,Sweet Goods: Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Sweet Goods & Snacks,Sweet Goods: Candy W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Syrups Toppings & Cones,Ice Cream Toppings,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Teas,Instant Tea & Tea Mix (W/Sugar),"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Traditional Mexican
+Foods",Mexican Candy,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Trail Mix & Snacks,Candy W/Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Trail Mix & Snacks,Candy W/O Flour,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Trail Mix & Snacks,Candy W/O Flour Organic,"Solid Fats &
+Added
+Sugar",candy/sweet,,
+Water,Carb Water_Flvrd Sweetened,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+Water,Energy Drinks,"Solid Fats &
+Added
+Sugar",sweetened beverage,,
+"Authentic Hispanic
+Fds&Product",Authentic Pasta/Rice/Beans,Composite,,entr¬ée/meal,
+"Authentic Hispanic
+Fds&Product",Authentic Soups/Bouillons,Composite,,soup,
+"Authentic Hispanic
+Fds&Product",Hispanic Cookies/Crackers,Composite,,desserts,
+Authentic Italian Foods,Italian Pasta And Pasta Sauce,Composite,,entr¬ée/meal,
 Bag Snacks,Store Brand,Composite,,snacks,
  Bag Snacks                               ,Misc Bag Snacks                                                                                     ,Composite                                           ,,snacks                                                        ,
 Bag Snacks,Mult Pk Bag Snacks,Composite,,snacks,
@@ -1325,7 +2315,7 @@ Baking Mixes,Layer Cake Mix,Composite,,desserts,
 Baking Mixes,Microwavable Cake Mix,Composite,,desserts,
 Baking Needs,Pie Crust Mixes & Shells,Composite,,desserts,
 Baking Needs,Pie Filling/Mincemeat/Glazes,Composite,,desserts,
- Bulk Food                                 ,Grain/Beans Bulk                                                                                   ,Composite                                           ,,entrée/meal                                             ,
+ Bulk Food                                 ,Grain/Beans Bulk                                                                                   ,Composite                                           ,,entr¬ée/meal                                             ,
 Bulk Food,Misc Bulk Snacks Sweetened,Composite,,snacks,
 Bulk Food,Snacks Bulk,Composite,,snacks,
 Cakes,Cakes Ingredients,Composite,,desserts,
@@ -1349,16 +2339,21 @@ Cakes,Cakes: Pound Cake Novelties,Composite,,desserts,
 Cakes,Cakes: Sheet,Composite,,desserts,
 Cakes,Cakes:Birthday/Celebration Layer,Composite,,desserts,
 Cakes,Cakes:Wedding/Designer Series,Composite,,desserts,
-"Canned Pasta&Mwv Fd_Shlf Stbl",Can Pasta,Composite,,entrée/meal,
-"Canned Pasta&Mwv Fd_Shlf Stbl",Microwavable Cups [Canned Pasta],Composite,,entrée/meal,
-"Canned Pasta&Mwv Fd_Shlf Stbl",Microwavable Trays [Canned Pasta],Composite,,entrée/meal,
+"Canned Pasta&Mwv Fd_
+Shlf Stbl",Can Pasta,Composite,,entr¬ée/meal,
+"Canned Pasta&Mwv Fd_
+Shlf Stbl",Microwavable Cups [Canned Pasta],Composite,,entr¬ée/meal,
+"Canned Pasta&Mwv Fd_
+Shlf Stbl",Microwavable Trays [Canned Pasta],Composite,,entr¬ée/meal,
 Canned Soups,Condensed Soup,Composite,,soup,
-Chilled Ready Meals,Store Brand,Composite,,entrée/meal,
-Chilled Ready Meals,Fresh Meals,Composite,,entrée/meal,
-Chilled Ready Meals,Fresh Side Dishes,Composite,,entrée/meal,
-"CnvBreakfast&WholesomeSnks",Treats,Composite,,snacks,
-Convenient Meals,Convenient Meals _ Adult Meal,Composite,,entrée/meal,
-Convenient Meals,Convenient Meals _ Kids Meal,Composite,,entrée/meal,
+Chilled Ready Meals,Store Brand,Composite,,entr¬ée/meal,
+Chilled Ready Meals,Fresh Meals,Composite,,entr¬ée/meal,
+Chilled Ready Meals,Fresh Side Dishes,Composite,,entr¬ée/meal,
+"Cnv
+Breakfast&Wholesome
+Snks",Treats,Composite,,snacks,
+Convenient Meals,Convenient Meals _ Adult Meal,Composite,,entr¬ée/meal,
+Convenient Meals,Convenient Meals _ Kids Meal,Composite,,entr¬ée/meal,
  Cookie/Cracker Multi_Pks     ,Multi_Pack Cookies                                                                                ,Composite                                           ,,desserts                                                     ,
 Cookies,Chocolate Covered Cookies,Composite,,desserts,
  Cookies                                     ,Cookies/Sweet Goods                                                                           ,Composite                                           ,,desserts                                                     ,
@@ -1376,16 +2371,16 @@ Cookies,Specialty Cookies,Composite,,desserts,
 Cookies,Tray Pack/Choc Chip Cookies,Composite,,desserts,
 Cookies,Vanilla Wafer/Kids Cookies,Composite,,desserts,
  Cookies                                     ,Wellness/Portion Control [Cookies]                                                   ,Composite                                           ,,desserts                                                     ,
-Dinner Mixes_Dry,Macaroni & Cheese Dnrs,Composite,,entrée/meal,
- Dinner Mixes_Dry                   ,Microwave Dinners                                                                               ,Composite                                           ,,entrée/meal                                             ,
-Dinner Mixes_Dry,Package Dinners Meat Included,Composite,,entrée/meal,
- Dinner Mixes_Dry                   ,Package Dinners W/O Meat                                                                ,Composite                                           ,,entrée/meal                                             ,
-Dinner Mixes_Dry,Package Dinners/Pasta Salads,Composite,,entrée/meal,
- Dinner Mixes_Dry                   ,Skillet Dinners                                                                                         ,Composite                                           ,,entrée/meal                                             ,
+Dinner Mixes_Dry,Macaroni & Cheese Dnrs,Composite,,entr¬ée/meal,
+ Dinner Mixes_Dry                   ,Microwave Dinners                                                                               ,Composite                                           ,,entr¬ée/meal                                             ,
+Dinner Mixes_Dry,Package Dinners Meat Included,Composite,,entr¬ée/meal,
+ Dinner Mixes_Dry                   ,Package Dinners W/O Meat                                                                ,Composite                                           ,,entr¬ée/meal                                             ,
+Dinner Mixes_Dry,Package Dinners/Pasta Salads,Composite,,entr¬ée/meal,
+ Dinner Mixes_Dry                   ,Skillet Dinners                                                                                         ,Composite                                           ,,entr¬ée/meal                                             ,
 Dressings/Dips,Dips Guacamole/Salsa/Queso,Composite,,snacks,
 Dressings/Dips,Dips Organic,Composite,,snacks,
 Dressings/Dips,Dips Veggie,Composite,,snacks,
-Dry Bean Veg&Rice,Dry Beans/Peas/Barley: Bag & B,Composite,,entrée/meal,
+Dry Bean Veg&Rice,Dry Beans/Peas/Barley: Bag & B,Composite,,entr¬ée/meal,
 Dry Mix Desserts,Freeze Mixes/Pwdrs/Liquids,Composite,,desserts,
 Dry Mix Desserts,Misc: Cheesecake/Mousse Mixes,Composite,,desserts,
 Dry Mix Desserts,Pudding&Gelatin Cups/Cans,Composite,,desserts,
@@ -1396,25 +2391,30 @@ Dry/Ramen Bouillon,Dry Soup,Composite,,soup,
 Fitness & Diet,Fitness&Diet _ Bars (Supplement),Composite,,snacks,
 Fitness & Diet,Fitness&Diet _ Bars W/Flour,Composite,,snacks,
  Fitness & Diet                          ,Fitness&Diet _ Bars W/O Flour                                                            ,Composite                                           ,,snacks                                                        ,
-"Frozen Bread AndDesserts",Desserts,Composite,,desserts,
+"Frozen Bread And
+Desserts",Desserts,Composite,,desserts,
  Frozen Breakfast                     ,Donuts                                                                                                     ,Composite                                           ,,desserts                                                     ,
-Frozen Breakfast,Meals/Sandwichs,Composite,,entrée/meal,
-Frozen Breakfast Foods,Frzn Breakfast Entrees,Composite,,entrée/meal,
-Frozen Breakfast Foods,Frzn Breakfast Sandwiches,Composite,,entrée/meal,
+Frozen Breakfast,Meals/Sandwichs,Composite,,entr¬ée/meal,
+Frozen Breakfast Foods,Frzn Breakfast Entrees,Composite,,entr¬ée/meal,
+Frozen Breakfast Foods,Frzn Breakfast Sandwiches,Composite,,entr¬ée/meal,
 Frozen Desserts,Frozen Cakes/Desserts,Composite,,desserts,
 Frozen Desserts,Frozen Cream Pies,Composite,,desserts,
  Frozen Desserts                      ,Frozen Fruit Pies & Cobblers                                                                ,Composite                                           ,,desserts                                                     ,
 Frozen Desserts,Frzn Pastry&Cookies,Composite,,desserts,
 Frozen Desserts,Frzn Pie Shells/Pastry Shell/F,Composite,,desserts,
 Frozen Desserts,Single Serv/Portion Control,Composite,,desserts,
- Frozen Entrees                        ,Bowls                                                                                                        ,Composite                                           ,,entrée/meal                                             ,
-Frozen Entrees,Meatless/Vegetarian,Composite,,entrée/meal,
-Frozen Entrees,Pasta/Skillet Meals,Composite,,entrée/meal,
+ Frozen Entrees                        ,Bowls                                                                                                        ,Composite                                           ,,entr¬ée/meal                                             ,
+Frozen Entrees,Meatless/Vegetarian,Composite,,entr¬ée/meal,
+Frozen Entrees,Pasta/Skillet Meals,Composite,,entr¬ée/meal,
 Frozen Entrees,Soup,Composite,,soup,
-"Frozen Handhelds &Snacks",Burritos,Composite,,entrée/meal,
-"Frozen Handhelds &Snacks",Corn Dogs,Composite,,snacks,
-"Frozen Handhelds &Snacks",Sandwiches&Handhelds,Composite,,entrée/meal,
-"Frozen Handhelds &Snacks",Snacks/Appetizers,Composite,,snacks,
+"Frozen Handhelds &
+Snacks",Burritos,Composite,,entr¬ée/meal,
+"Frozen Handhelds &
+Snacks",Corn Dogs,Composite,,snacks,
+"Frozen Handhelds &
+Snacks",Sandwiches&Handhelds,Composite,,entr¬ée/meal,
+"Frozen Handhelds &
+Snacks",Snacks/Appetizers,Composite,,snacks,
 Frozen Ice Cream & Novelties,Almond,Composite,,desserts,
 Frozen Ice Cream & Novelties,Ice Cream,Composite,,desserts,
 Frozen Ice Cream & Novelties,Novelties _ Dairy,Composite,,desserts,
@@ -1423,41 +2423,53 @@ Frozen Ice Cream & Novelties,Novelties _ Water Base,Composite,,desserts,
 Frozen Ice Cream & Novelties,Rice,Composite,,desserts,
 Frozen Ice Cream & Novelties,Soy,Composite,,desserts,
 Frozen Ice Cream & Novelties,Yogurt/Sorbet And Kefir,Composite,,desserts,
-"Frozen Juice AndSmoothies",Smoothies_Frz,Composite,,desserts,
-"Frozen Novelties_WaterIce",Adult Premium [Frozen Novelties],Composite,,desserts,
-"Frozen Novelties_WaterIce",Cones [Frozen Novelties],Composite,,desserts,
-"Frozen Novelties_WaterIce",Cups/Push Ups/Other [Frozen Novelties],Composite,,desserts,
-"Frozen Novelties_WaterIce",Ice Cream Sandwiches,Composite,,desserts,
-"Frozen Novelties_WaterIce",Sticks/Enrobed [Frozen Novelties],Composite,,desserts,
-"Frozen Novelties_WaterIce",Water Ice [Frozen Novelties],Composite,,desserts,
-Frozen Pizza,Meatless/Vegetarian,Composite,,entrée/meal,
-Frozen Pizza,Pizza/Economy,Composite,,entrée/meal,
- Frozen Pizza                             ,Pizza/Premium                                                                                       ,Composite                                           ,,entrée/meal                                             ,
-Frozen Pizza,Pizza/Single Serve/Microwave,Composite,,entrée/meal,
- Frozen Pizza                             ,Pizza/Traditional                                                                                    ,Composite                                           ,,entrée/meal                                             ,
-Frozen Pizza,Pizza/Value,Composite,,entrée/meal,
-Frozen Pizza,Single Serve,Composite,,entrée/meal,
-Frozen Snacks And,Burritos_Meatless/Vegetarian,Composite,,entrée/meal,
-"Frozen Snacks AndHandhelds",Appetizers,Composite,,snacks,
-"Frozen Snacks AndHandhelds",Burritos_Meat Protein,Composite,,entrée/meal,
-"Frozen Snacks AndHandhelds",Wraps/Handhelds _ Meat,Composite,,entrée/meal,
-"Frozen Snacks AndHandhelds",Wraps/Handhelds _ Meatless,Composite,,entrée/meal,
-"Frozen Vegetables AndPotatoes",Meals,Composite,,entrée/meal,
-Frzn Meatless,Meatless Breakfast,Composite,,entrée/meal,
- Frzn Meatless                          ,Meatless Burgers                                                                                   ,Composite                                           ,,entrée/meal                                             ,
-Frzn Meatless,Meatless Entrees,Composite,,entrée/meal,
-Frzn Meatless,Meatless Meal Starters,Composite,,entrée/meal,
-Frzn Meatless,Meatless Miscellaneous,Composite,,entrée/meal,
-Frzn Meatless,Meatless Poultry,Composite,,entrée/meal,
+"Frozen Juice And
+Smoothies",Smoothies_Frz,Composite,,desserts,
+"Frozen Novelties_Water
+Ice",Adult Premium [Frozen Novelties],Composite,,desserts,
+"Frozen Novelties_Water
+Ice",Cones [Frozen Novelties],Composite,,desserts,
+"Frozen Novelties_Water
+Ice",Cups/Push Ups/Other [Frozen Novelties],Composite,,desserts,
+"Frozen Novelties_Water
+Ice",Ice Cream Sandwiches,Composite,,desserts,
+"Frozen Novelties_Water
+Ice",Sticks/Enrobed [Frozen Novelties],Composite,,desserts,
+"Frozen Novelties_Water
+Ice",Water Ice [Frozen Novelties],Composite,,desserts,
+Frozen Pizza,Meatless/Vegetarian,Composite,,entr¬ée/meal,
+Frozen Pizza,Pizza/Economy,Composite,,entr¬ée/meal,
+ Frozen Pizza                             ,Pizza/Premium                                                                                       ,Composite                                           ,,entr¬ée/meal                                             ,
+Frozen Pizza,Pizza/Single Serve/Microwave,Composite,,entr¬ée/meal,
+ Frozen Pizza                             ,Pizza/Traditional                                                                                    ,Composite                                           ,,entr¬ée/meal                                             ,
+Frozen Pizza,Pizza/Value,Composite,,entr¬ée/meal,
+Frozen Pizza,Single Serve,Composite,,entr¬ée/meal,
+Frozen Snacks And,Burritos_Meatless/Vegetarian,Composite,,entr¬ée/meal,
+"Frozen Snacks And
+Handhelds",Appetizers,Composite,,snacks,
+"Frozen Snacks And
+Handhelds",Burritos_Meat Protein,Composite,,entr¬ée/meal,
+"Frozen Snacks And
+Handhelds",Wraps/Handhelds _ Meat,Composite,,entr¬ée/meal,
+"Frozen Snacks And
+Handhelds",Wraps/Handhelds _ Meatless,Composite,,entr¬ée/meal,
+"Frozen Vegetables And
+Potatoes",Meals,Composite,,entr¬ée/meal,
+Frzn Meatless,Meatless Breakfast,Composite,,entr¬ée/meal,
+ Frzn Meatless                          ,Meatless Burgers                                                                                   ,Composite                                           ,,entr¬ée/meal                                             ,
+Frzn Meatless,Meatless Entrees,Composite,,entr¬ée/meal,
+Frzn Meatless,Meatless Meal Starters,Composite,,entr¬ée/meal,
+Frzn Meatless,Meatless Miscellaneous,Composite,,entr¬ée/meal,
+Frzn Meatless,Meatless Poultry,Composite,,entr¬ée/meal,
 Frzn Meatless,Meatless Snacks,Composite,,snacks,
  Frzn Multi Serve                      ,Fz Crockpots/Soups                                                                               ,Composite                                           ,,soup                                                           ,
-Frzn Multi Serve,Fz Family Style Entrees,Composite,,entrée/meal,
-Frzn Multi Serve,Fz Skillet Meals,Composite,,entrée/meal,
-Frzn Prepared Chicken,Fz Meal Kits/Stuffed/Other,Composite,,entrée/meal,
-Frzn Ss Economy Meals,Fz Ss Economy Meals All,Composite,,entrée/meal,
-Frzn Ss Premium Meals,Fz Regional/Other,Composite,,entrée/meal,
- Frzn Ss Premium Meals         ,Fz Ss Prem Nutritional Meals                                                               ,Composite                                           ,,entrée/meal                                             ,
-Frzn Ss Premium Meals,Fz Ss Prem Traditional Meals,Composite,,entrée/meal,
+Frzn Multi Serve,Fz Family Style Entrees,Composite,,entr¬ée/meal,
+Frzn Multi Serve,Fz Skillet Meals,Composite,,entr¬ée/meal,
+Frzn Prepared Chicken,Fz Meal Kits/Stuffed/Other,Composite,,entr¬ée/meal,
+Frzn Ss Economy Meals,Fz Ss Economy Meals All,Composite,,entr¬ée/meal,
+Frzn Ss Premium Meals,Fz Regional/Other,Composite,,entr¬ée/meal,
+ Frzn Ss Premium Meals         ,Fz Ss Prem Nutritional Meals                                                               ,Composite                                           ,,entr¬ée/meal                                             ,
+Frzn Ss Premium Meals,Fz Ss Prem Traditional Meals,Composite,,entr¬ée/meal,
 Gift & Fruit Baskets,Snack Packs W/Soda,Composite,,snacks,
 Ice Cream Ice Milk & Sherbets,Pails [Ice Cream & Sherbert],Composite,,desserts,
 Ice Cream Ice Milk & Sherbets,Premium [Ice Cream & Sherbert],Composite,,desserts,
@@ -1465,27 +2477,33 @@ Ice Cream Ice Milk & Sherbets,Premium Pints [Ice Cream & Sherbert],Composite,,de
 Ice Cream Ice Milk & Sherbets,Quarts [Ice Cream & Sherbert],Composite,,desserts,
 Ice Cream Ice Milk & Sherbets,Super Premium Pints [Ice Cream & Sherbert],Composite,,desserts,
 Ice Cream Ice Milk & Sherbets,Traditional [Ice Cream & Sherbert],Composite,,desserts,
-"Kosher Foods AndProducts",Kosher Snacks,Composite,,snacks,
-"Kosher Foods AndProducts",Kosher Soups,Composite,,soup,
+"Kosher Foods And
+Products",Kosher Snacks,Composite,,snacks,
+"Kosher Foods And
+Products",Kosher Soups,Composite,,soup,
 Packaged Natural Snacks,Trail Mixes,Composite,,snacks,
-Party Tray,Deli Tray _ Includes Non_Foods,Composite,,entrée/meal,
-Party Tray,Deli Tray:Appetizers&Hors D'oe,Composite,,entrée/meal,
- Party Tray                                 ,Deli Tray:Chicken                                                                                   ,Composite                                           ,,entrée/meal                                             ,
-Party Tray,Deli Tray:Fruit And Vegetable,Composite,,entrée/meal,
-Party Tray,Deli Tray:Meat And Cheese,Composite,,entrée/meal,
-Party Tray,Deli Tray:Sandwiches,Composite,,entrée/meal,
- Party Tray                                 ,Deli Trays:Hot                                                                                         ,Composite                                           ,,entrée/meal                                             ,
+Party Tray,Deli Tray _ Includes Non_Foods,Composite,,entr¬ée/meal,
+Party Tray,Deli Tray:Appetizers&Hors D'oe,Composite,,entr¬ée/meal,
+ Party Tray                                 ,Deli Tray:Chicken                                                                                   ,Composite                                           ,,entr¬ée/meal                                             ,
+Party Tray,Deli Tray:Fruit And Vegetable,Composite,,entr¬ée/meal,
+Party Tray,Deli Tray:Meat And Cheese,Composite,,entr¬ée/meal,
+Party Tray,Deli Tray:Sandwiches,Composite,,entr¬ée/meal,
+ Party Tray                                 ,Deli Trays:Hot                                                                                         ,Composite                                           ,,entr¬ée/meal                                             ,
 Pies,Pie Ingredients,Composite,,desserts,
  Pies                                            ,Pies: Cream/Meringue                                                                          ,Composite                                           ,,desserts                                                     ,
 Pies,Pies: Fruit/Nut,Composite,,desserts,
 Pies,Pies: Kosher,Composite,,desserts,
 Pies,Pies: Pumpkin/Custard,Composite,,desserts,
  Pies                                            ,Pies: Tarts/Minis/Crstdas                                                                     ,Composite                                           ,,desserts                                                     ,
-Prepared/Pdgd Foods,Boxed Prepared/Entree/Dry Prep,Composite,,entrée/meal,
-"Refrgrated DoughProducts",Refrigerated Cookie Dough,Composite,,desserts,
-"Refrgrated DoughProducts",Refrigerated Cookies_Brand,Composite,,desserts,
-"Refrgrated DoughProducts",Refrigerated Cookies_Seasonal,Composite,,desserts,
-"Refrgrated DoughProducts",Refrigerated Pie Crust,Composite,,desserts,
+Prepared/Pdgd Foods,Boxed Prepared/Entree/Dry Prep,Composite,,entr¬ée/meal,
+"Refrgrated Dough
+Products",Refrigerated Cookie Dough,Composite,,desserts,
+"Refrgrated Dough
+Products",Refrigerated Cookies_Brand,Composite,,desserts,
+"Refrgrated Dough
+Products",Refrigerated Cookies_Seasonal,Composite,,desserts,
+"Refrgrated Dough
+Products",Refrigerated Pie Crust,Composite,,desserts,
 Refrigerated Desserts,Refrigerated Pudding,Composite,,desserts,
 Restricted Diet,Cookies,Composite,,desserts,
  Rts/Micro Soup/Broth           ,Broth                                                                                                        ,Composite                                           ,,soup                                                           ,
@@ -1494,14 +2512,15 @@ Rts/Micro Soup/Broth,Rts Soup: Chunky/Homestyle/ Et,Composite,,soup,
 Salad & Dips,Sal: Desserts_Bulk,Composite,,desserts,
 Salad & Dips,Sal: Desserts_Prepack,Composite,,desserts,
 Salad Bar,Soups,Composite,,soup,
- Sandwiches                              ,Sandwich Ingredients                                                                            ,Composite                                           ,,entrée/meals                                            ,
-Sandwiches,Sandwiches _ (Cold),Composite,,entrée/meals,
- Sandwiches                              ,Sandwiches: Kosher (Cold)                                                                   ,Composite                                           ,,entrée/meals                                            ,
-Seafood _ Party Trays,Party Tray Other,Composite,,entrée/meal,
-Seafood _ Party Trays,Party Tray Other,Composite,,entrée/meal,
-"Seafood _Salad/Dips/Sce/Cond",Salads,Composite,,entrée/meal,
-Service Case Meat,Side Dishes,Composite,,entrée/meal,
-Service Case Meat,Stuffed/Mixed,Composite,,entrée/meal,
+ Sandwiches                              ,Sandwich Ingredients                                                                            ,Composite                                           ,,entr¬ée/meals                                            ,
+Sandwiches,Sandwiches _ (Cold),Composite,,entr¬ée/meals,
+ Sandwiches                              ,Sandwiches: Kosher (Cold)                                                                   ,Composite                                           ,,entr¬ée/meals                                            ,
+Seafood _ Party Trays,Party Tray Other,Composite,,entr¬ée/meal,
+Seafood _ Party Trays,Party Tray Other,Composite,,entr¬ée/meal,
+"Seafood _
+Salad/Dips/Sce/Cond",Salads,Composite,,entr¬ée/meal,
+Service Case Meat,Side Dishes,Composite,,entr¬ée/meal,
+Service Case Meat,Stuffed/Mixed,Composite,,entr¬ée/meal,
  Single Serve Items                  ,Single Serve Desserts                                                                            ,Composite                                           ,,desserts                                                     ,
 Single Serve Items,Single Serve Snacks,Composite,,snacks,
 Single Serve Sweet Goods,Snack Cake _ Single Serve,Composite,,desserts,
@@ -1516,16 +2535,17 @@ Soup,Asceptic,Composite,,soup,
 Soup,Broths,Composite,,soup,
  Soup                                          ,Cans Soup/Chili                                                                                      ,Composite                                           ,,soup                                                           ,
 Soup,Cups,Composite,,soup,
-"Ss/Vending _Cookie/Cracker",Vendor Size/Single Serve Cookie,Composite,,desserts,
+"Ss/Vending _
+Cookie/Cracker",Vendor Size/Single Serve Cookie,Composite,,desserts,
 Ss/Vending _ Salty Snacks,Salty Snacks Vending,Composite,,snacks,
 Ss/Vending _ Salty Snacks,Salty Snacks W/Sweetener Vending,Composite,,snacks,
-Sushi,Sushi _ In Store Prepared,Composite,,entrée/meal,
- Sushi                                         ,Sushi _ Kosher                                                                                         ,Composite                                           ,,entrée/meal                                             ,
-Sushi,Sushi _ Prepackaged,Composite,,entrée/meal,
- Sushi                                         ,Sushi: In Store Prepared (Hot)                                                             ,Composite                                           ,,entrée/meal                                             ,
-Sushi,Sushi: Ingredients,Composite,,entrée/meal,
-Sushi,Sushi: In_Store Prepared (Dine,Composite,,entrée/meal,
-Sushi,Sushi: Smallwares,Composite,,entrée/meal,
+Sushi,Sushi _ In Store Prepared,Composite,,entr¬ée/meal,
+ Sushi                                         ,Sushi _ Kosher                                                                                         ,Composite                                           ,,entr¬ée/meal                                             ,
+Sushi,Sushi _ Prepackaged,Composite,,entr¬ée/meal,
+ Sushi                                         ,Sushi: In Store Prepared (Hot)                                                             ,Composite                                           ,,entr¬ée/meal                                             ,
+Sushi,Sushi: Ingredients,Composite,,entr¬ée/meal,
+Sushi,Sushi: In_Store Prepared (Dine,Composite,,entr¬ée/meal,
+Sushi,Sushi: Smallwares,Composite,,entr¬ée/meal,
  Sweet Goods                           ,Sw Gds: Kosher Breakfast                                                                     ,Composite                                           ,,desserts                                                     ,
 Sweet Goods,Sw Gds: Muffins,Composite,,desserts,
  Sweet Goods                           ,Sw Gds: Sw Rolls/Dan                                                                           ,Composite                                           ,,desserts                                                     ,
@@ -1539,15 +2559,16 @@ Sweet Goods & Snacks,Sw Gds: Kosher,Composite,,desserts,
 Sweet Goods & Snacks,Sw Gds: Puff Pastry,Composite,,desserts,
 Sweet Goods & Snacks,Sw Gds: Specialty Desserts,Composite,,desserts,
 Sweet Goods & Snacks,Sw Gds: Swt/Flvrd Loaves,Composite,,desserts,
-Traditional Asian Foods,Asian Foods And Meals,Composite,,entrée/meal,
-"Traditional MexicanFoods",Mexican Dinners And Foods,Composite,,entrée/meal,
+Traditional Asian Foods,Asian Foods And Meals,Composite,,entr¬ée/meal,
+"Traditional Mexican
+Foods",Mexican Dinners And Foods,Composite,,entr¬ée/meal,
 Trail Mix & Snacks,Trail Mixes/Snack,Composite,,snacks,
  Trail Mix & Snacks                  ,Trail Mixes/Snacks Organic                                                                  ,Composite                                           ,,snacks                                                        ,
-Unknown,Frozen Breakfast,Composite,,entrée/meal,
+Unknown,Frozen Breakfast,Composite,,entr¬ée/meal,
 Unknown,Frozen Dessert (Ice Cream Cake),Composite,,desserts,
-Unknown,Frozen Entrees,Composite,,entrée/meal,
+Unknown,Frozen Entrees,Composite,,entr¬ée/meal,
  Unknown                                  ,Frozen Ice Cream                                                                                   ,Composite                                           ,,desserts                                                     ,
-Unknown,Frozen Side Dish,Composite,,entrée/meal,
+Unknown,Frozen Side Dish,Composite,,entr¬ée/meal,
 Value Added Fruit,Parfait Cups Instore,Composite,,desserts,
 Warehouse Snacks,Canister Snacks,Composite,,snacks,
 Warehouse Snacks,Misc Snacks,Composite,,snacks,
@@ -1557,57 +2578,100 @@ Authentic Asian Foods,Authentic Chinese Foods,Other,,,misc
 Authentic Asian Foods,Authentic Japanese Foods,Other,,,misc
 Authentic Asian Foods,Authentic Thai Foods,Other,,,misc
 Authentic Asian Foods,Other Authentic Asian Foods,Other,,,misc
-"Authentic CaribbeanFoods",Caribbean Foods,Other,,,misc
-"Authentic CentralAmerican Fds",Central American Foods,Other,,,misc
-"Authentic HispanicFds&Product",Hispanic Baking Needs,Other,,,seasoning/baking need
-"Authentic HispanicFds&Product",Authentic Dry Beverages W/O Sweetener,Other,,,unsweetened beverage
-"Authentic HispanicFds&Product",Hispanic Condiments,Other,,,condiments
-"Authentic HispanicFds&Product",Hispanic Spices And Seasonings,Other,,,seasoning/baking need
+"Authentic Caribbean
+Foods",Caribbean Foods,Other,,,misc
+"Authentic Central
+American Fds",Central American Foods,Other,,,misc
+"Authentic Hispanic
+Fds&Product",Hispanic Baking Needs,Other,,,seasoning/baking need
+"Authentic Hispanic
+Fds&Product",Authentic Dry Beverages W/O Sweetener,Other,,,unsweetened beverage
+"Authentic Hispanic
+Fds&Product",Hispanic Condiments,Other,,,condiments
+"Authentic Hispanic
+Fds&Product",Hispanic Spices And Seasonings,Other,,,seasoning/baking need
 Authentic Italian Foods,Other Italian Foods,Other,,,misc
-"Authentic South AmericanFds",South American Foods,Other,,,misc
-Baby Food,Baby Cereal,Other,,,"infantformula/baby food"
-Baby Food,Baby Crackers,Other,,,"infantformula/baby food"
-Baby Food,Baby Food,Other,,,"infantformula/baby food"
-Baby Food,Baby Formula,Other,,,"infantformula/baby food"
-Baby Food,Baby Misc,Other,,,"infantformula/baby food"
-Baby Foods,Baby Food _ Beginner,Other,,,"infantformula/baby food"
-Baby Foods,Baby Food Cereals,Other,,,"infantformula/baby food"
-Baby Foods,Baby Food Junior/All Brands,Other,,,"infantformula/baby food"
-Baby Foods,Baby Juices,Other,,,"infantformula/baby food"
-Baby Foods,Baby Spring Waters,Other,,,"infantformula/baby food"
-Baking,Flours/Grains/Sugar,Other,,,"seasoning/bakingneed"
-Baking,Mixes,Other,,,"seasoning/bakingneed"
-Baking,Spices,Other,,,"seasoning/bakingneed"
-Baking Mixes,Microwave Mixes: All Other,Other,,,"seasoning/bakingneed"
-Baking Mixes,Miscellaneous Package Mixes,Other,,,"seasoning/bakingneed"
-Baking Needs,Baking Cocoa,Other,,,"seasoning/bakingneed"
-Baking Needs,Baking Powder & Soda,Other,,,"seasoning/bakingneed"
-Baking Needs,Bits & Morsels [Baking Needs],Other,,,"seasoning/bakingneed"
+"Authentic South American
+Fds",South American Foods,Other,,,misc
+Baby Food,Baby Cereal,Other,,,"infant
+formula/baby food"
+Baby Food,Baby Crackers,Other,,,"infant
+formula/baby food"
+Baby Food,Baby Food,Other,,,"infant
+formula/baby food"
+Baby Food,Baby Formula,Other,,,"infant
+formula/baby food"
+Baby Food,Baby Misc,Other,,,"infant
+formula/baby food"
+Baby Foods,Baby Food _ Beginner,Other,,,"infant
+formula/baby food"
+Baby Foods,Baby Food Cereals,Other,,,"infant
+formula/baby food"
+Baby Foods,Baby Food Junior/All Brands,Other,,,"infant
+formula/baby food"
+Baby Foods,Baby Juices,Other,,,"infant
+formula/baby food"
+Baby Foods,Baby Spring Waters,Other,,,"infant
+formula/baby food"
+Baking,Flours/Grains/Sugar,Other,,,"seasoning/baking
+need"
+Baking,Mixes,Other,,,"seasoning/baking
+need"
+Baking,Spices,Other,,,"seasoning/baking
+need"
+Baking Mixes,Microwave Mixes: All Other,Other,,,"seasoning/baking
+need"
+Baking Mixes,Miscellaneous Package Mixes,Other,,,"seasoning/baking
+need"
+Baking Needs,Baking Cocoa,Other,,,"seasoning/baking
+need"
+Baking Needs,Baking Powder & Soda,Other,,,"seasoning/baking
+need"
+Baking Needs,Bits & Morsels [Baking Needs],Other,,,"seasoning/baking
+need"
 Baking Needs,Cooking Chocolate (Ex Smi_Swt),Other,,,seasoning/baking need
 Baking Needs,Cooking Chocolate Unsweetened,Other,,,seasoning/baking need
-Baking Needs,Yeast: Dry,Other,,,"seasoning/bakingneed"
-Beverages,Tea Unsweetened (Can/Bottle),Other,,,"unsweetenedbeverage"
-Bulk Food,Bulk Spices,Other,,,"seasoning/bakingneed"
-Bulk Food,Coffee & Tea Bulk,Other,,,"unsweetenedbeverage"
+Baking Needs,Yeast: Dry,Other,,,"seasoning/baking
+need"
+Beverages,Tea Unsweetened (Can/Bottle),Other,,,"unsweetened
+beverage"
+Bulk Food,Bulk Spices,Other,,,"seasoning/baking
+need"
+Bulk Food,Coffee & Tea Bulk,Other,,,"unsweetened
+beverage"
 Bulk Food,Misc Bulk,Other,,,misc
-Coffee & Creamers,Bulk Coffee,Other,,,"unsweetenedbeverage"
+Coffee & Creamers,Bulk Coffee,Other,,,"unsweetened
+beverage"
 Coffee & Creamers,Coffee Pods/Singles/Filter Pac,Other,,,unsweetened beverage
-Coffee & Creamers,Flavored Bag Coffee,Other,,,"unsweetenedbeverage"
-Coffee & Creamers,Flavored Can Coffee,Other,,,"unsweetenedbeverage"
-Coffee & Creamers,Flavored Instant Coffee,Other,,,"unsweetenedbeverage"
-Coffee & Creamers,Ready To Drink Coffee,Other,,,"unsweetenedbeverage"
+Coffee & Creamers,Flavored Bag Coffee,Other,,,"unsweetened
+beverage"
+Coffee & Creamers,Flavored Can Coffee,Other,,,"unsweetened
+beverage"
+Coffee & Creamers,Flavored Instant Coffee,Other,,,"unsweetened
+beverage"
+Coffee & Creamers,Ready To Drink Coffee,Other,,,"unsweetened
+beverage"
 Coffee & Creamers,Ready To Drink Coffee Suppleme,Other,,,unsweetened beverage
 Coffee & Creamers,Specialty Instant Coffee W/O S,Other,,,unsweetened beverage
 Coffee & Creamers,Specialty Instant Coffee W/Swe,Other,,,unsweetened beverage
-Coffee & Creamers,Unflavored Bag Coffee,Other,,,"unsweetenedbeverage"
-Coffee & Creamers,Unflavored Can Coffee,Other,,,"unsweetenedbeverage"
-Coffee & Creamers,Unflavored Instant Coffee,Other,,,"unsweetenedbeverage"
-Coffee Shop,Sv Bev Inged/Portion Pk,Other,,,"unsweetenedbeverage"
-Coffee Shop,Sv Bev: Carb Wat_Flv/Unflv,Other,,,"unsweetenedbeverage"
-"Coffee Shop Sweet Goods& Rtl",Coff Shop: Instant Retail Pack,Other,,,unsweetened beverage
-"Coffee Shop Sweet Goods& Rtl",Coff Shop: Retail Pack Beverag,Other,,,unsweetened beverage
-"Coffee Shop Sweet Goods& Rtl",Coff Shop: Whole Bean Retail P,Other,,,unsweetened beverage
-Condiments,"Ketchup/Mustard/BbqSce/Marina",Other,,,condiments
+Coffee & Creamers,Unflavored Bag Coffee,Other,,,"unsweetened
+beverage"
+Coffee & Creamers,Unflavored Can Coffee,Other,,,"unsweetened
+beverage"
+Coffee & Creamers,Unflavored Instant Coffee,Other,,,"unsweetened
+beverage"
+Coffee Shop,Sv Bev Inged/Portion Pk,Other,,,"unsweetened
+beverage"
+Coffee Shop,Sv Bev: Carb Wat_Flv/Unflv,Other,,,"unsweetened
+beverage"
+"Coffee Shop Sweet Goods
+& Rtl",Coff Shop: Instant Retail Pack,Other,,,unsweetened beverage
+"Coffee Shop Sweet Goods
+& Rtl",Coff Shop: Retail Pack Beverag,Other,,,unsweetened beverage
+"Coffee Shop Sweet Goods
+& Rtl",Coff Shop: Whole Bean Retail P,Other,,,unsweetened beverage
+Condiments,"Ketchup/Mustard/Bbq
+Sce/Marina",Other,,,condiments
  Condiments                             ,Oils/Vinegar                                                                                            ,Other                                                                                    ,,,condiments               
 Condiments,Pickles/Olives/Kraut,Other,,,condiments
 Condiments & Sauces,Bbq Sauce,Other,,,condiments
@@ -1620,32 +2684,73 @@ Condiments & Sauces,Mustard _ All Other,Other,,,condiments
 Condiments & Sauces,Steak & Worchester Sauce,Other,,,condiments
 Condiments & Sauces,Wing Sauce,Other,,,condiments
 Condiments & Sauces,Yellow Mustard,Other,,,condiments
-Deli Specialties (Retail Pk),Dl Spec: Beverages,Other,,,"unsweetenedbeverage"
+Deli Specialties (Retail Pk),Dl Spec: Beverages,Other,,,"unsweetened
+beverage"
 Deli Specialties (Retail Pk),Dl Spec: Must/Oils/Vinegars,Other,,,condiments
-"Deli/Bakery DiscontnuedItems",Deli/Bakery Discontinued Items,Other,,,misc
-"Dietary Aid Prdct/Med LiqNutr",Diet Cntrl Liqs Supplement,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Cntrl Powders Nutritional,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Control Water,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Cntrl Bars (Supplement),Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Cntrl Bars Nutritional,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Cntrl Bars Nutritional W/,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Cntrl Liqs Nutritional,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Diet Energy Drinks,Other,,,"supplements/mealreplacements/energy drinks"
-"Dietary Aid Prdct/Med LiqNutr",Powder Nutrition Products,Other,,,"supplements/mealreplacements/energy drinks"
-Dry Mix Desserts,Gelatin,Other,,,"seasoning/bakingneed"
-"Dry Tea/Coffee/CocoMixes",Coffee Ground,Other,,,"unsweetenedbeverage"
-"Dry Tea/Coffee/CocoMixes",Coffee Whole Bean,Other,,,"unsweetenedbeverage"
-"Dry Tea/Coffee/CocoMixes",Tea Bags (Supplement),Other,,,"unsweetenedbeverage"
-"Dry Tea/Coffee/CocoMixes",Tea Dry,Other,,,"unsweetenedbeverage"
+"Deli/Bakery Discontnued
+Items",Deli/Bakery Discontinued Items,Other,,,misc
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Cntrl Liqs Supplement,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Cntrl Powders Nutritional,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Control Water,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Cntrl Bars (Supplement),Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Cntrl Bars Nutritional,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Cntrl Bars Nutritional W/,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Cntrl Liqs Nutritional,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Diet Energy Drinks,Other,,,"supplements/meal
+replacements/
+energy drinks"
+"Dietary Aid Prdct/Med Liq
+Nutr",Powder Nutrition Products,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Dry Mix Desserts,Gelatin,Other,,,"seasoning/baking
+need"
+"Dry Tea/Coffee/Coco
+Mixes",Coffee Ground,Other,,,"unsweetened
+beverage"
+"Dry Tea/Coffee/Coco
+Mixes",Coffee Whole Bean,Other,,,"unsweetened
+beverage"
+"Dry Tea/Coffee/Coco
+Mixes",Tea Bags (Supplement),Other,,,"unsweetened
+beverage"
+"Dry Tea/Coffee/Coco
+Mixes",Tea Dry,Other,,,"unsweetened
+beverage"
 Dry Sauce/Gravy/Potatoes/ Stuffing,Cooking Bags With Spices/Seaso,Other,,,seasoning/baking need
 Dry Sauce/Gravy/Potatoes/ Stuffing,Gravy Can/Glass,Other,,,seasoning/baking need
 Dry Sauce/Gravy/Potatoes/ Stuffing,Sauce Mixes/Gravy Mixes Dry,Other,,,seasoning/baking need
 Eggs/Muffins/Potatoes,Misc Dairy Refigerated,Other,,,misc
-Enhancements,Enhancements _ Other,Other,,,"supplements/mealreplacements/energy drinks"
+Enhancements,Enhancements _ Other,Other,,,"supplements/meal
+replacements/
+energy drinks"
 Enhancements,Enhancements _ Pickled Items,Other,,,condiments
 Enhancements,Enhancements _ Pickles/Kraut,Other,,,condiments
 Enhancements,Enhancements _ Salads/Spreads,Other,,,condiments
-Enhancements,Enhancements _ Spices/Sauces,Other,,,"seasoning/bakingneed"
+Enhancements,Enhancements _ Spices/Sauces,Other,,,"seasoning/baking
+need"
 European Foods,British Foods,Other,,,misc
 European Foods,French Foods,Other,,,misc
 European Foods,German Foods,Other,,,misc
@@ -1653,47 +2758,95 @@ European Foods,Mediterranean/Greek Foods,Other,,,misc
 European Foods,Other Ethnic Foods,Other,,,misc
  European Foods                      ,Polish Foods                                                                                            ,Other                                                                                    ,,,misc                            
 European Foods,Scandinavian Foods,Other,,,misc
-Fitness & Diet,Fitness&Diet Energy Drinks F/S,Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness&Diet Energy Drinks Non,Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness&Diet Isotonic Drinks,Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness&Diet Isotonic Drinks,Other,,,"supplements/mealreplacements/ener gy drinks"
-Fitness & Diet,Fitness&Diet_Liq (Supplement),Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness&Diet_Liq Ntrtnl,Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness&Diet_Powder (Supplement),Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness&Diet_Powder Ntrtnl,Other,,,"supplements/mealreplacements/energy drinks"
-Fitness & Diet,Fitness/Diet_Meal Replacement,Other,,,"supplements/mealreplacements/energy drinks"
+Fitness & Diet,Fitness&Diet Energy Drinks F/S,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness&Diet Energy Drinks Non,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness&Diet Isotonic Drinks,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness&Diet Isotonic Drinks,Other,,,"supplements/meal
+replacements/ener gy drinks"
+Fitness & Diet,Fitness&Diet_Liq (Supplement),Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness&Diet_Liq Ntrtnl,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness&Diet_Powder (Supplement),Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness&Diet_Powder Ntrtnl,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Fitness & Diet,Fitness/Diet_Meal Replacement,Other,,,"supplements/meal
+replacements/
+energy drinks"
 Frozen Ethnic,Frozen Internaional,Other,,,misc
  Frozen Ethnic                          ,Frozen Kosher                                                                                         ,Other                                                                                    ,,,misc                            
-Frozen Meat Alternatives,Micro Protein,Other,,,"supplements/mealreplacements/energy drinks"
+Frozen Meat Alternatives,Micro Protein,Other,,,"supplements/meal
+replacements/
+energy drinks"
 Frzn Multi Serve,Frozen Other,Other,,,misc
 Gift & Fruit Baskets,Gift Baskets W/Food,Other,,,misc
 Gift & Fruit Baskets,Snack Packs W/Food,Other,,,misc
  Indian Foods                            ,Authentic Indian Foods                                                                         ,Other                                                                                    ,,,misc                            
-Infant Formula,Baby Isotonic Drinks,Other,,,"infantformula/baby food"
-Infant Formula,Infant Formula Concentrate,Other,,,"infantformula/baby food"
-Infant Formula,Infant Formula Milk Base,Other,,,"infantformula/baby food"
-Infant Formula,Infant Formula Ready To Use,Other,,,"infantformula/baby food"
+Infant Formula,Baby Isotonic Drinks,Other,,,"infant
+formula/baby food"
+Infant Formula,Infant Formula Concentrate,Other,,,"infant
+formula/baby food"
+Infant Formula,Infant Formula Milk Base,Other,,,"infant
+formula/baby food"
+Infant Formula,Infant Formula Ready To Use,Other,,,"infant
+formula/baby food"
 Infant Formula,Infant Formula Solutions Large,Other,,,infant formula/baby food
-Infant Formula,Infant Formula Soy Base,Other,,,"infantformula/baby food"
-Infant Formula,Infant Formula Specialty,Other,,,"infantformula/baby food"
+Infant Formula,Infant Formula Soy Base,Other,,,"infant
+formula/baby food"
+Infant Formula,Infant Formula Specialty,Other,,,"infant
+formula/baby food"
 Infant Formula,Infant Formula Starter Large Pk,Other,,,infant formula/baby food
 Infant Formula,Infant Formula Starter/Solution,Other,,,infant formula/baby food
-Infant Formula,Infant Formula Toddler,Other,,,"infantformula/baby food"
-Infant Formula,Infant Formula Up Age,Other,,,"infantformula/baby food"
-Isotonic Drinks,Isotonic Drinks Multi_Pack,Other,,,"supplements/mealreplacements/energy drinks"
-Isotonic Drinks,Isotonic Drinks Multi_Serve,Other,,,"supplements/mealreplacements/energy drinks"
-Isotonic Drinks,Isotonic Drinks Powdered,Other,,,"supplements/mealreplacements/energy drinks"
-Isotonic Drinks,Isotonic Drinks Single Serve,Other,,,"supplements/mealreplacements/energy drinks"
-Isotonic Drinks,Sports Bars,Other,,,"supplements/mealreplacements/energy drinks"
-Isotonic Drinks,Sports Drink N/Supplmnt Milk,Other,,,"supplements/mealreplacements/energy drinks"
-Isotonic Drinks,Sports Drink Supplement,Other,,,"supplements/mealreplacements/energy drinks"
-Juices Super Premium,Juices Antioxidant/Wellness,Other,,,"supplements/mealreplacements/energy drinks"
-Juices Super Premium,Juices Proteins,Other,,,"supplements/mealreplacements/energy drinks"
+Infant Formula,Infant Formula Toddler,Other,,,"infant
+formula/baby food"
+Infant Formula,Infant Formula Up Age,Other,,,"infant
+formula/baby food"
+Isotonic Drinks,Isotonic Drinks Multi_Pack,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Isotonic Drinks,Isotonic Drinks Multi_Serve,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Isotonic Drinks,Isotonic Drinks Powdered,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Isotonic Drinks,Isotonic Drinks Single Serve,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Isotonic Drinks,Sports Bars,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Isotonic Drinks,Sports Drink N/Supplmnt Milk,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Isotonic Drinks,Sports Drink Supplement,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Juices Super Premium,Juices Antioxidant/Wellness,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Juices Super Premium,Juices Proteins,Other,,,"supplements/meal
+replacements/
+energy drinks"
 Kosher,Exotic [Kosher Foods],Other,,,misc
  Kosher                                      ,Further Prepared                                                                                   ,Other                                                                                    ,,,misc                            
-"Kosher Foods AndProducts",Kosher Baking Needs,Other,,,seasoning/baking need
-"Kosher Foods AndProducts",Kosher Condiments,Other,,,condiments
-"Kosher Foods AndProducts",Passover Products,Other,,,misc
+"Kosher Foods And
+Products",Kosher Baking Needs,Other,,,seasoning/baking need
+"Kosher Foods And
+Products",Kosher Condiments,Other,,,condiments
+"Kosher Foods And
+Products",Passover Products,Other,,,misc
  Mediterranean Bar                 ,Sal:Olives/Pickles_Bulk                                                                          ,Other                                                                                    ,,,condiments               
 Mediterranean Bar,Sal:Olives/Pickles_Bulk,Other,,,condiments
  Mediterranean Bar                 ,Sal:Olives/Pickls_Prpck                                                                          ,Other                                                                                    ,,,condiments               
@@ -1702,90 +2855,155 @@ Mixers,Margarita Salt/Sugar/Misc,Other,,,condiments
 Multicultural Products,Asian Processed,Other,,,misc
  Multicultural Products           ,Hispanic Processed Produce                                                                ,Other                                                                                    ,,,misc                            
 Non_Dairy/Dairy Aseptic,Soy/Rice Powder,Other,,,misc
-"Pickle/Relish/PckldVeg&Olives",Green Olives,Other,,,condiments
-"Pickle/Relish/PckldVeg&Olives",Peppers,Other,,,condiments
-"Pickle/Relish/PckldVeg&Olives",Pickld Veg/Peppers/Etc,Other,,,condiments
-"Pickle/Relish/PckldVeg&Olives",Relishes,Other,,,condiments
-"Pickle/Relish/PckldVeg&Olives",Ripe Olives,Other,,,condiments
-"Pickle/Relish/PckldVeg&Olives",Specialty Olives,Other,,,condiments
-"Powder & Crystal DrinkMix",Sugar Free Canister [Powder Drink Mix],Other,,,unsweetened beverage
-"Powder & Crystal DrinkMix",Sugar Free Sticks [Powder Drink Mix],Other,,,unsweetened beverage
-"Powder & Crystal DrinkMix",Tea,Other,,,unsweetened beverage
-"Powder & Crystal DrinkMix",Unsweetened Envelope [Powder Drink Mix],Other,,,unsweetened beverage
+"Pickle/Relish/Pckld
+Veg&Olives",Green Olives,Other,,,condiments
+"Pickle/Relish/Pckld
+Veg&Olives",Peppers,Other,,,condiments
+"Pickle/Relish/Pckld
+Veg&Olives",Pickld Veg/Peppers/Etc,Other,,,condiments
+"Pickle/Relish/Pckld
+Veg&Olives",Relishes,Other,,,condiments
+"Pickle/Relish/Pckld
+Veg&Olives",Ripe Olives,Other,,,condiments
+"Pickle/Relish/Pckld
+Veg&Olives",Specialty Olives,Other,,,condiments
+"Powder & Crystal Drink
+Mix",Sugar Free Canister [Powder Drink Mix],Other,,,unsweetened beverage
+"Powder & Crystal Drink
+Mix",Sugar Free Sticks [Powder Drink Mix],Other,,,unsweetened beverage
+"Powder & Crystal Drink
+Mix",Tea,Other,,,unsweetened beverage
+"Powder & Crystal Drink
+Mix",Unsweetened Envelope [Powder Drink Mix],Other,,,unsweetened beverage
 Prepared/Pdgd Foods,Prepared/Pkgd Food Misc,Other,,,misc
 Processed,Packaged Dry Mixes,Other,,,misc
 Processed,Processed Other,Other,,,misc
 Refrgratd Juices/Drinks,Dairy Case Tea No Sugar Or Swe,Other,,,unsweetened beverage
 Refrigerated Dairy Case,Non_Dairy Milks,Other,,,misc
-Refrigerated Dairy Case,Tea W/O Sweetener/Sugar,Other,,,"unsweetenedbeverage"
+Refrigerated Dairy Case,Tea W/O Sweetener/Sugar,Other,,,"unsweetened
+beverage"
 Refrigerated Grocery,Misc: Herring/Pickles/Horserad,Other,,,condiments
 Refrigerated Grocery,Refrigerated Kosher Products,Other,,,misc
-"Refrigerated HispanicGrocery",Hispanic Cultured Products,Other,,,misc
-"Refrigerated HispanicGrocery",Misc Hispanic Grocery,Other,,,misc
-"Refrigerated HispanicGrocery",Refrigerated Hispanic Drinks,Other,,,misc
+"Refrigerated Hispanic
+Grocery",Hispanic Cultured Products,Other,,,misc
+"Refrigerated Hispanic
+Grocery",Misc Hispanic Grocery,Other,,,misc
+"Refrigerated Hispanic
+Grocery",Refrigerated Hispanic Drinks,Other,,,misc
 Refrigerated Vegetarian,Vegetarian Misc,Other,,,misc
-Restricted Diet,Baking,Other,,,"seasoning/bakingneed"
-Restricted Diet,Beverage,Other,,,"supplements/mealreplacements/energy drinks"
-Restricted Diet,Breakfast Foods,Other,,,"supplements/mealreplacements/energy drinks"
-Restricted Diet,Diet Bars/Diet Liquid Meals,Other,,,"supplements/mealreplacements/energy drinks"
-Restricted Diet,Misc Diet,Other,,,"supplements/mealreplacements/energy drinks"
-Rtd Tea/New Age Juice,Sparkling Tea,Other,,,"unsweetenedbeverage"
-Rtd Tea/New Age Juice,Tea Unsweetened,Other,,,"unsweetenedbeverage"
+Restricted Diet,Baking,Other,,,"seasoning/baking
+need"
+Restricted Diet,Beverage,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Restricted Diet,Breakfast Foods,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Restricted Diet,Diet Bars/Diet Liquid Meals,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Restricted Diet,Misc Diet,Other,,,"supplements/meal
+replacements/
+energy drinks"
+Rtd Tea/New Age Juice,Sparkling Tea,Other,,,"unsweetened
+beverage"
+Rtd Tea/New Age Juice,Tea Unsweetened,Other,,,"unsweetened
+beverage"
 Salad & Dips,Sal: Kosher,Other,,,misc
  Salad & Dips                            ,Sal:Dip Prepack                                                                                      ,Other                                                                                    ,,,condiments               
 Salad Bar,Condiments/Supplies,Other,,,condiments
  Salad Bar                                  ,Salad Bar Other                                                                                      ,Other                                                                                    ,,,misc                            
-"Salad Dresing&SandwichSpreads",Dry Salad Dressing&Dip Mixes,Other,,,condiments
-"Seafood _Salad/Dip/Sce/Cond",Dips/Spreads,Other,,,condiments
-"Seafood _Salad/Dip/Sce/Cond",Sauces,Other,,,condiments
-"Seafood _Salad/Dips/Sce/Cond",Other Pkgd Dip/Sauce/Condiment,Other,,,condiments
-"Seafood _Salad/Dips/Sce/Cond",Sauces,Other,,,condiments
-"Seafood _Salad/Dips/Sce/Cond",Spices/Marinades,Other,,,condiments
-Service Beverage,Sv Bev: Coffee,Other,,,"unsweetenedbeverage"
-Service Beverage,Sv Bev: Flav Tea Products,Other,,,"unsweetenedbeverage"
+"Salad Dresing&Sandwich
+Spreads",Dry Salad Dressing&Dip Mixes,Other,,,condiments
+"Seafood _
+Salad/Dip/Sce/Cond",Dips/Spreads,Other,,,condiments
+"Seafood _
+Salad/Dip/Sce/Cond",Sauces,Other,,,condiments
+"Seafood _
+Salad/Dips/Sce/Cond",Other Pkgd Dip/Sauce/Condiment,Other,,,condiments
+"Seafood _
+Salad/Dips/Sce/Cond",Sauces,Other,,,condiments
+"Seafood _
+Salad/Dips/Sce/Cond",Spices/Marinades,Other,,,condiments
+Service Beverage,Sv Bev: Coffee,Other,,,"unsweetened
+beverage"
+Service Beverage,Sv Bev: Flav Tea Products,Other,,,"unsweetened
+beverage"
 Service Beverage,Sv Bev: N/Carb Flv Frk/Minwtr,Other,,,unsweetened beverage
-Service Beverage,Sv Bev: Spring Water,Other,,,"unsweetenedbeverage"
-Shelf Stable Juice,Tea Bottles,Other,,,"unsweetenedbeverage"
-Soft Drinks,Club Soda,Other,,,"unsweetenedbeverage"
+Service Beverage,Sv Bev: Spring Water,Other,,,"unsweetened
+beverage"
+Shelf Stable Juice,Tea Bottles,Other,,,"unsweetened
+beverage"
+Soft Drinks,Club Soda,Other,,,"unsweetened
+beverage"
 Soft Drinks,Misc Items For Soft Drinks,Other,,,unsweetened beverage
-Soft Drinks,Seltzer Unflavored,Other,,,"unsweetenedbeverage"
+Soft Drinks,Seltzer Unflavored,Other,,,"unsweetened
+beverage"
 Soft Drinks,Unswntd Flavored Seltzer Water,Other,,,unsweetened beverage
-Spices & Extracts,Food Colorings,Other,,,"seasoning/bakingneed"
-Spices & Extracts,Gourmet Spices,Other,,,"seasoning/bakingneed"
-Spices & Extracts,Imitation Extracts,Other,,,"seasoning/bakingneed"
-Spices & Extracts,Pure Extracts,Other,,,"seasoning/bakingneed"
-Spices & Extracts,Salt Substitutes,Other,,,"seasoning/bakingneed"
-Spices & Extracts,Spices & Seasonings,Other,,,"seasoning/bakingneed"
+Spices & Extracts,Food Colorings,Other,,,"seasoning/baking
+need"
+Spices & Extracts,Gourmet Spices,Other,,,"seasoning/baking
+need"
+Spices & Extracts,Imitation Extracts,Other,,,"seasoning/baking
+need"
+Spices & Extracts,Pure Extracts,Other,,,"seasoning/baking
+need"
+Spices & Extracts,Salt Substitutes,Other,,,"seasoning/baking
+need"
+Spices & Extracts,Spices & Seasonings,Other,,,"seasoning/baking
+need"
 Spices & Extracts,Table Salt/Popcorn Salt/Ice Cr,Other,,,seasoning/baking need
-Spices & Extracts,Traditional Spices,Other,,,"seasoning/bakingneed"
-Spices/Jarred Garlic,Spices & Seasonings,Other,,,"seasoning/bakingneed"
-Spices/Jarred Garlic,Spices & Seasonings Organic,Other,,,"seasoning/bakingneed"
-Teas,Bulk Tea,Other,,,"unsweetenedbeverage"
-Teas,Instant Tea & Tea Mix,Other,,,"unsweetenedbeverage"
-Teas,Supplemental Tea,Other,,,"unsweetenedbeverage"
-Teas,Tea Bags & Bulk Tea,Other,,,"unsweetenedbeverage"
-Teas,Tea Bags/Chai,Other,,,"unsweetenedbeverage"
-Teas,Tea Bags/Green,Other,,,"unsweetenedbeverage"
-Teas,Tea Bags/Herbal,Other,,,"unsweetenedbeverage"
-Traditional Asian Foods,Asian Other Sauces/Marinad,Other,,,"seasoning/bakingneed"
-Traditional Asian Foods,Asian Soy Sauce,Other,,,"seasoning/bakingneed"
+Spices & Extracts,Traditional Spices,Other,,,"seasoning/baking
+need"
+Spices/Jarred Garlic,Spices & Seasonings,Other,,,"seasoning/baking
+need"
+Spices/Jarred Garlic,Spices & Seasonings Organic,Other,,,"seasoning/baking
+need"
+Teas,Bulk Tea,Other,,,"unsweetened
+beverage"
+Teas,Instant Tea & Tea Mix,Other,,,"unsweetened
+beverage"
+Teas,Supplemental Tea,Other,,,"unsweetened
+beverage"
+Teas,Tea Bags & Bulk Tea,Other,,,"unsweetened
+beverage"
+Teas,Tea Bags/Chai,Other,,,"unsweetened
+beverage"
+Teas,Tea Bags/Green,Other,,,"unsweetened
+beverage"
+Teas,Tea Bags/Herbal,Other,,,"unsweetened
+beverage"
+Traditional Asian Foods,Asian Other Sauces/Marinad,Other,,,"seasoning/baking
+need"
+Traditional Asian Foods,Asian Soy Sauce,Other,,,"seasoning/baking
+need"
 Traditional Asian Foods,Traditional Thai Foods,Other,,,misc
-"Traditional MexicanFoods",Mexican Seasoning Mixes,Other,,,"seasoning/bakingneed"
-"Traditional MexicanFoods",Mexican Taco Sauce,Other,,,condiments
+"Traditional Mexican
+Foods",Mexican Seasoning Mixes,Other,,,"seasoning/baking
+need"
+"Traditional Mexican
+Foods",Mexican Taco Sauce,Other,,,condiments
 Unknown,Frozen Misc,Other,,,misc
-Vinegar&Cooking Wines,Cooking Wines,Other,,,"seasoning/bakingneed"
-Vinegar&Cooking Wines,Specialty Vinegar,Other,,,"seasoning/bakingneed"
-Vinegar&Cooking Wines,Vinegar/White&Cider,Other,,,"seasoning/bakingneed"
-Water,Carb Water Unflvrd,Other,,,"unsweetenedbeverage"
+Vinegar&Cooking Wines,Cooking Wines,Other,,,"seasoning/baking
+need"
+Vinegar&Cooking Wines,Specialty Vinegar,Other,,,"seasoning/baking
+need"
+Vinegar&Cooking Wines,Vinegar/White&Cider,Other,,,"seasoning/baking
+need"
+Water,Carb Water Unflvrd,Other,,,"unsweetened
+beverage"
 Water,Carb Water_Flvrd Unsweetened,Other,,,unsweetened beverage
-Water,Fortified/Water,Other,,,"unsweetenedbeverage"
+Water,Fortified/Water,Other,,,"unsweetened
+beverage"
 Water,Non_Carb Water Flvr _ Drnk/Mnr,Other,,,unsweetened beverage
 Water,Non_Carb Water Flvr _ Unsweetened,Other,,,unsweetened beverage
-Water _ (Sparkling&Still),Distilled Water,Other,,,"unsweetenedbeverage"
+Water _ (Sparkling&Still),Distilled Water,Other,,,"unsweetened
+beverage"
 Water _ (Sparkling&Still),Sparkling Water _ Flvrd Sweet,Other,,,unsweetened beverage
 Water _ (Sparkling&Still),Sparkling Water _ Flvrd Unsweetened,Other,,,unsweetened beverage
 Water _ (Sparkling&Still),Sparkling Water _ Unflavored,Other,,,unsweetened beverage
-Water _ (Sparkling&Still),Spring Water,Other,,,"unsweetenedbeverage"
+Water _ (Sparkling&Still),Spring Water,Other,,,"unsweetened
+beverage"
 Water _ (Sparkling&Still),Still Water Drnking/Mnrl Water,Other,,,unsweetened beverage
 Water _ (Sparkling&Still),Still Water Flvrd Drnk/Mnrl Wt,Other,,,unsweetened beverage
 Water _ (Sparkling&Still),Still Water Flvrd Unsweetened,Other,,,unsweetened beverage
