@@ -23,7 +23,7 @@ snap_appendix1 <-
   mutate_at(vars(snap_rank:nonsnap_pct_total_expenditures), funs(as.numeric(gsub(",|%|\\$", "", .)))) %>%
   mutate_at(vars(contains("pct")), funs(./100))
 
-snap_appendix1 <- write_csv(snap_appendix1, "snap_appendix1.csv")
+snap_appendix1 <- write_csv(snap_appendix1, here::here("data", "snap_appendix1.csv"))
 
 snap_appendix1_tidy <-
   snap_appendix1 %>% 
