@@ -75,7 +75,20 @@ snap_appendix_a2 <-
   mutate_at(vars(snap_rank:nonsnap_pct_total_expenditures), funs(as.numeric(gsub(",|%|\\$", "", .)))) %>%
   mutate_at(vars(contains("pct")), list(~ ./100))
 
-# write data --------------------------------------------------------------
+
+# appendix b --------------------------------------------------------------
+
+snap_appendix_b <- 
+  snap_appendices %>%
+  map(as_tibble) %>%
+  map_df(~ slice(., -2)) %>% # create a dataframe
+  select(V1:V3) %>% 
+  slice(1280:2304) %>% 
+  rename(commodity = V1,
+         subcommodity = V2,
+         summary_category = V3)
+
+  # write data --------------------------------------------------------------
 
 snap_summary_tab <-
   write_csv(snap_summary_tab, here::here("output", "snap_summary_tab.csv"))
@@ -85,3 +98,6 @@ snap_appendix_a1 <-
 
 snap_appendix_a2 <- 
   write_csv(snap_appendix_a2, here::here("output", "snap_appendix_a2.csv"))
+
+snap_appendix_b <- 
+  write_csv(snap_appendix_b, here::here("output", "snap_appendix_b.csv"))
