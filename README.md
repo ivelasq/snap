@@ -8,6 +8,10 @@ These data are available on the [FNS website](https://www.fns.usda.gov/snap/food
 
 Using `tabulizer` and the tidyverse, I was able to extract these tables into CSVs and clean them up so they're actually useable.
 
+* Code: The R code used to download, transform, and clean the PDFs.
+* Docs: The original PDF's, in case they're ever taken off the site.
+* Output: The cleaned CSV's created from the PDF's.
+
 I wrote a little bit more detail in my blog [article](http://bit.ly/snappdfs) - please take a look!
 
 ## Summary
