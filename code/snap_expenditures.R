@@ -47,3 +47,8 @@ snap_appendix1_household <-
 #   mutate(slope = (value[household == "snap"] - value[household == "nonsnap"])/(2-1)) %>% 
 #   ggplot(aes(x = household, y = value, group = commodity, colour = slope > 0)) +
 #   geom_line()
+
+
+snap_appendix1 %>% 
+ ggplot(aes(x = snap_rank, y = nonsnap_rank)) +
+ geom_point()
