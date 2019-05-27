@@ -1,0 +1,1001 @@
+commodity,subcommodity,snap_rank,snap_dollars_in_millions,snap_pct_total_expenditures,nonsnap_rank,nonsnap_dollars_in_millions,nonsnap_pct_total_expenditures
+Fluid Milk Products,ÄŠ å´ƒç€€æ“– Milk/White Only,1,191.1,0.028999999999999998,1,853.8,0.0271
+Soft Drinks,Soft Drinks 12/18&15pk Can Car,2,164.6,0.025,2,601.2,0.0191
+Beef:Grinds,Lean [Beef],3,112.4,0.0171,7,257.9,0.008199999999999999
+Cold Cereal,Kids Cereal,4,78.1,0.011899999999999999,20,186.4,0.0059
+Cheese,Shredded Cheese,5,74.7,0.011399999999999999,3,342,0.0109
+Soft Drinks,Sft Drnk 2 Liter Btl Carb Incl,6,70.9,0.0108,12,230.1,0.0073
+Bag Snacks,Potato Chips,7,64.4,0.0098,8,253.2,0.008
+Beef:Grinds,Primal [Beef],8,62.4,0.0095,14,219.8,0.006999999999999999
+Lunchmeat,Lunchmeat â€ Deli Fresh,9,55.8,0.0085,11,242.6,0.0077
+Infant Formula,Infant Formula Starter/Solution,10,54.2,0.008199999999999999,190,45.3,0.0014000000000000002
+Eggs/Muffins/Potatoes,Eggs â€“ Large,11,52.1,0.0079,9,251.6,0.008
+Chicken Fresh,Chicken Breast Boneless,12,49.6,0.0075,4,292.9,0.009300000000000001
+Water â€ (Sparkling&Still),Still Water Drnking/Mnrl Water,13,48.8,0.0074,19,187.7,0.006
+Baked Breads,Mainstream White Bread,14,48,0.0073,39,136.8,0.0043
+Bag Snacks,Tortilla/Nacho Chips,15,47.4,0.0072,17,209,0.0066
+Frozen Handhelds & Snacks,Snacks/Appetizers,16,44.6,0.0068000000000000005,65,100.5,0.0032
+Cheese,American Single Cheese,17,44.1,0.0067,41,136.6,0.0043
+Frzn Ss Premium Meals,Fz Ss Prem Traditional Meals,18,43.8,0.0067,24,175.4,0.005600000000000001
+Refrgratd Juices/Drinks,Dairy Case 100% Pure Juice â€ O,19,43.5,0.0066,6,269,0.0085
+Baked Sweet Goods,Snack Cake â€ Multi Pack,20,41.6,0.0063,63,101.7,0.0032
+Pork Boneless Loin/Rib,Enhanced [Pork Boneless Loin/Rib],21,41.5,0.0063,27,168,0.0053
+Coffee & Creamers,Unflavored Can Coffee,22,41.3,0.0063,18,198,0.0063
+Frzn Ss Economy Meals,Fz Ss Economy Meals All,23,40.9,0.0062,81,80.7,0.0026
+Bacon,Bacon â€ Trad 16oz Or Less,24,40.7,0.0062,29,157.6,0.005
+Soft Drinks,Soft Drinks 20pk&24pk Can Carb,25,39.7,0.006,60,106.4,0.0034000000000000002
+Frozen Pizza,Pizza/Premium,26,39.7,0.006,32,153.3,0.0049
+Baked Breads,Mainstream Variety Breads,27,38.4,0.0058,26,173.2,0.0055000000000000005
+Sugars & Sweeteners,Sugar,28,36.9,0.005600000000000001,55,112.7,0.0036
+Cold Cereal,All Family Cereal,29,36.2,0.0055000000000000005,16,214.9,0.0068000000000000005
+Frozen Handhelds & Snacks,Sandwiches&Handhelds,30,35.9,0.0054,91,73.6,0.0023
+Potatoes,Potatoes Russet (Bulk&Bag),31,35.8,0.0054,30,154.5,0.0049
+Cheese,Natural Cheese Chunks,32,35.3,0.0054,15,216.1,0.0069
+Pork Thin Meats,Ribs [Pork],33,35,0.0053,59,106.8,0.0034000000000000002
+Convenient Meals,Convenient Meals â€ Kids Meal C,34,34.2,0.0052,96,69.7,0.0022
+Bananas,Bananas,35,34.2,0.0052,10,242.7,0.0077
+Soft Drinks,Sft Drnk Mltâ€Pk Btl Carb (Excp,36,34,0.0052,25,173.6,0.0055000000000000005
+Ice Cream Ice Milk & Sherbets,Premium [Ice Cream & Sherbert],37,31.2,0.004699999999999999,13,226,0.0072
+Isotonic Drinks,Isotonic Drinks Single Serve,38,30.5,0.0046,47,119.5,0.0038
+Chicken Frozen,Frzn Chicken â€ Wht Meat,39,30,0.0046,66,99.8,0.0032
+Canned Soups,Condensed Soup,40,29.7,0.0045000000000000005,31,153.6,0.0049
+Salad Dresing&Sandwich Spreads,Pourable Salad Dressings,41,29,0.0044,37,139.4,0.0044
+Beef:Loins,Choice Beef,42,28.4,0.0043,40,136.6,0.0043
+Beef:Loins,Select Beef,43,27.9,0.0042,36,143.7,0.0046
+Soft Drinks,Sft Drnk Sngl Srv Btl Carb (Ex,44,27.8,0.0042,94,71.4,0.0023
+Frzn Multi Serve,Fz Family Style Entrees,45,27.6,0.0042,77,83.5,0.0026
+Salad Dresing&Sandwich Spreads,Mayonnaise&Whipped Dressing,46,27.3,0.0040999999999999995,48,119.1,0.0038
+Frozen Vegetable & Veg Dish,Fz Bag Vegetables â€“ Plain,47,25.7,0.0039000000000000003,42,131.9,0.0042
+Ice Cream Ice Milk & Sherbets,Traditional [Ice Cream & Sherbert],48,25.6,0.0039000000000000003,49,118.7,0.0038
+Hot Dogs,Hot Dogs â€ Base Meat,49,25.1,0.0038,138,56.8,0.0018
+Cold Cereal,Adult Cereal,50,24.9,0.0038,21,182.6,0.0058
+Frzn Ss Premium Meals,Fz Ss Prem Nutritional Meals,51,24.7,0.0038,5,271.6,0.0086
+Dinner Mixesâ€Dry,Macaroni & Cheese Dnrs,52,24.3,0.0037,125,59.7,0.0019
+Aseptic Juice,Aseptic Pack Juice And Drinks,53,24.2,0.0037,134,57.1,0.0018
+Fluid Milk Products,Refrigerated Coffee Creamers,54,24.1,0.0037,34,147.2,0.004699999999999999
+Beef:Round,Choice Beef,55,24,0.0037,92,72.5,0.0023
+Traditional Mexican Foods,Mexican Soft Tortillas And Wraps,56,23.7,0.0036,54,113.1,0.0036
+Berries,Strawberries,57,23.5,0.0036,22,178.4,0.005699999999999999
+Margarines,Margarine: Tubs And Bowls,58,23.4,0.0036,64,100.9,0.0032
+Pasta & Pizza Sauce,Mainstream [Pasta & Pizza Sauce],59,23,0.0034999999999999996,80,81,0.0026
+Chicken Fresh,Chicken Wings,60,22.2,0.0034000000000000002,300,28.6,9e-4
+Canned Pasta&Mwv Fdâ€Shlf Stbl,Can Pasta,61,22.2,0.0034000000000000002,179,47.7,0.0015
+Chicken Frozen,Frzn Chicken â€“ Wings,62,22.2,0.0034000000000000002,452,17.4,6e-4
+Lunchmeat,Lunchmeat â€ Bologna/Sausage,63,21.8,0.0033,121,60.9,0.0019
+Bag Snacks,Mult Pk Bag Snacks,64,21.6,0.0033,199,43.4,0.0014000000000000002
+Candy â€“ Packaged,Candy Bagsâ€Chocolate,65,21.5,0.0033,33,147.5,0.004699999999999999
+Sweet Goods,Sw Gds:Donuts,66,21.3,0.0032,78,82.3,0.0026
+Can Seafood â€ Shelf Stable,Tuna,67,21.1,0.0032,57,109.9,0.0034999999999999996
+Shortening & Oil,Vegetable Oil,68,20.5,0.0031,246,35.4,0.0011
+Frozen Potatoes,Frzn French Fries,69,20.5,0.0031,163,50.3,0.0016
+Peanut Butter/Jelly/Jams&Honey,Peanut Butter,70,20.4,0.0031,43,127.8,0.0040999999999999995
+Frozen Pizza,Pizza/Economy,71,19.8,0.003,192,45.1,0.0014000000000000002
+Margarines,Butter,72,19.6,0.003,23,175.6,0.005600000000000001
+Deli Meat: Bulk,Meat: Turkey Bulk,73,19.3,0.0029,28,159.6,0.0051
+Frozen Breakfast Foods,Frzn Breakfast Sandwiches,74,19.1,0.0029,142,55.7,0.0018
+Meat Frozen,Frzn Meat â€“ Beef,75,19,0.0029,185,46.3,0.0015
+Frzn Multi Serve,Fz Skillet Meals,76,18.8,0.0029,83,79.3,0.0025
+Frzn Prepared Chicken,Value Forms/ 18oz And Larger [Chicken],77,18.6,0.0028000000000000004,209,42.6,0.0014000000000000002
+Cakes,Cakes: Birthday/Celebration,78,18.6,0.0028000000000000004,164,50.3,0.0016
+Cookies,Sandwich Cookies,79,18,0.0027,93,71.8,0.0023
+Frozen Pizza,Pizza/Traditional,80,17.9,0.0027,111,64.1,0.002
+Fruit Snacks,Fruit Snacks,81,17.6,0.0027,202,43.2,0.0014000000000000002
+Rts/Micro Soup/Broth,Rts Soup: Chunky/Homestyle,82,17.6,0.0027,46,119.9,0.0038
+Milk Byâ€Products,Sour Creams,83,17.5,0.0027,70,95.2,0.003
+Frozen Breakfast Foods,Waffles/Pancakes/French Toast,84,17.3,0.0026,90,77.4,0.0025
+Chicken Fresh,Chicken Drums,85,17.3,0.0026,270,31.5,0.001
+Bagels&Cream Cheese,Cream Cheese,86,17.2,0.0026,51,115.5,0.0037
+Beef:Grinds,Angus [Beef],87,17.1,0.0026,61,103.8,0.0033
+Bag Snacks,Bagged Cheese Snacks,88,17.1,0.0026,157,52,0.0016
+Bag Snacks,Salsa & Dips,89,17.1,0.0026,135,57,0.0018
+Sandwiches,Sandwiches â€ (Cold),90,16.9,0.0026,106,67.7,0.0021
+Dry/Ramen Bouillon,Ramen Noodles/Ramen Cups,91,16.7,0.0025,304,28.1,9e-4
+Crackers & Misc Baked Food,Cheese Crackers,92,16.5,0.0025,72,90.2,0.0029
+Dinner Sausage,Dnr Sausage â€ Links Pork Ckd,93,16.4,0.0025,233,37.6,0.0012
+Candy â€“ Checklane,Candy Bars (Singles),94,16.3,0.0025,146,54.9,0.0017000000000000001
+Baked Breads,Hamburger Buns,95,16.2,0.0025,95,70.2,0.0022
+Baked Breads,Hot Dog Buns,96,16.2,0.0025,117,62.2,0.002
+Water â€ (Sparkling&Still),Spring Water,97,16.2,0.0025,69,95.6,0.003
+Refrgratd Juices/Drinks,Dairy Case Juice Drnk Under 10 oz,98,16,0.0024,177,48,0.0015
+Fluid Milk Products,Flavored Milk,99,16,0.0024,128,59.4,0.0019
+Baked Sweet Goods,Sweet Goods â€ Full Size,100,15.8,0.0024,133,57.9,0.0018
+Grapes,Grapes Red,101,15.8,0.0024,45,121.7,0.0039000000000000003
+Candy â€“ Packaged,Candy Bars (Multi Pack),102,15.6,0.0024,97,69.6,0.0022
+Grapes,Grapes White,103,15.5,0.0023,76,84.9,0.0027
+Cookies,Tray Pack/Choc Chip Cookies,104,15.3,0.0023,153,53.9,0.0017000000000000001
+Deli Meat: Bulk,Meat:Ham Bulk,105,15.3,0.0023,50,115.9,0.0037
+Cheese,String Cheese,106,15.1,0.0023,67,99,0.0031
+Breakfast Sausage,Bkfst Sausage â€ Fresh Rolls,107,15.1,0.0023,119,61.4,0.0019
+Seafood â€“ Shrimp,Shrimp â€“ Raw,108,15,0.0023,99,69,0.0022
+Seafood â€“ Shrimp,Shrimp â€“ Cooked,109,14.8,0.0022,152,54,0.0017000000000000001
+Refrgrated Dough Products,Refrigerated Biscuits,110,14.7,0.0022,191,45.2,0.0014000000000000002
+Crackers & Misc Baked Food,Butter Spray Cracker,111,14.6,0.0022,101,68.7,0.0022
+Frozen Noveltiesâ€Water Ice,Sticks/Enrobed [Frozen Novelties],112,14.2,0.0022,126,59.7,0.0019
+Spices & Extracts,Traditional Spices,113,14.1,0.0021,120,61.2,0.0019
+Frozen Noveltiesâ€Water Ice,Water Ice [Frozen Novelties],114,14,0.0021,160,50.6,0.0016
+Yogurt,Yogurt/Kids,115,14,0.0021,212,42.4,0.0013
+Cnv Breakfast&Wholesome Snks,Toaster Pastries,116,14,0.0021,180,47.6,0.0015
+Dry Bean Veg&Rice,Rice Side Dish Mixes Dry,117,14,0.0021,184,46.7,0.0015
+Ice Cream Ice Milk & Sherbets,Pails [Ice Cream & Sherbert],118,13.9,0.0021,250,35.1,0.0011
+Milk Byâ€Products,Cottage Cheese,119,13.9,0.0021,58,108.8,0.0034999999999999996
+Rtd Tea/New Age Juice,Tea Sweetened,120,13.9,0.0021,102,68.7,0.0022
+Can Beans,Prepared Beans â€ Baked W/Pork,121,13.4,0.002,145,55.3,0.0018
+Cheese,Natural Cheese Slices,122,13.4,0.002,53,113.2,0.0036
+Tropical Fruit,Avocado,123,13.4,0.002,56,112.6,0.0036
+Meat â€ Shelf Stable,Chili: Canned,124,13.3,0.002,206,42.8,0.0014000000000000002
+Shelf Stable Juice,Apple Juice & Cider (Over 50%),125,13.3,0.002,187,45.8,0.0015
+Value Added Fruit,Instore Cut Fruit,126,13.2,0.002,74,85.8,0.0027
+Candy â€“ Checklane,Chewing Gum,127,13.2,0.002,103,68.3,0.0022
+Salad Mix,Blends [Salad Mix],128,13.1,0.002,44,124,0.0039000000000000003
+Popcorn,Popcorn â€“ Microwave,129,13.1,0.002,114,63.4,0.002
+Turkey Grinds,Ground Turkey,130,13.1,0.002,87,78,0.0025
+Dinner Sausage,Dnr Sausage â€ Links Fresh,131,13,0.002,132,58,0.0018
+Dinner Mixesâ€Dry,Skillet Dinners,132,13,0.002,332,25.8,8e-4
+Dry Noodles & Pasta,Long Cut Pasta,133,13,0.002,122,60.4,0.0019
+Chicken Fresh,Whole Chicken (Roasters/Fryer),134,12.9,0.002,136,56.9,0.0018
+Frozen Pizza,Pizza/Single Serve/Microwave,135,12.8,0.0019,203,43.2,0.0014000000000000002
+Can Vegetables â€ Shelf Stable,Green Beans: Fs/Whl/Cut,136,12.8,0.0019,155,53.1,0.0017000000000000001
+Cnv Breakfast&Wholesome Snks,Granola Bars,137,12.8,0.0019,73,88.9,0.0028000000000000004
+Candy â€“ Packaged,Candy Bagsâ€Non Chocolate,138,12.6,0.0019,147,54.9,0.0017000000000000001
+Citrus,Oranges Navels All,139,12.6,0.0019,84,79.3,0.0025
+Baked Breads,Premium Bread,140,12.3,0.0019,35,144.7,0.0046
+Dry Sce/Gravy/Potatoes/Stuffng,Potatoes: Dry,141,12.3,0.0019,262,32.3,0.001
+Condiments & Sauces,Bbq Sauce,142,12.3,0.0019,226,38.6,0.0012
+Chicken Fresh,Chicken Thighs,143,12.2,0.0019,165,50,0.0016
+Dinner Sausage,Dnr Sausage â€ Pork Rope Ckd,144,12.1,0.0018,227,38.2,0.0012
+Can Vegetables â€ Shelf Stable,Corn,145,12.1,0.0018,197,44,0.0014000000000000002
+Bacon,Bacon â€ Trad Greater Than 16oz,146,12,0.0018,193,44.6,0.0014000000000000002
+Super Premium Pints [Ice Cream & Ice Cream Ice Milk & Sherbets,147 Sherbert],11.8,0.18,0.71,91.1,0.29,NA
+Baby Foods,Baby Food â€“ Beginner,148,11.7,0.0018,303,28.1,9e-4
+Molasses/Syrups/Pancake Mixes,Molasses & Syrups,149,11.7,0.0018,130,58.7,0.0019
+Water,Nonâ€Carb Water Flvr â€ Drnk/Mnr,150,11.6,0.0018,115,63.4,0.002
+Vegetables Salad,Head Lettuce,151,11.6,0.0018,143,55.5,0.0018
+Condiments & Sauces,Catsup,152,11.5,0.0017000000000000001,216,41.5,0.0013
+Dry Sce/Gravy/Potatoes/Stuffng,Sauce Mixes/Gravy Mixes Dry,153,11.5,0.0017000000000000001,183,46.7,0.0015
+Beef:Thin Meats,Soup/Stew,154,11.2,0.0017000000000000001,195,44.1,0.0014000000000000002
+Baby Foods,Baby Food Junior/All Brands,155,11.2,0.0017000000000000001,311,27.5,9e-4
+Frzn Prepared Chicken,Whole Muscle Breaded/ 18oz,156,11.1,0.0017000000000000001,285,29.9,9e-4
+Cakes,Cakes: Cupcakes,157,11.1,0.0017000000000000001,247,35.3,0.0011
+Refrgratd Juices/Drinks,Dairy Case Citrus Pnch/Oj Subs,158,11,0.0017000000000000001,254,34.4,0.0011
+Yogurt,Yogurt/Ss Regular,159,11,0.0017000000000000001,100,69,0.0022
+Dry Cheese,Loaf Cheese,160,10.9,0.0017000000000000001,229,38.1,0.0012
+Frozen Handhelds & Snacks,Corn Dogs,161,10.9,0.0017000000000000001,401,20.6,7.000000000000001e-4
+Cnv Breakfast&Wholesome Snks,Cereal Bars,162,10.9,0.0017000000000000001,86,78.4,0.0025
+Isotonic Drinks,Isotonic Drinks Multiâ€Pack,163,10.8,0.0016,131,58.1,0.0018
+Cookies,Cookies: Regular,164,10.8,0.0016,127,59.6,0.0019
+Shelf Stable Juice,Fruit Drinks: Canned & Glass,165,10.6,0.0016,617,10.9,3e-4
+Single Serve Fruit/Applesauce,Fruit Cup,166,10.6,0.0016,207,42.7,0.0014000000000000002
+Can Beans,Variety Beans â€ Kidney/Pinto,167,10.5,0.0016,104,68,0.0022
+Frozen Vegetable & Veg Dish,Frzn Steamable Vegetables,168,10.5,0.0016,79,81.4,0.0026
+Coffee & Creamers,Non Dairy Creamer,169,10.5,0.0016,244,35.4,0.0011
+Beef:Thin Meats,Cubed Meats [Beef],170,10.5,0.0016,286,29.8,9e-4
+Hot Dogs,Hot Dogs â€ Base Beef,171,10.3,0.0016,171,49.4,0.0016
+Yogurt,Yogurt/Ss Light,172,10.2,0.0016,62,103.1,0.0033
+Traditional Mexican Foods,Mexican Sauces And Picante Sauce,173,10.2,0.0016,116,62.3,0.002
+Frozen Handhelds & Snacks,Burritos,174,10.2,0.0015,406,20,6e-4
+Eggs/Muffins/Potatoes,Eggs â€“ Medium,175,10.1,0.0015,394,21,7.000000000000001e-4
+Dry Noodles & Pasta,Short Cut Pasta,176,9.9,0.0015,140,56.2,0.0018
+Dinner Mixesâ€Dry,Microwave Dinners,177,9.8,0.0015,220,39.9,0.0013
+Cakes,Cakes: Layers,178,9.8,0.0015,228,38.2,0.0012
+Pork Shoulder,Butts [Pork Shoulder],179,9.7,0.0015,292,29.2,9e-4
+Frzn Prepared Chicken,Boneless Snack/18oz And Larger,NA,NA,NA,NA,NA,NA
+Rolls,Rolls: Dinner,181,9.5,0.0014000000000000002,161,50.5,0.0016
+Chicken & Poultry,Chix:Value Added (Cold),182,9.5,0.0014000000000000002,323,26.7,8e-4
+Tomato Productsâ€Shelf Stable,Tomatoes Diced,183,9.5,0.0014000000000000002,123,59.9,0.0019
+Frozen Ice,Ice â€ Crushed/Cubed,184,9.3,0.0014000000000000002,166,49.9,0.0016
+Beef:Round,Angus [Beef],185,9.3,0.0014000000000000002,271,31.4,0.001
+Shelf Stable Juice,Blended Juice&Combinations,186,9.3,0.0014000000000000002,287,29.6,9e-4
+Sushi,Sushi â€ In Store Prepared,187,9.2,0.0014000000000000002,75,85.4,0.0027
+Tomatoes,Tomatoes Hothouse On The Vine,188,9.2,0.0014000000000000002,88,77.7,0.0025
+Candy â€“ Packaged,Seasonal Miscellaneous [Candy],189,9.2,0.0014000000000000002,182,46.9,0.0015
+Frozen Bread/Dough,Frzn Garlic Toast,190,9.1,0.0014000000000000002,307,27.8,9e-4
+Warehouse Snacks,Canister Snacks,191,9.1,0.0014000000000000002,241,36.4,0.0012
+Beef:Grinds,Patties [Beef],192,9.1,0.0014000000000000002,221,39.7,0.0013
+Bag Snacks,Corn Chips,193,9.1,0.0014000000000000002,188,45.6,0.0014000000000000002
+Hot Cereal,Instant Oatmeal,194,8.9,0.0014000000000000002,218,41.1,0.0013
+Breakfast Sausage,Bkfst Sausage â€ Fresh Links,195,8.9,0.0014000000000000002,325,26.3,8e-4
+Crackers & Misc Baked Food,Snack Crackers,196,8.9,0.0014000000000000002,68,98.6,0.0031
+Citrus,Clementines,197,8.8,0.0013,85,78.6,0.0025
+Frzn Prepared Chicken,Boneâ€In Wings,198,8.8,0.0013,586,12,4e-4
+Onions,Onions Yellow (Bulk&Bag),199,8.7,0.0013,225,39.3,0.0012
+Dry Mix Desserts,Pudding&Gelatin Cups/Cans,200,8.7,0.0013,310,27.6,9e-4
+Coffee & Creamers,Unflavored Bag Coffee,201,8.5,0.0013,38,137.3,0.0044
+Refrgratd Juices/Drinks,Dairy Case Tea With Sugar,202,8.4,0.0013,364,23.1,7.000000000000001e-4
+Infant Formula,Infant Formula Specialty,203,8.4,0.0013,687,9.1,3e-4
+Ss/Vending â€ Salty Snacks,Salty Snacks Vending,204,8.4,0.0013,480,15.8,5e-4
+Shortening & Oil,Canola Oils,205,8.3,0.0013,291,29.3,9e-4
+Infant Formula,Infant Formula Starter Large,206,8.3,0.0013,368,22.8,7.000000000000001e-4
+Value Added Fruit,Melons Instore Cut,207,8.2,0.0013,205,42.8,0.0014000000000000002
+Vegetables Salad,Cucumbers,208,8.2,0.0013,129,58.9,0.0019
+Smoked Hams,Hamsâ€Half/Port Boneâ€In,209,8.2,0.0012,282,30,0.001
+Crackers & Misc Baked Food,Saltine/Oyster,210,8.2,0.0012,204,43.1,0.0014000000000000002
+Condiments & Sauces,Steak & Worchester Sauce,211,8.2,0.0012,321,26.7,8e-4
+Cookie/Cracker Multiâ€Pks,Multiâ€Pack Crackers,212,8,0.0012,217,41.3,0.0013
+Frozen Noveltiesâ€Water Ice,Cones [Frozen Novelties],213,7.9,0.0012,273,31.2,0.001
+Deli Meat: Bulk,Meat: Beef Bulk,214,7.9,0.0012,154,53.4,0.0017000000000000001
+Melons,Watermelon Seedless Whole,215,7.9,0.0012,198,43.9,0.0014000000000000002
+Candy â€“ Packaged,Seasonal Candy Bagsâ€Chocolate,216,7.9,0.0012,148,54.8,0.0017000000000000001
+Salad & Dips,Vegetable Salads â€“ Prepack,217,7.8,0.0012,238,36.6,0.0012
+Baked Breads,Bagels,218,7.8,0.0012,108,66.9,0.0021
+Peppers,Peppers Green Bell,219,7.8,0.0012,215,41.5,0.0013
+Salad Mix,Regular Garden Salad,220,7.8,0.0012,265,31.9,0.001
+Energy Drinks,Energy Drink â€ Single Serve,221,7.7,0.0012,327,26.3,8e-4
+Smoked Hams,Hamsâ€Spiral,222,7.6,0.0012,240,36.5,0.0012
+Coffee & Creamers Unflavored Instant Coffee,223 $7.6  0.12% 316 $27.3 0.09%,223,7.6,0.0012,316,27.3,9e-4
+Tomatoes Roma Tomatoes (Bulk/Pkg),224 $7.5  0.11% 222 $39.6 0.13%,224,7.5,0.0011,222,39.6,0.0013
+Cookies Vanilla Wafer/Kids Cookies,225 $7.5  0.11% 236 $36.7 0.12%,225,7.5,0.0011,236,36.7,0.0012
+Frozen Noveltiesâ€Water Ice Ice Cream Sandwiches,226 $7.4  0.11% 354 $24.2 0.08%,226,7.4,0.0011,354,24.2,8e-4
+Hot Dogs Hot Dogs â€“ Premium,227 $7.4  0.11% 208 $42.7 0.14%,227,7.4,0.0011,208,42.7,0.0014000000000000002
+Yogurt Yogurt/Pro Active Health,228 $7.4  0.11% 113 $63.5 0.20%,228,7.4,0.0011,113,63.5,0.002
+Snack Meat Snack Meat â€“ Pepperoni,229 $7.4  0.11% 263 $32.1 0.10%,229,7.4,0.0011,263,32.1,0.001
+Cakes Cakes: Creme/Pudding,230 $7.4  0.11% 333 $25.8 0.08%,230,7.4,0.0011,333,25.8,8e-4
+Meat Frozen Frzn Meat â€ Breakfast Sausage,231 $7.3  0.11% 602 $11.3 0.04%,231,7.3,0.0011,602,11.3,4e-4
+Beef:Rib Angus [Beef],232 $7.3  0.11% 200 $43.3 0.14%,232,7.3,0.0011,200,43.3,0.0014000000000000002
+Shortening & Oil Olive Oil,233 $7.3  0.11% 112 $63.8 0.20%,233,7.3,0.0011,112,63.8,0.002
+Dry Bean Veg&Rice Noodle Side Dish Mixes,234 $7.3  0.11% 390 $21.1 0.07%,234,7.3,0.0011,390,21.1,7.000000000000001e-4
+Yogurt Yogurt/Adult Multiâ€Packs,235 $7.2  0.11% 210 $42.5 0.14%,235,7.2,0.0011,210,42.5,0.0014000000000000002
+Dry Bean Veg&Rice Rice â€ Dry Bag And Box,236 $7.1  0.11% 255 $33.9 0.11%,236,7.1,0.0011,255,33.9,0.0011
+Energy Drinks Energy Drink â€ Single Serve,237 $7.1  0.11% 224 $39.5 0.13%,237,7.1,0.0011,224,39.5,0.0013
+Baked Breads Sandwich Buns,238 $7.1  0.11% 137 $56.8 0.18%,238,7.1,0.0011,137,56.8,0.0018
+Refrigerated Dairy Case Nonâ€Dairy Milks,239 $7.1  0.11% 105 $67.7 0.21%,239,7.1,0.0011,105,67.7,0.0021
+Beef:Round Select Beef,240 $7.1  0.11% 278 $30.4 0.10%,240,7.1,0.0011,278,30.4,0.001
+Unsweetened Envelope [Powder Drink Powder & Crystal Drink Mix 241 Mix],$7.0  0.11% 802 $6.2 0.02%,7,0.11,8.02,6.2,0.02,NA
+Refrigerated Desserts Refrigerated Pudding,242 $7.0  0.11% 170 $49.5 0.16%,242,7,0.0011,170,49.5,0.0016
+Carrots Carrots Mini Peeled,243 $7.0  0.11% 118 $61.4 0.19%,243,7,0.0011,118,61.4,0.0019
+Baking Mixes Layer Cake Mix,244 $7.0  0.11% 251 $35.1 0.11%,244,7,0.0011,251,35.1,0.0011
+Cocoa Mixes Malted Mlk/Syrup/Pwdrs (Eggnog),245 $6.9  0.11% 339 $25.3 0.08%,245,6.9,0.0011,339,25.3,8e-4
+Stone Fruit Cherries Red,246 $6.9  0.10% 139 $56.7 0.18%,246,6.9,0.001,139,56.7,0.0018
+Frzn Seafood Frz Coated Fish Fillets,247 $6.9  0.10% 389 $21.1 0.07%,247,6.9,0.001,389,21.1,7.000000000000001e-4
+Meat Snacks Jerky/Nuggets/Tenders,248 $6.8  0.10% 334 $25.8 0.08%,248,6.8,0.001,334,25.8,8e-4
+Dry Bean Veg&Rice Rice â€ Instant & Microwave,249 $6.8  0.10% 231 $38.0 0.12%,249,6.8,0.001,231,38,0.0012
+Seafood â€“ Catfish Catfish â€“ Fillet,250 $6.8  0.10% 544 $13.1 0.04%,250,6.8,0.001,544,13.1,4e-4
+Refrgrated Dough Products Refrigerated Cookiesâ€Brand,251 $6.8  0.10% 296 $28.8 0.09%,251,6.8,0.001,296,28.8,9e-4
+Fluid Milk Products Specialty/Lactose Free Milk,252 $6.7  0.10% 175 $48.4 0.15%,252,6.7,0.001,175,48.4,0.0015
+Peanut Butter/Jelly/Jams&Honey Preserves/Jam/Marmalade,253 $6.7  0.10% 141 $56.2 0.18%,253,6.7,0.001,141,56.2,0.0018
+Margarines,Margarine  Stick,254,6.7,0.001,376,22.3,7.000000000000001e-4
+Rts/Micro Soup/Broth,Broth,255,6.7,0.001,109,65.6,0.0021
+Rtd Tea/New Age Juice,Juice (Under 10% Juice),256,6.7,0.001,374,22.4,7.000000000000001e-4
+Apples,Apples Gala (Bulk&Bag),257,6.6,0.001,98,69.3,0.0022
+Chicken Fresh,Chicken Legs/Quarters,258,6.6,0.001,536,13.5,4e-4
+Frozen Breakfast Foods,Frzn Breakfast Pastry,259,6.5,0.001,420,19,6e-4
+Flour & Meals,Flour: White & Self Rising,260,6.4,0.001,297,28.8,9e-4
+Seafood â€ Value Added Seafood,Value Added Breaded Shrimp,261,6.4,0.001,459,16.9,5e-4
+Sugars & Sweeteners,Sweeteners,262,6.4,0.001,168,49.8,0.0016
+Baking Mixes,Frosting,263,6.3,0.001,318,27,9e-4
+Pies,Pies: Fruit/Nut,264,6.3,0.001,223,39.6,0.0013
+Molasses/Syrups/Pancake Mixes,Pancake Mixes,265,6.3,0.001,379,21.9,7.000000000000001e-4
+Water â€ (Sparkling&Still),Still Water Flvrd Drnk/Mnrl Wtr,266,6.3,0.001,230,38.1,0.0012
+Bag Snacks,Pretzels,267,6.2,9e-4,144,55.4,0.0018
+Dry Cheese,Grated Cheese,268,6.2,9e-4,256,33.6,0.0011
+Onions,Onions Sweet (Bulk&Bag),269,6.2,9e-4,181,47.4,0.0015
+Shelf Stable Juice,Cranapple/Cran Grape Juice,270,6.1,9e-4,315,27.3,9e-4
+Frzn Seafood,Frz Fishsticks/Tenders/Nuggets,271,6.1,9e-4,506,14.7,5e-4
+Seafood â€“ Crab,Crab â€“ Snow,272,6.1,9e-4,598,11.4,4e-4
+Bread,Bread:Italian/French,273,6.1,9e-4,172,49,0.0016
+Bulk Service Case Cheese,Bulk Semiâ€Hard Cheese,274,6.1,9e-4,196,44,0.0014000000000000002
+Baking Mixes,Muffin & Corn Bread Mix,275,6,9e-4,295,28.9,9e-4
+Chicken & Poultry,Chix:Frd 8pc/Cut Up (Cold),276,6,9e-4,558,12.7,4e-4
+Infant Formula,Infant Formula Toddler,277,6,9e-4,570,12.4,4e-4
+Vegetables Cooking Bulk,Celery,278,5.9,9e-4,158,51.2,0.0016
+Traditional Mexican Foods,Mexican Seasoning Mixes,279,5.9,9e-4,402,20.6,7.000000000000001e-4
+Refrigerated Dairy Case,Fluid Milk,280,5.9,9e-4,52,113.3,0.0036
+Soft Drinks,Soft Drinks Can Nonâ€Carb,281,5.9,9e-4,592,11.5,4e-4
+Condiments & Sauces,Hot Sauce,282,5.8,9e-4,466,16.4,5e-4
+Apples,Apples Red Delicious (Bulk&Bag),283,5.8,9e-4,248,35.2,0.0011
+Single Serve Sweet Goods,Snack Cake â€ Single Serve,284,5.7,9e-4,470,16.2,5e-4
+Milk Byâ€Products,Refrig Dips,285,5.7,9e-4,350,24.7,8e-4
+Tomatoes,Tomatoes Vine Ripe Bulk,286,5.7,9e-4,373,22.5,7.000000000000001e-4
+Bag Snacks,Brand Snacks,287,5.6,9e-4,176,48.1,0.0015
+Refrgrated Dough Products,Refrigerated Specialty Rolls,288,5.5,8e-4,312,27.5,9e-4
+Canned & Dry Milk,Canned Milk,289,5.5,8e-4,305,27.9,9e-4
+Coffee & Creamers,Ready To Drink Coffee,290,5.5,8e-4,403,20.5,6e-4
+Salad Mix,Garden Plus [Salad Mix],291,5.5,8e-4,267,31.8,0.001
+Cookies,Cookies: Holiday/Special Occas,292,5.5,8e-4,320,26.8,8e-4
+Bag Snacks,Misc Bag Snacks,293,5.5,8e-4,591,11.5,4e-4
+Refrgratd Juices/Drinks,Dairy Case 100% Pure Juice Other,NA,NA,1,NA,NA,NA
+Refrgrated Dough Products,Refrigerated Crescent Rolls,295,5.4,8e-4,274,31.2,0.001
+Teas,Tea Bags & Bulk Tea,296,5.4,8e-4,317,27.2,9e-4
+Aseptic Juice,Aseptic Pack Juice And Drinks,297,5.3,8e-4,449,17.5,6e-4
+Infant Formula,Infant Formula Solutions Large,298,5.3,8e-4,497,15.2,5e-4
+Vegetables Cooking Bulk,Cabbage,299,5.3,8e-4,340,25.1,8e-4
+Melons,Cantaloupe Whole,300,5.3,8e-4,194,44.4,0.0014000000000000002
+Dry Sce/Gravy/Potatoes/Stuffng,Stuffing Mixes,301,5.3,8e-4,378,22.1,7.000000000000001e-4
+Frozen Desserts,Frozen Fruit Pies  & Cobblers,302,5.3,8e-4,359,23.7,8e-4
+Frozen Potatoes,Frzn Tater Tots/Other Extruded,303,5.2,8e-4,424,18.8,6e-4
+Traditional Mexican Foods,Mexican Taco/Tostado/Shells,304,5.2,8e-4,417,19.1,6e-4
+Broccoli/Cauliflower,Broccoli Whole&Crowns,305,5.2,8e-4,156,52,0.0016
+Tomato Productsâ€Shelf Stable,Tomato Sauce,306,5.1,8e-4,353,24.2,8e-4
+Candy â€“ Checklane,Candy Bars (Singles),307,5.1,8e-4,476,15.9,5e-4
+Lunchmeat,Lunchmeat â€ Chop/Form Pltry,308,5.1,8e-4,583,12.1,4e-4
+Vegetables Salad,Variety Lettuce,309,5.1,8e-4,110,65.2,0.0021
+Berries,Blueberries,310,5.1,8e-4,82,79.4,0.0025
+Shelf Stable Juice,Cranberry Juice (50% And Under),NA,NA,NA,NA,NA,NA
+Seafood â€ Salmonâ€Farm Raised,Salmon Fr â€“ Atlantic,312,5,8e-4,173,48.8,0.0015
+Tomatoes,Tomatoes Hot House Bulk,313,5,8e-4,280,30.3,0.001
+Yogurt,Yogurt/Specialty Greek,314,5,8e-4,89,77.4,0.0025
+Frozen Whipped Topping,Frzn Whipped Topping,315,5,8e-4,276,30.9,0.001
+Can Fruit/Jar Applesauce,Pineapple,316,4.9,7.000000000000001e-4,357,24,8e-4
+Frozen Desserts,Frozen Cream Pies,317,4.9,7.000000000000001e-4,423,18.9,6e-4
+Infant Formula,Infant Formula Concentrate,318,4.9,7.000000000000001e-4,954,3.9,1e-4
+Stone Fruit,Peaches Yellow Flesh,319,4.8,7.000000000000001e-4,243,35.6,0.0011
+Sweet Goods,Sw Gds: Sw Rolls/Dan,320,4.8,7.000000000000001e-4,319,26.9,9e-4
+Potatoes,Potatoes Sweet&Yams,321,4.8,7.000000000000001e-4,234,37.1,0.0012
+Seafood â€ Party Trays,Party Tray â€“ Shrimp,322,4.8,7.000000000000001e-4,347,24.8,8e-4
+Shelf Stable Juice,Blended Juice&Combinations,323,4.8,7.000000000000001e-4,365,22.9,7.000000000000001e-4
+Baking Mixes,Brownie Mix,324,4.8,7.000000000000001e-4,313,27.5,9e-4
+Shelf Stable Juice,Grape Juice (Over 50% Juice),325,4.8,7.000000000000001e-4,455,17.1,5e-4
+Frzn Prepared Chicken,Fz Meal Kits/Stuffed/Other,326,4.8,7.000000000000001e-4,578,12.2,4e-4
+Peanut Butter/Jelly/Jams&Honey,Jelly,327,4.7,7.000000000000001e-4,439,18.1,6e-4
+Smoked Pork,Ham Steaks/Cubes/Slices,328,4.7,7.000000000000001e-4,324,26.3,8e-4
+Tomatoes,Tomatoes Grape,329,4.7,7.000000000000001e-4,150,54.6,0.0017000000000000001
+Traditional Mexican Foods,Mexican Beans/Refried,330,4.7,7.000000000000001e-4,393,21,7.000000000000001e-4
+Citrus,Lemons,331,4.6,7.000000000000001e-4,257,33.6,0.0011
+Can Fruit/Jar Applesauce,Peaches,332,4.6,7.000000000000001e-4,387,21.3,7.000000000000001e-4
+Frozen Potatoes,Frzn Hashbrown Potatoes,333,4.6,7.000000000000001e-4,348,24.8,8e-4
+Dry Noodles & Pasta,Noodles Dry,334,4.5,7.000000000000001e-4,344,24.9,8e-4
+Salad Bar,Salad Bar Other,335,4.5,7.000000000000001e-4,438,18.2,6e-4
+Corn,Corn Bulk,336,4.5,7.000000000000001e-4,260,32.5,0.001
+Sweet Goods,Sw Gds: Muffins,337,4.5,7.000000000000001e-4,266,31.8,0.001
+Frozen Breakfast Foods,Frzn Breakfast Entrees,338,4.5,7.000000000000001e-4,473,16.2,5e-4
+Eggs/Muffins/Potatoes,Eggs â€ Xâ€Large,339,4.5,7.000000000000001e-4,232,37.9,0.0012
+Convenient Meals,Convenient Meals â€ Adult Meal,340,4.5,7.000000000000001e-4,603,11.2,4e-4
+Bacon,Bacon â€“ Poultry,341,4.5,7.000000000000001e-4,435,18.4,6e-4
+Smoked Hams,Hamsâ€Whole Boneless,342,4.5,7.000000000000001e-4,510,14.6,5e-4
+Fluid Milk Products,Half & Half,343,4.4,7.000000000000001e-4,149,54.6,0.0017000000000000001
+Deli Meat: Bulk,Meat Bulk: Specialty Dry Meats,344,4.4,7.000000000000001e-4,302,28.3,9e-4
+Frozen Vegetable & Veg Dish,Fz Box Vegetables â€ Value Added,345,4.4,7.000000000000001e-4,349,24.7,8e-4
+Apples,Apples Granny Smith (Bulk&Bag),346,4.4,7.000000000000001e-4,277,30.9,0.001
+Baking Needs,Bits & Morsels [Baking Needs],347,4.4,7.000000000000001e-4,162,50.3,0.0016
+Meat â€ Shelf Stable,Chunk Meats â€ Chix/Ham/Etc,348,4.4,7.000000000000001e-4,338,25.3,8e-4
+Yogurt,Yogurt/Large Size (16oz Or Larger),349,4.4,7.000000000000001e-4,219,40.4,0.0013
+Energy Drinks,Energy Drink â€ Multiâ€Pack,350,4.3,7.000000000000001e-4,421,19,6e-4
+Frozen Fruits,Frozen Fruit,351,4.3,7.000000000000001e-4,174,48.6,0.0015
+Turkey Frozen,Whole Toms (Over 16lbs) [Turkey],352,4.3,6e-4,407,20,6e-4
+Lunchmeat,Lunchmeat â€ Whole Muscle Pltry,353,4.2,6e-4,413,19.7,6e-4
+Dry Bean Veg&Rice,Dry Beans/Peas/Barley: Bag & Bulk,354,4.2,6e-4,425,18.8,6e-4
+Frozen Noveltiesâ€Water Ice,Adult Premium [Frozen Novelties],355,4.2,6e-4,151,54.5,0.0017000000000000001
+Traditional Mexican Foods,Mexican Dinners And Foods,356,4.2,6e-4,597,11.4,4e-4
+Salad Mix,Kits [Salad Mix],357,4.2,6e-4,258,33.5,0.0011
+Cookies,Premium Cookies,358,4.2,6e-4,269,31.5,0.001
+Peanut Butter/Jelly/Jams&Honey,Honey,359,4.1,6e-4,294,28.9,9e-4
+Pickle/Relish/Pckld Veg&Olives,Ripe Olives,360,4.1,6e-4,337,25.3,8e-4
+Bacon,Bacon â€ Preâ€Cooked,361,4.1,6e-4,346,24.8,8e-4
+Rolls,Rolls: Sandwich,362,4.1,6e-4,322,26.7,8e-4
+Potatoes,Potatoes Red (Bulk&Bag),363,4.1,6e-4,264,32,0.001
+Croutons/Bread Stick&Salad Top,Salad Toppers,364,4.1,6e-4,500,15.1,5e-4
+Candy â€“ Packaged,Gum (Packaged),365,4.1,6e-4,331,25.9,8e-4
+Baking Needs,Baking Nuts,366,4.1,6e-4,201,43.2,0.0014000000000000002
+Soft Drinks,Soft Drinks 6pk Can Carb,367,4.1,6e-4,308,27.8,9e-4
+Single Serve Fruit/Applesauce,Applesauce Cup,368,4.1,6e-4,370,22.6,7.000000000000001e-4
+Dry Sce/Gravy/Potatoes/Stuffng,Gravy Can/Glass,369,4,6e-4,485,15.7,5e-4
+Cookies,Graham Crackers,370,4,6e-4,342,24.9,8e-4
+Candy â€“ Packaged,Miscellaneous Candy,371,4,6e-4,418,19,6e-4
+Frozen Vegetable & Veg Dish,Frzn Corn On The Cob,372,4,6e-4,708,8.4,3e-4
+Cookies,Chocolate Covered Cookies,373,4,6e-4,432,18.5,6e-4
+Value Added Vegetables,Vegetable Party Tray,374,4,6e-4,341,25.1,8e-4
+Value Added Vegetables,Cut Vegetables All Other,375,4,6e-4,213,42.2,0.0013
+Deli Meat: Bulk,Bologna/Loaves/Franks,376,4,6e-4,415,19.2,6e-4
+Condiments & Sauces,Marinades,377,3.9,6e-4,434,18.4,6e-4
+Nuts,Pistachios,378,3.9,6e-4,293,29.1,9e-4
+Service Case Meat,Seasoned Poultry,379,3.9,6e-4,463,16.5,5e-4
+Salad & Dips,Protein Salads â€“ Bulk,380,3.9,6e-4,326,26.3,8e-4
+Hot Cereal,Standard Oatmeal,381,3.9,6e-4,284,29.9,9e-4
+Cheese,Miscellaneous Cheese,382,3.8,6e-4,214,42.1,0.0013
+Salad & Dips,Vegetable Salads â€ Bulk,383,3.8,6e-4,275,31,0.001
+Shelf Stable Juice,Veg Juice (Except Tomato),384,3.8,6e-4,279,30.4,0.001
+Juices Super Premium,Juices Superfoods/Enhanced,385,3.8,6e-4,367,22.8,7.000000000000001e-4
+Breakfast Sausage,Bkfst Sausage â€ Fresh Patties,386,3.8,6e-4,651,9.8,3e-4
+Vegetables Cooking Bulk,Asparagus,387,3.8,6e-4,159,50.7,0.0016
+Baby Foods,Baby Food Cereals,388,3.8,6e-4,756,7.1,2e-4
+Baked Breads,English Muffins/Waffles,389,3.8,6e-4,169,49.5,0.0016
+Baked Breads,Main Meal Bread,390,3.8,6e-4,252,34.9,0.0011
+Juice,Nonâ€Carb Jce(Over 50% Juice),NA,NA,0.5,NA,NA,NA
+Deli Meat: Bulk,Meat: Chicken Bulk,392,3.7,6e-4,253,34.6,0.0011
+Breakfast Sausage,Bkfst Sausage â€“ Precooked,393,3.7,6e-4,385,21.4,7.000000000000001e-4
+Dietary Aid Prdct/Med Liq Nutr,Diet Cntrl Liqs Nutritional,394,3.7,6e-4,281,30.3,0.001
+Refrgratd Juices/Drinks,Dairy Case Fruit Drinks,395,3.7,6e-4,1041,2.8,1e-4
+Dinner Sausage,Dnr Sausage â€ Beef Rope Ckd,396,3.7,6e-4,577,12.2,4e-4
+Canned Pasta&Mwv Fdâ€Shlf Stbl,Microwavable Cups,397,3.7,6e-4,690,9,3e-4
+Turkey Frozen,Whole Hens (Under 16lbs) [Turkey],NA,NA,NA,NA,NA,NA
+Cakes,Cakes: Cheesecake,399,3.6,6e-4,507,14.7,5e-4
+Enhancements (Pickles/Spreads),Enhancements â€ Pickles/Kraut,400,3.6,6e-4,410,19.8,6e-4
+Tomatoes,Tomatoes Vine Ripe Pkg,401,3.6,6e-4,743,7.3,2e-4
+Peppers,Peppers Red Bell,402,3.6,5e-4,211,42.5,0.0013
+Dinner Sausage,Dnr Sausage â€ Other Forms,403,3.6,5e-4,381,21.6,7.000000000000001e-4
+Pork Offal,External Fresh,404,3.5,5e-4,937,4.2,1e-4
+Pasta & Pizza Sauce,Value [Pasta & Pizza Sauce],405,3.5,5e-4,657,9.7,3e-4
+Aseptic Juice,Aseptic Pack Juice And Drinks,406,3.5,5e-4,934,4.2,1e-4
+Berries,Raspberries,407,3.5,5e-4,186,45.8,0.0015
+Beef:Thin Meats,Corned Beef,408,3.5,5e-4,461,16.9,5e-4
+Party Tray,Deli Tray:Meat And Cheese,409,3.5,5e-4,383,21.5,7.000000000000001e-4
+Can Vegetables â€ Shelf Stable,Peas/Green,410,3.5,5e-4,504,14.7,5e-4
+Dry/Ramen Bouillon,Dry Soup,411,3.5,5e-4,362,23.3,7.000000000000001e-4
+Can Vegetables â€ Shelf Stable,Spinach & Greens,412,3.5,5e-4,765,7,2e-4
+Frzn Multi Serve,Fz Meatballs,413,3.5,5e-4,447,17.7,6e-4
+Milk Byâ€Products,Aerosol Toppings [Milk Byâ€Products],414,3.5,5e-4,351,24.5,8e-4
+Baked Breads,Dinner Rolls,415,3.5,5e-4,513,14.5,5e-4
+Cocoa Mixes,Hot Chocolate/Cocoa Mix,416,3.5,5e-4,445,17.8,6e-4
+Infant Formula,Infant Formula Ready To Use,417,3.5,5e-4,768,6.9,2e-4
+Powder & Crystal Drink Mix,Sugar Free Canister [Powder Drink Mix],418,3.5,5e-4,391,21.1,7.000000000000001e-4
+Cnv Breakfast&Wholesome Snks,Treats [Breakfast],419,3.5,5e-4,605,11.2,4e-4
+Smoked Hams,Hamsâ€Half/Port Boneless,420,3.4,5e-4,392,21,7.000000000000001e-4
+Fitness & Diet,Fitness&Diet â€ Bars W/Flour,421,3.4,5e-4,124,59.8,0.0019
+Refrgrated Dough Products,Refrigerated Cookie Dough,422,3.4,5e-4,551,12.9,4e-4
+Grapes,Grapes Black/Blue,423,3.4,5e-4,380,21.8,7.000000000000001e-4
+Bulk Service Case Cheese,Bulk Processed [Cheese],424,3.4,5e-4,411,19.8,6e-4
+Candy â€“ Packaged,Seasonal Candy Boxâ€Chocolate,425,3.4,5e-4,462,16.6,5e-4
+Coffee & Creamers,Coffee Pods/Singles/Filter Pack,426,3.4,5e-4,167,49.8,0.0016
+Can Fruit/Jar Applesauce,Fruit Cocktail/Fruit Salad,427,3.4,5e-4,569,12.5,4e-4
+Peppers,Peppers Other Bell,428,3.4,5e-4,301,28.4,9e-4
+Mushrooms,Mushrooms White Sliced Pkg,429,3.3,5e-4,306,27.8,9e-4
+Lunchmeat,Lunchmeat â€ Chip Meat,430,3.3,5e-4,653,9.7,3e-4
+Soft Drinks,Sft Drnk 1 Liter Btl Carb,431,3.3,5e-4,716,8.2,3e-4
+Cakes,Cakes: Fancy/Service Case,432,3.3,5e-4,451,17.4,6e-4
+Salad Mix,Shredded Lettuce,433,3.3,5e-4,616,10.9,3e-4
+Powder & Crystal Drink Mix,Sugar Free Sticks [Powder Drink Mix],434,3.3,5e-4,426,18.8,6e-4
+Dinner Mixesâ€Dry,Package Dinners/Pasta Salads,435,3.3,5e-4,664,9.5,3e-4
+Cakes,Cakes: Layers/Sheets Novelties,436,3.3,5e-4,565,12.5,4e-4
+Flour & Meals,Breadings/Coatings/Crumbs,437,3.2,5e-4,474,16,5e-4
+Pies,Pies: Pumpkin/Custard,438,3.2,5e-4,545,13.1,4e-4
+Refrigerated Dairy Case,Yogurt,439,3.2,5e-4,107,67,0.0021
+Apples,Mixed Fruit Bags,440,3.2,5e-4,829,5.7,2e-4
+Shelf Stable Juice,Fruit Drinks: Canned & Glass,441,3.2,5e-4,870,5,2e-4
+Dry Mix Desserts,Puddings Dry,442,3.2,5e-4,400,20.8,7.000000000000001e-4
+Can Seafood â€ Shelf Stable,Salmon,443,3.2,5e-4,534,13.6,4e-4
+Shortening & Oil,Cooking Sprays,444,3.2,5e-4,396,21,7.000000000000001e-4
+Meat â€ Shelf Stable,Sandwich Sauce (Manwich),445,3.2,5e-4,733,7.7,2e-4
+Bread,Bread:Specialty,446,3.2,5e-4,366,22.9,7.000000000000001e-4
+Seafood â€“ Tilapia,Tilapia â€“ Fillet,447,3.2,5e-4,465,16.4,5e-4
+Frzn Multi Serve,Frzn Burgers,448,3.2,5e-4,1010,3.1,1e-4
+Convenience/Snacking,Jarred Fruit Single Serve,449,3.1,5e-4,511,14.6,5e-4
+Powder & Crystal Drink Mix,Soft Drink Canisters,450,3.1,5e-4,723,7.9,3e-4
+Frozen Breakfast Foods,Frzn Breakfast Sausage,451,3.1,5e-4,647,9.8,3e-4
+Ss/Vending â€ Cookie/Cracker,Vendor Size/Single Serve Cookie,452,3.1,5e-4,770,6.8,2e-4
+Water â€ (Sparkling&Still),Sparkling Water â€ Flvrd Sweet,453,3.1,5e-4,355,24.1,8e-4
+Service Case Meat,Stuffed/Mixed Beef,454,3.1,5e-4,416,19.2,6e-4
+Meat â€ Shelf Stable,Vienna Sausage,455,3.1,5e-4,867,5.1,2e-4
+Mushrooms,Mushrooms White Whole Pkg,456,3.1,5e-4,288,29.6,9e-4
+Teas,Tea Bags/Herbal,457,3.1,5e-4,272,31.2,0.001
+Meat Frozen,Frzn Meat â€“ Offals,458,3,5e-4,1053,2.6,1e-4
+Bulk Service Case Cheese,Bulk Semiâ€Soft,459,3,5e-4,363,23.3,7.000000000000001e-4
+Bag Snacks,Bagged Popped Popcorn,460,3,5e-4,566,12.5,4e-4
+Condiments & Sauces,Yellow Mustard,461,3,5e-4,571,12.4,4e-4
+Vegetables Salad,Green Onions,462,3,5e-4,361,23.5,7.000000000000001e-4
+Frozen Bread/Dough,Frzn Dinner Rolls,463,3,5e-4,398,20.9,7.000000000000001e-4
+Baking Needs,Marshmallows,464,3,5e-4,467,16.4,5e-4
+Warehouse Snacks,Snack Mix,465,3,5e-4,450,17.5,6e-4
+Fluid Milk Products,Whipping Cream,466,3,4e-4,249,35.2,0.0011
+Dried Fruit,Raisins,467,2.9,4e-4,330,26,8e-4
+Dinner Sausage,Dnr Sausage â€ Links Beef Ckd,468,2.9,4e-4,722,8,3e-4
+Rolls,Rolls: Croissants/Breadsticks,469,2.9,4e-4,464,16.5,5e-4
+Lunchmeat,Lunchmeat â€ Brauns/Liver/Loave,470,2.9,4e-4,632,10.3,3e-4
+Cookie/Cracker Multiâ€Pks,Multiâ€Pack Cookies,471,2.9,4e-4,596,11.4,4e-4
+Snack Meat,Snack Meat â€ Salami/Smr Sausage,472,2.9,4e-4,481,15.8,5e-4
+Shortening & Oil,Solid Shortening,473,2.9,4e-4,525,14,4e-4
+Salad Mix,Salad Bowls,474,2.9,4e-4,572,12.3,4e-4
+Hot Cereal,Grits,475,2.8,4e-4,774,6.7,2e-4
+Cereals,Cereal â€“ Cold,476,2.8,4e-4,178,47.8,0.0015
+Frozen Vegetable & Veg Dish,Fz Bag Vegetables â€ Value Added,477,2.8,4e-4,505,14.7,5e-4
+Traditional Asian Foods Asian Other Sauces/Marinade,478 $2.8  0.04% 422 $18.9 0.06%,478,2.8,4e-4,422,18.9,6e-4
+Cups/Push Ups/Other [Frozen Frozen Noveltiesâ€Water Ice 479 Novelties],$2.8  0.04% 661 $9.6 0.03%,2.8,0.04,6.61,9.6,0.03,NA
+Refrigerated Hispanic Grocery Refrigerated Tortillas,480 $2.8  0.04% 669 $9.4 0.03%,480,2.8,4e-4,669,9.4,3e-4
+Frzn Prepared Chicken Whole Muscle Unbreaded Chicken,481 $2.8  0.04% 555 $12.8 0.04%,481,2.8,4e-4,555,12.8,4e-4
+Meat â€ Shelf Stable Luncheon Meat (Spam),482 $2.8  0.04% 693 $8.9 0.03%,482,2.8,4e-4,693,8.9,3e-4
+Frzn Prepared Chicken Boneless Snack/Value/Small,483 $2.8  0.04% 836 $5.5 0.02%,483,2.8,4e-4,836,5.5,2e-4
+Croutons/Bread Stick&Salad Top Croutons,484 $2.8  0.04% 526 $14.0 0.04%,484,2.8,4e-4,526,14,4e-4
+Apples Apples Other (Bulk&Bag),485 $2.8  0.04% 314 $27.4 0.09%,485,2.8,4e-4,314,27.4,9e-4
+Apples Apples Fuji (Bulk&Bag),486 $2.8  0.04% 242 $36.2 0.11%,486,2.8,4e-4,242,36.2,0.0011
+Apples Apples Gold Delicious (Bulk&Bag),487 $2.8  0.04% 443 $17.9 0.06%,487,2.8,4e-4,443,17.9,6e-4
+Salad & Dips Sal: Hommus,488 $2.8  0.04% 189 $45.4 0.14%,488,2.8,4e-4,189,45.4,0.0014000000000000002
+Dinner Sausage Dnr Sausage â€“ Cocktails,489 $2.7  0.04% 562 $12.7 0.04%,489,2.7,4e-4,562,12.7,4e-4
+Can Vegetables â€ Shelf Stable Mushrooms Cnd & Glass,490 $2.7  0.04% 521 $14.3 0.05%,490,2.7,4e-4,521,14.3,5e-4
+Frozen Desserts Frzn Pie Shells/Pastry Shell,491 $2.7  0.04% 475 $16.0 0.05%,491,2.7,4e-4,475,16,5e-4
+Lunchmeat Lunchmeat â€ Variety Pack,492 $2.7  0.04% 677 $9.3 0.03%,492,2.7,4e-4,677,9.3,3e-4
+Frozen Desserts Frozen Cakes/Desserts,493 $2.7  0.04% 611 $11.0 0.03%,493,2.7,4e-4,611,11,3e-4
+Pickle/Relish/Pckld Veg&Olives Peppers,494 $2.7  0.04% 537 $13.5 0.04%,494,2.7,4e-4,537,13.5,4e-4
+Cakes Cakes: Angel Fds/Cke Rolls,495 $2.7  0.04% 440 $18.1 0.06%,495,2.7,4e-4,440,18.1,6e-4
+Berries Blackberries,496 $2.7  0.04% 283 $29.9 0.09%,496,2.7,4e-4,283,29.9,9e-4
+Frozen Bread/Dough Frzn Garlic Bread,497 $2.7  0.04% 608 $11.1 0.04%,497,2.7,4e-4,608,11.1,4e-4
+Traditional Mexican Foods Mexican Enchilada Sauce,498 $2.7  0.04% 532 $13.7 0.04%,498,2.7,4e-4,532,13.7,4e-4
+Fluid Milk Products Egg Nog/Boiled Custard,499 $2.7  0.04% 539 $13.3 0.04%,499,2.7,4e-4,539,13.3,4e-4
+Hot Dogs Hot Dogs â€ Base Poultry,500 $2.7  0.04% 667 $9.4 0.03%,500,2.7,4e-4,667,9.4,3e-4
+Beef:Thin Meats Brisket [Beef],501 $2.7  0.04% 446 $17.8 0.06%,501,2.7,4e-4,446,17.8,6e-4
+Cookies Wellness/Portion Control [Cookies],502 $2.7  0.04% 358 $23.8 0.08%,502,2.7,4e-4,358,23.8,8e-4
+Baking Needs Pie Filling/Mincemeat/Glazes,503 $2.7  0.04% 345 $24.8 0.08%,503,2.7,4e-4,345,24.8,8e-4
+Soft Drinks Tea Can With Sweetener/Sugar,504 $2.7  0.04% 807 $6.1 0.02%,504,2.7,4e-4,807,6.1,2e-4
+Citrus Limes,505 $2.7  0.04% 369 $22.7 0.07%,505,2.7,4e-4,369,22.7,7.000000000000001e-4
+Warehouse Snacks Misc Snacks,506 $2.6  0.04% 541 $13.2 0.04%,506,2.6,4e-4,541,13.2,4e-4
+Traditional Mexican Foods Mexican Taco Sauce,507 $2.6  0.04% 761 $7.0 0.02%,507,2.6,4e-4,761,7,2e-4
+Soft Drinks Soft Drink Bottle Nonâ€Carb,508 $2.6  0.04% 887 $4.7 0.02%,508,2.6,4e-4,887,4.7,2e-4
+Seafood â€ Salmonâ€Wild Caught,Salmon Wc â€“ Pink,509,2.6,4e-4,612,11,3e-4
+Frozen Bread/Dough,Frzn Biscuits,510,2.6,4e-4,550,12.9,4e-4
+Frzn Pasta,Frozen Pasta,511,2.6,4e-4,458,16.9,5e-4
+Chicken Frozen,Frzn Chicken â€ Drk Meat,512,2.6,4e-4,818,5.9,2e-4
+Syrups Toppings & Cones,Ice Cream Toppings,513,2.6,4e-4,524,14.1,4e-4
+Candy â€“ Packaged,Seasonal Candy Bags Nonâ€Chocolate,514,2.6,4e-4,502,14.9,5e-4
+Salad & Dips,Pasta/Grain Salads â€“ Prepack,515,2.6,4e-4,631,10.3,3e-4
+Cakes,Cakes: Ice Cream,516,2.6,4e-4,700,8.6,3e-4
+Nuts,Mixed Nuts,517,2.6,4e-4,309,27.6,9e-4
+Sushi,Sushi â€“ Prepackaged,518,2.6,4e-4,414,19.2,6e-4
+Pickle/Relish/Pckld Veg&Olives,Green Olives,519,2.6,4e-4,483,15.8,5e-4
+Candy â€“ Packaged,Candy Bars Multi Pack W/Flour,520,2.6,4e-4,695,8.8,3e-4
+Stone Fruit,Nectarines Yellow Flesh,521,2.5,4e-4,430,18.6,6e-4
+Onions,Onions Red (Bulk&Bag),522,2.5,4e-4,397,20.9,7.000000000000001e-4
+Flour & Meals,Cornmeal,523,2.5,4e-4,746,7.3,2e-4
+Tropical Fruit,Pineapple Whole&Peel/Cored,524,2.5,4e-4,377,22.1,7.000000000000001e-4
+Bagels&Cream Cheese,Refrigerated Bagels,525,2.5,4e-4,731,7.7,2e-4
+Onions,Onions White (Bulk&Bag),526,2.5,4e-4,482,15.8,5e-4
+Meat Frozen,Frzn Meat â€“ Turkey,527,2.5,4e-4,652,9.7,3e-4
+Pickle/Relish/Pckld Veg&Olives,Relishes,528,2.5,4e-4,590,11.6,4e-4
+Candy â€“ Packaged,Candy Bagsâ€Chocolate W/Flour,529,2.5,4e-4,496,15.2,5e-4
+Nuts,Cashews,530,2.5,4e-4,437,18.3,6e-4
+Cakes,Cakes:Birthday/Celebration Lay,531,2.5,4e-4,684,9.1,3e-4
+Smoked Pork,Smoked Offal [Pork],532,2.4,4e-4,940,4.1,1e-4
+Apples,Apples Honeycrisp,533,2.4,4e-4,235,36.9,0.0012
+Sweet Goods & Snacks,Sw Gds: Swt/Flvrd Loaves,534,2.4,4e-4,528,13.9,4e-4
+Fluid Milk Products,Buttermilk,535,2.4,4e-4,478,15.9,5e-4
+Cakes,Cakes: Sheet,536,2.4,4e-4,750,7.2,2e-4
+Cookies,Cookies: Gourmet,537,2.4,4e-4,399,20.8,7.000000000000001e-4
+Citrus,Grapefruit,538,2.4,4e-4,388,21.2,7.000000000000001e-4
+Coffee & Creamers,Flavored Bag Coffee,539,2.4,4e-4,328,26.2,8e-4
+Stone Fruit,Plums,540,2.4,4e-4,543,13.1,4e-4
+Refrigerated Italian,Refrigerated Pasta,541,2.4,4e-4,290,29.3,9e-4
+Spices & Extracts,Gourmet Spices,542,2.4,4e-4,259,33.2,0.0011
+Baked Breads,Diet/Light Bread,543,2.4,4e-4,356,24,8e-4
+Bacon,Bacon â€ Trad Center Cut,544,2.3,4e-4,395,21,7.000000000000001e-4
+Salad & Dips,Pasta/Grain Salads â€ Bulk,545,2.3,4e-4,460,16.9,5e-4
+Rice Cakes,Miniâ€Cakes,546,2.3,4e-4,454,17.2,5e-4
+Authentic Hispanic Fds&Product,Authentic Sauces/Salsa/Picante,547,2.3,3e-4,678,9.2,3e-4
+Ice Cream Ice Milk & Sherbets,Premium Pints [Ice Cream & Sherbert],548,2.3,3e-4,787,6.5,2e-4
+Can Fruit/Jar Applesauce,Mandarin Oranges/Citrus Sect,549,2.3,3e-4,564,12.6,4e-4
+Baby Foods,Baby Juices,550,2.3,3e-4,1013,3.1,1e-4
+Salad Mix,Salad Mix Blends Organic,551,2.3,3e-4,239,36.5,0.0012
+Salad & Dips,Salad: Lettuce,552,2.2,3e-4,576,12.2,4e-4
+Baked Breads,Fruit/Breakfast Bread,553,2.2,3e-4,427,18.7,6e-4
+Seafood â€ Salad/Dip/Sce/Cond,Breading [Seafood],554,2.2,3e-4,966,3.7,1e-4
+Seafood â€ Finfish Other,Finfish â€ Other,555,2.2,3e-4,826,5.8,2e-4
+Frozen Bread/Dough,Frzn Breadsticks,556,2.2,3e-4,871,5,2e-4
+Bag Snacks,Pork Skins/Cracklins,557,2.2,3e-4,804,6.2,2e-4
+Frozen Juice And Smoothies,Frzn Conc Allieds Over 50% Juice,558,2.2,3e-4,638,10.1,3e-4
+Broccoli/Cauliflower,Cauliflower Whole,559,2.2,3e-4,352,24.5,8e-4
+Mushrooms,Mushrooms Portabella,560,2.2,3e-4,372,22.6,7.000000000000001e-4
+Tropical Fruit,Mango,561,2.2,3e-4,522,14.1,4e-4
+Seafood â€“ Lobster,Lobster â€“ Tails,562,2.2,3e-4,546,13,4e-4
+Can Fruit/Jar Applesauce,Apple Sauce (Excludes Cup),563,2.2,3e-4,530,13.8,4e-4
+Traditional Mexican Foods,Mexican Peppers Chilies,564,2.2,3e-4,487,15.7,5e-4
+Candy â€“ Checklane,Mints/Candy & Breath,565,2.1,3e-4,582,12.1,4e-4
+Citrus,Tangerines & Tangelos,566,2.1,3e-4,600,11.3,4e-4
+Juices Super Premium,Juices Smoothies/Blended,567,2.1,3e-4,613,11,3e-4
+Can Vegetables â€ Shelf Stable,Fried Onions,568,2.1,3e-4,574,12.3,4e-4
+Carrots,Carrots Bagged,569,2,3e-4,453,17.2,5e-4
+Eggs/Muffins/Potatoes,Eggs â€“ Jumbo,570,2,3e-4,548,13,4e-4
+Potatoes,Potatoes Gourmet,571,2,3e-4,405,20.3,6e-4
+Can Vegetables â€ Shelf Stable,Sweet Potatoes,572,2,3e-4,777,6.7,2e-4
+Seafood â€ Value Added Seafood,Value Added Shrimp,573,2,3e-4,840,5.4,2e-4
+Baked Breads,Rye Breads,574,2,3e-4,375,22.3,7.000000000000001e-4
+Salad Dresing&Sandwich Spreads,Dry Salad Dressing&Dip Mixes,575,2,3e-4,498,15.1,5e-4
+Condiments & Sauces,Mustard â€ All Other,576,2,3e-4,436,18.3,6e-4
+Fluid Milk Products,Organic Milk,577,2,3e-4,245,35.4,0.0011
+Dry Mix Desserts,Gelatin,578,2,3e-4,517,14.3,5e-4
+Nuts,Sunflower/Other Seeds,579,1.9,3e-4,656,9.7,3e-4
+Vinegar&Cooking Wines,Vinegar/White&Cider,580,1.9,3e-4,515,14.4,5e-4
+Dinner Sausage,Dnr Sausage â€ Poultry Rope Ckd,581,1.9,3e-4,618,10.9,3e-4
+Corn,Corn Is Packaged,582,1.9,3e-4,556,12.8,4e-4
+Candy â€“ Packaged,Miscellaneous Candy,583,1.9,3e-4,607,11.2,4e-4
+Milk Byâ€Products,Ricotta Cheese,584,1.9,3e-4,490,15.6,5e-4
+Hot Cereal,Other Hot Cereal,585,1.9,3e-4,628,10.3,3e-4
+Frozen Juice And Smoothies,Frzn Oj&Oj Substitutes (Over 50%),586,1.9,3e-4,472,16.2,5e-4
+Sweet Goods & Snacks,Sw Gds: Brownie/Bar Cookie,587,1.9,3e-4,606,11.2,4e-4
+Rolls,Rolls: Bagels,588,1.9,3e-4,494,15.4,5e-4
+Melons,Watermelon Personal,589,1.9,3e-4,477,15.9,5e-4
+Nuts,Pecans Shelled,590,1.9,3e-4,448,17.6,6e-4
+Infant Formula,Baby Isotonic Drinks,591,1.9,3e-4,878,4.9,2e-4
+Mixers,Cocktail Mixesâ€Fluid:Add Liq,592,1.9,3e-4,468,16.4,5e-4
+Bananas,Bananas Organic,593,1.9,3e-4,428,18.7,6e-4
+Seafood â€“ Crab,Crab â€“ King,594,1.9,3e-4,725,7.9,2e-4
+Bacon,Bacon â€“ Other,595,1.9,3e-4,655,9.7,3e-4
+Can Fruit/Jar Applesauce,Pears,596,1.9,3e-4,646,10,3e-4
+Baking Mixes,Biscuit Flour & Mixes,597,1.9,3e-4,529,13.8,4e-4
+Chicken Specialty/Natural,Chicken Breast Boneless,598,1.9,3e-4,343,24.9,8e-4
+Sweet Goods,Sw Gds:Coffee Cakes,599,1.8,3e-4,588,11.9,4e-4
+Refrigerated Dairy Case,Eggs,600,1.8,3e-4,289,29.5,9e-4
+Condiments & Sauces,Wing Sauce,601,1.8,3e-4,872,5,2e-4
+Seafood â€ Salmonâ€Wild Caught,Salmon Wc â€“ Sockeye,602,1.8,3e-4,335,25.7,8e-4
+Baking Needs,Pie Crust Mixes & Shells,603,1.8,3e-4,676,9.3,3e-4
+Salad Mix,Salad Spinach,604,1.8,3e-4,442,17.9,6e-4
+Eggs/Muffins/Potatoes,Eggs Substitute,605,1.8,3e-4,329,26.2,8e-4
+Crackers & Misc Baked Food,Aerosol Cheese,606,1.8,3e-4,857,5.2,2e-4
+Poultry Other,Cornish Hen,607,1.8,3e-4,773,6.7,2e-4
+Tomato Productsâ€Shelf Stable,Tomato Paste,608,1.8,3e-4,633,10.2,3e-4
+Turkey Frozen,Turkey Breast Bone In,609,1.8,3e-4,553,12.8,4e-4
+Sweet Goods & Snacks,Sw Gds: Puff Pastry,610,1.8,3e-4,573,12.3,4e-4
+Seafood â€“ Catfish,Catfish â€“ Whole,611,1.8,3e-4,1055,2.6,1e-4
+Cake DÃ©cor,Cake Decors & Icing,612,1.8,3e-4,645,10,3e-4
+Convenience/Snacking,Convenience/Snacking Fruit,613,1.8,3e-4,670,9.4,3e-4
+Salad & Dips,Sal: Salsa/Dips Bulk,614,1.8,3e-4,730,7.7,2e-4
+Pork Bone In Loin/Rib,Dry [Pork Bone In Loin/Rib],615,1.8,3e-4,734,7.6,2e-4
+Authentic Hispanic Fds&Product,Authentic Pasta/Rice/Beans,616,1.7,3e-4,884,4.8,2e-4
+Spices & Extracts,Pure Extracts,617,1.7,3e-4,493,15.4,5e-4
+Powder & Crystal Drink Mix,Enhanced Stick [Powder Drink Mix],618,1.7,3e-4,621,10.7,3e-4
+Bread,Bread:Artisan,619,1.7,3e-4,237,36.7,0.0012
+Infant Formula,Infant Formula Soy Base,620,1.7,3e-4,1270,1.1,0
+Juices Super Premium,Juices Proteins,621,1.7,3e-4,640,10.1,3e-4
+Salad & Dips,Sal:Dip Prepack [Salad & Dips],622,1.7,3e-4,584,12.1,4e-4
+Dietary Aid Prdct/Med Liq Nutr,Diet Energy Drinks,623,1.7,3e-4,554,12.8,4e-4
+Nuts,Peanuts All,624,1.7,3e-4,594,11.5,4e-4
+Rts/Micro Soup/Broth,Microwavable Soups,625,1.7,3e-4,495,15.3,5e-4
+Service Case Meat,Marinated Pork,626,1.7,3e-4,519,14.3,5e-4
+Chicken & Poultry,Chix: Baked 8pc Cut Up (Cold),627,1.7,3e-4,837,5.5,2e-4
+Vegetables Cooking Bulk,Beans,628,1.7,3e-4,457,16.9,5e-4
+Baby Foods,Baby Spring Waters,629,1.7,3e-4,1128,2,1e-4
+Shelf Stable Juice,Tomato Juice (Over 50% Jce),630,1.7,3e-4,662,9.6,3e-4
+Authentic Hispanic Fds&Product,Authentic Vegetables And Foods,631,1.7,3e-4,998,3.2,1e-4
+Meat Snacks,Meat Sticks/Bites,632,1.7,3e-4,972,3.6,1e-4
+Refrigerated Hispanic Grocery,Hispanic Cheese,633,1.7,3e-4,769,6.9,2e-4
+Can Fruit/Jar Applesauce,Cranberry Sauce,634,1.7,3e-4,642,10,3e-4
+Fitness & Diet,Fitness&Diet â€ Bars W/O Flour,635,1.7,3e-4,298,28.7,9e-4
+Pies,Pies: Cream/Meringue,636,1.6,2e-4,728,7.8,2e-4
+Berries,Strawberries Organic,637,1.6,2e-4,386,21.4,7.000000000000001e-4
+Candy â€“ Packaged,Novelty Candy,638,1.6,2e-4,827,5.7,2e-4
+Party Tray,Deli Tray:Sandwiches,639,1.6,2e-4,636,10.2,3e-4
+Value Added Fruit,Cut Fruit All Other Prepack,640,1.6,2e-4,704,8.5,3e-4
+Nuts,Walnuts Shelled,641,1.6,2e-4,431,18.5,6e-4
+Turkey Offal,External [Turkey],642,1.6,2e-4,1133,2,1e-4
+Flour & Meals,Flour: Misc/Specialty/Blend,643,1.6,2e-4,533,13.6,4e-4
+Frozen Ethnic,Frozen Internaional [Ethnic Foods],644,1.6,2e-4,771,6.7,2e-4
+Deli Meat: Presliced,Deli Meat: Specialty Dry Meats,645,1.6,2e-4,336,25.5,8e-4
+Dressings/Dips,Dressing Creamy,646,1.6,2e-4,512,14.5,5e-4
+Spices & Extracts,Table Salt/Popcorn Salt,647,1.6,2e-4,698,8.6,3e-4
+Meat â€ Shelf Stable,Hash: Canned [Meat],648,1.6,2e-4,863,5.1,2e-4
+Water â€ (Sparkling&Still),Distilled Water,649,1.6,2e-4,579,12.2,4e-4
+Frozen Desserts,Frzn Pastry&Cookies,650,1.6,2e-4,694,8.8,3e-4
+Potatoes,Potatoes Gold (Bulk&Bag),651,1.6,2e-4,503,14.8,5e-4
+Herbs/Garlic,Garlic Whole Cloves,652,1.6,2e-4,557,12.7,4e-4
+Salad Mix,Coleslaw,653,1.6,2e-4,589,11.9,4e-4
+Apples,Caramel/Candy Apples,654,1.6,2e-4,985,3.4,1e-4
+Nuts,Almonds Shelled,655,1.5,2e-4,412,19.8,6e-4
+Service Case Meat,Marinated Poultry,656,1.5,2e-4,702,8.5,3e-4
+Carrots,Carrots Bagged Organic,657,1.5,2e-4,429,18.6,6e-4
+Frozen Desserts,Single Serv/Portion Control,658,1.5,2e-4,898,4.6,1e-4
+Seasonal,Pumpkins,659,1.5,2e-4,626,10.3,3e-4
+Chicken Offal,Internal [Chicken Offal],660,1.5,2e-4,929,4.3,1e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Hard/Grated,661,1.5,2e-4,299,28.7,9e-4
+Pears,Pears Bartlett,662,1.5,2e-4,486,15.7,5e-4
+Meat â€ Shelf Stable,Beef Stew,663,1.5,2e-4,897,4.6,1e-4
+Bread,Bread:Pita/Pocket/Flatbrd,664,1.5,2e-4,523,14.1,4e-4
+Chicken & Poultry,Chix: Rotisserie Cold,665,1.5,2e-4,848,5.4,2e-4
+Dry/Ramen Bouillon,Bouillon,666,1.5,2e-4,663,9.6,3e-4
+Nuts,Trail Mix,667,1.5,2e-4,610,11,3e-4
+Enhancements (Pickles/Spreads),Enhancements â€ Salads/Spreads,668,1.5,2e-4,858,5.2,2e-4
+Smoked Pork,Bacon â€ Belly/Jowl,669,1.5,2e-4,783,6.6,2e-4
+Seafood â€“ Cod,Cod â€“ Fillet,670,1.5,2e-4,587,12,4e-4
+Refrgrated Dough Products,Refrigerated Cookiesâ€Seasonal,671,1.5,2e-4,834,5.5,2e-4
+Traditional Asian Foods,Asian Soy Sauce,672,1.5,2e-4,630,10.3,3e-4
+Salad Dresing&Sandwich Spreads,Sand/Horseradish&Tartar Sauce,673,1.4,2e-4,749,7.2,2e-4
+Refrgrated Dough Products,Refrigerated Pie Crust,674,1.4,2e-4,538,13.5,4e-4
+Frozen Juice And Smoothies,Frzn Fruit Drinks (Under 10% Juice),675,1.4,2e-4,685,9.1,3e-4
+Sweet Goods & Snacks,Sw Gds: Specialty Desserts,676,1.4,2e-4,784,6.6,2e-4
+Dinner Mixesâ€Dry,Pizza Mix Dry,677,1.4,2e-4,845,5.4,2e-4
+Authentic Central American Fds,Central American Foods,678,1.4,2e-4,838,5.5,2e-4
+Cereal Bars,Breakfast Bars/Tarts/Scones,679,1.4,2e-4,360,23.6,7.000000000000001e-4
+Service Case Meat,Seasoned Beef,680,1.4,2e-4,724,7.9,3e-4
+Herbs/Garlic,Herbs Cilanto,681,1.4,2e-4,637,10.1,3e-4
+Value Added Fruit,Fruit Party Tray Prepack,682,1.4,2e-4,785,6.5,2e-4
+Dried Fruit,Dried Fruit â€“ Other,683,1.4,2e-4,491,15.6,5e-4
+Nonâ€Dairy/Dairy Aseptic,Aseptic Milk,684,1.4,2e-4,535,13.6,4e-4
+Eggs/Muffins/Potatoes,Misc Dairy Refigerated,685,1.4,2e-4,686,9.1,3e-4
+Shelf Stable Juice,Pineapple Juice (Over 50% Juice),686,1.4,2e-4,788,6.4,2e-4
+Frozen Entrees,Meatless/Vegetarian,687,1.4,2e-4,382,21.5,7.000000000000001e-4
+Powder & Crystal Drink Mix,Sugar Sweetened Sticks,688,1.4,2e-4,1071,2.5,1e-4
+Lunchmeat,Lunchmeat â€“ Other,689,1.4,2e-4,951,3.9,1e-4
+Dietary Aid Prdct/Med Liq Nutr,Diet Cntrl Bars Nutritional,690,1.4,2e-4,409,19.9,6e-4
+Popcorn,Popcorn â€“ Other,691,1.4,2e-4,641,10,3e-4
+Salad & Dips,Sal: Dessertsâ€Prepack,692,1.4,2e-4,906,4.5,1e-4
+Dry Cheese,Misc Dry Cheese,693,1.4,2e-4,739,7.3,2e-4
+Shelf Stable Juice,Cranberry Juice (Over 50% Juice),694,1.4,2e-4,706,8.4,3e-4
+Baking Mixes,Cookies Mix,695,1.4,2e-4,699,8.6,3e-4
+Frozen Potatoes,Frzn Baked/Stuffed/Mashed,696,1.3,2e-4,689,9,3e-4
+Turkey Fresh,Whole Hen (Under 16lbs) [Turkey],697,1.3,2e-4,658,9.7,3e-4
+Vegetables Cooking Packaged,Broccoli/Cauliflower Processed,698,1.3,2e-4,567,12.5,4e-4
+Dressings/Dips,Dips Caramel/Fruit Glazes,699,1.3,2e-4,819,5.9,2e-4
+Dressings/Dips,Dips Guacamole/Salsa/Queso,700,1.3,2e-4,563,12.6,4e-4
+Meat â€ Shelf Stable Hot Dog Chili Sauce,701 $1.3  0.02% 1063 $2.6 0.01%,701,1.3,2e-4,1063,2.6,1e-4
+Breakfast Sausage Bkfst Sausage â€ Bkfast Side,702 $1.3  0.02% 986 $3.4 0.01%,702,1.3,2e-4,986,3.4,1e-4
+Traditional Asian Foods Asian Noodles/Rice,703 $1.3  0.02% 623 $10.5 0.03%,703,1.3,2e-4,623,10.5,3e-4
+Deli Meat: Presliced Deli Meat: Semiâ€Dry Sausage,704 $1.3  0.02% 674 $9.3 0.03%,704,1.3,2e-4,674,9.3,3e-4
+Breakfast Sausage Bkfst Sausage â€ Other Forms,705 $1.3  0.02% 916 $4.4 0.01%,705,1.3,2e-4,916,4.4,1e-4
+Shortening & Oil Corn Oil,706 $1.3  0.02% 943 $4.1 0.01%,706,1.3,2e-4,943,4.1,1e-4
+Nuts Almonds,707 $1.3  0.02% 404 $20.5 0.06%,707,1.3,2e-4,404,20.5,6e-4
+Hot Cereal Instant Breakfast,708 $1.3  0.02% 718 $8.1 0.03%,708,1.3,2e-4,718,8.1,3e-4
+Traditional Asian Foods Asian Foods And Meals,709 $1.3  0.02% 793 $6.3 0.02%,709,1.3,2e-4,793,6.3,2e-4
+Can Vegetables â€ Shelf Stable Mixed Vegetables,710 $1.3  0.02% 905 $4.5 0.01%,710,1.3,2e-4,905,4.5,1e-4
+Authentic Hispanic Fds&Product Authentic Peppers,711 $1.3  0.02% 910 $4.5 0.01%,711,1.3,2e-4,910,4.5,1e-4
+Dinner Sausage Dnr Sausage â€ Links Poultry Ck,712 $1.3  0.02% 766 $7.0 0.02%,712,1.3,2e-4,766,7,2e-4
+Snack Tortilla Chips,713 $1.3  0.02% 408 $19.9 0.06%,713,1.3,2e-4,408,19.9,6e-4
+Salad & Dips Sal:Salsa Prepack,714 $1.3  0.02% 531 $13.7 0.04%,714,1.3,2e-4,531,13.7,4e-4
+Fluid Milk Products Soy Milk,715 $1.3  0.02% 753 $7.1 0.02%,715,1.3,2e-4,753,7.1,2e-4
+Bread Bread:Sweet/Breakfast,716 $1.3  0.02% 707 $8.4 0.03%,716,1.3,2e-4,707,8.4,3e-4
+Bulk Food Trail Mix/Nuts Bulk,717 $1.3  0.02% 441 $18.0 0.06%,717,1.3,2e-4,441,18,6e-4
+Service Case Meat Seasoned Pork,718 $1.3  0.02% 744 $7.3 0.02%,718,1.3,2e-4,744,7.3,2e-4
+Refrigerated Vegetarian Vegetarian Meats,719 $1.3  0.02% 625 $10.4 0.03%,719,1.3,2e-4,625,10.4,3e-4
+Seasonal Miscellaneous W/FlourCandy â€“ Packaged 720 [Candy],$1.2  0.02% 754 $7.1 0.02%,1.2,0.02,7.54,7.1,0.02,NA
+Teas Tea Bags/Green,721 $1.2  0.02% 604 $11.2 0.04%,721,1.2,2e-4,604,11.2,4e-4
+Chicken Specialty/Natural Chicken Wings,722 $1.2  0.02% 1111 $2.1 0.01%,722,1.2,2e-4,1111,2.1,1e-4
+Refrgrated Dough Products Refrigerated Breads,723 $1.2  0.02% 634 $10.2 0.03%,723,1.2,2e-4,634,10.2,3e-4
+Shelf Stable Juice Lemon Juice & Lime Juice,724 $1.2  0.02% 727 $7.8 0.02%,724,1.2,2e-4,727,7.8,2e-4
+Specialty Cheese Pre Pack Specialty Ppk Cheese Spreads,725 $1.2  0.02% 469 $16.2 0.05%,725,1.2,2e-4,469,16.2,5e-4
+Baking Flours/Grains/Sugar,726 $1.2  0.02% 509 $14.6 0.05%,726,1.2,2e-4,509,14.6,5e-4
+Smoked Hams Hamsâ€Dry Cured/Country,727 $1.2  0.02% 917 $4.4 0.01%,727,1.2,2e-4,917,4.4,1e-4
+Coffee & Creamers Specialty Instant Coffee W/Swe,728 $1.2  0.02% 732 $7.7 0.02%,728,1.2,2e-4,732,7.7,2e-4
+Cookies Fruit Filled Cookies,729 $1.2  0.02% 601 $11.3 0.04%,729,1.2,2e-4,601,11.3,4e-4
+Traditional Mexican Foods Mexican Con Queso,730 $1.2  0.02% 1009 $3.1 0.01%,730,1.2,2e-4,1009,3.1,1e-4
+Nuts Dry Roast Peanuts,731 $1.2  0.02% 479 $15.9 0.05%,731,1.2,2e-4,479,15.9,5e-4
+Can Seafood â€ Shelf Stable,Sardines,732,1.2,2e-4,822,5.8,2e-4
+Service Case Meat,Stuffed/Mixed Poultry,733,1.2,2e-4,717,8.2,3e-4
+Citrus,Oranges Non Navel All,734,1.2,2e-4,868,5,2e-4
+Seafood â€“ Catfish,Catfish â€“ Nuggets,735,1.2,2e-4,1151,1.8,1e-4
+Snack,Soy/Rice Snacks,736,1.2,2e-4,488,15.7,5e-4
+Bread,Bread:Sourdough,737,1.2,2e-4,456,17.1,5e-4
+Refrigerated Hispanic Grocery,Misc Hispanic Grocery,738,1.2,2e-4,635,10.2,3e-4
+Prepared/Pdgd Foods,Boxed Prepared/Entree/Dry Prep,739,1.2,2e-4,489,15.6,5e-4
+Shelf Stable Juice,Prune Juice (Over 50% Juice),740,1.2,2e-4,711,8.3,3e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Feta,741,1.2,2e-4,433,18.5,6e-4
+Teas,Instant Tea & Tea Mix (W/Sugar),742,1.1,2e-4,914,4.4,1e-4
+Preâ€Slice Service Case Cheese,Preâ€Sliced Semiâ€Soft Cheese,743,1.1,2e-4,514,14.4,5e-4
+Shortening & Oil,Cooking Oil: Peanut/Safflower,744,1.1,2e-4,775,6.7,2e-4
+Authentic Hispanic Fds&Product,Hispanic Cookies/Crackers,745,1.1,2e-4,1152,1.8,1e-4
+Can Vegetables â€ Shelf Stable,Carrots,746,1.1,2e-4,900,4.5,1e-4
+Juice,Drinks â€ Carb Juice (Over 50% juice),747,1.1,2e-4,659,9.7,3e-4
+Juices Super Premium,Juice Single Blend,748,1.1,2e-4,673,9.4,3e-4
+Nuts,Oil Roast Peanuts,749,1.1,2e-4,615,10.9,3e-4
+Beef:Thin Meats,Skirt [Beef],750,1.1,2e-4,798,6.3,2e-4
+Nuts,Nuts Other,751,1.1,2e-4,593,11.5,4e-4
+Peppers,Peppers Yellow Bell,752,1.1,2e-4,599,11.4,4e-4
+Baking Needs,Baking Powder & Soda,753,1.1,2e-4,715,8.2,3e-4
+Frzn Meatless,Meatless Burgers,754,1.1,2e-4,639,10.1,3e-4
+Candy â€“ Checklane,Misc Checklane Candy,755,1.1,2e-4,1052,2.6,1e-4
+Pears,Pears Anjou,756,1.1,2e-4,649,9.8,3e-4
+Powder & Crystal Drink Mix,Fluid Pouch [Powder Drink Mix],757,1.1,2e-4,781,6.6,2e-4
+Pasta & Pizza Sauce,Pizza Sauce,758,1.1,2e-4,810,6.1,2e-4
+Spices/Jarred Garlic,Garlic Jar,759,1.1,2e-4,729,7.7,2e-4
+Sweet Goods & Snacks,Sweet Goods: Candy,760,1.1,2e-4,920,4.4,1e-4
+Soft Drinks,Tea Bottles With Sweetener/Sugar,761,1.1,2e-4,1148,1.9,1e-4
+Random Weight Meat Products,Lunch Meats,762,1.1,2e-4,947,4,1e-4
+Authentic Hispanic Fds&Product,Hispanic Carbonated Beverages,763,1.1,2e-4,979,3.5,1e-4
+Isotonic Drinks,Isotonic Drinks Multiâ€Serve,764,1.1,2e-4,889,4.7,1e-4
+Juices Super Premium,Juices Antioxidant/Wellness,765,1,2e-4,719,8.1,3e-4
+Spices/Jarred Garlic,Spices & Seasonings,766,1,2e-4,892,4.6,1e-4
+Trail Mix & Snacks,Trail Mixes/Snack,767,1,2e-4,650,9.8,3e-4
+Lunchmeat,Lunchmeat â€ Natural/Organic,768,1,2e-4,559,12.7,4e-4
+Lunchmeat,Lunchmeat â€ Peggable Deli Fresh,769,1,2e-4,877,4.9,2e-4
+Bread,Bread:Tortillas/Wraps,770,1,2e-4,648,9.8,3e-4
+Ice Cream Ice Milk & Sherbets,Quarts [Ice Cream & Sherbert],771,1,2e-4,924,4.3,1e-4
+Infant Formula,Infant Formula Up Age,772,1,2e-4,1015,3,1e-4
+Tropical Fruit,Kiwi Fruit,773,1,2e-4,764,7,2e-4
+Peppers,Peppers Jalapeno,774,1,2e-4,911,4.4,1e-4
+Tomatoes,Tomatoes Cherry,775,1,2e-4,580,12.1,4e-4
+Trail Mix & Snacks,Candy W/O Flour,776,1,2e-4,844,5.4,2e-4
+Condiments,Oils/Vinegar,777,1,2e-4,643,10,3e-4
+Value Added Vegetables,Instore Cut Vegetables,778,1,2e-4,654,9.7,3e-4
+Candy â€“ Packaged,Candy Boxed Chocolates W/Flour,779,1,2e-4,852,5.3,2e-4
+Dried Fruit,Dried Plums,780,1,2e-4,609,11,3e-4
+Shelf Stable Juice,Apple Juice & Cider (50% And Under),781,1,2e-4,1024,3,1e-4
+Preâ€Slice Service Case Cheese,Preâ€Sliced Semiâ€Hard [Cheese],782,1,2e-4,520,14.3,5e-4
+Tomato Productsâ€Shelf Stable,Tomato Stewed,783,1,2e-4,790,6.4,2e-4
+Nuts,Misc Snack Nuts,784,1,2e-4,726,7.8,2e-4
+Beef:Thin Meats,Flank [Beef],785,1,2e-4,547,13,4e-4
+Cookies,Cookies: Message,786,1,2e-4,876,4.9,2e-4
+Baking Mixes,Miscellaneous Package Mixes,787,1,2e-4,752,7.2,2e-4
+Mediterranean Bar,Sal:Olives/Picklesâ€Bulk,788,1,2e-4,492,15.5,5e-4
+Dry Sce/Gravy/Potatoes/Stuffng,Cooking Bags With Spices/Season,789,1,1e-4,1078,2.4,1e-4
+Stone Fruit,Cherries Ranier,790,1,1e-4,691,9,3e-4
+Energy Drinks,Energy Drink â€ Multiâ€Pack,791,1,1e-4,671,9.4,3e-4
+Meat â€ Shelf Stable,Beef/Pork â€ Dried Sliced,792,1,1e-4,990,3.3,1e-4
+Cookies,Cookies/Sweet Goods,793,1,1e-4,542,13.1,4e-4
+Turkey Fresh,Whole Tom (Over 16lbs) [Turkey],794,1,1e-4,747,7.3,2e-4
+Ss/Vending â€ Cookie/Cracker,Vending Size/Sngl Serve Cracker,795,1,1e-4,1090,2.3,1e-4
+Can Vegetables â€ Shelf Stable,White Potatoes,796,1,1e-4,927,4.3,1e-4
+Can Seafood â€ Shelf Stable,Oysters,797,0.9,1e-4,1025,3,1e-4
+Dressings/Dips,Dips Veggie,798,0.9,1e-4,740,7.3,2e-4
+Snacks,Snacks:Pita Chips,799,0.9,1e-4,484,15.7,5e-4
+Candy â€“ Packaged,Candy Boxed Chocolates,800,0.9,1e-4,772,6.7,2e-4
+Chicken Grinds,Ground Chicken,801,0.9,1e-4,767,6.9,2e-4
+Candy â€“ Packaged,Seasonal Candy Box Nonâ€Chocola,802,0.9,1e-4,949,4,1e-4
+Frozen Meat Alternatives,Soy/Tofu,803,0.9,1e-4,688,9,3e-4
+Can Vegetables â€ Shelf Stable,Kraut & Cabbage,804,0.9,1e-4,814,6,2e-4
+Cereals,Granola,805,0.9,1e-4,501,15.1,5e-4
+Baking Needs,Cooking Chocolate (Ex Smiâ€Swt),806,0.9,1e-4,627,10.3,3e-4
+Candy â€“ Packaged,Candy Box Nonâ€Chocolate,807,0.9,1e-4,953,3.9,1e-4
+Dinner Sausage,Dnr Sausage â€ Natural/Organic,808,0.9,1e-4,585,12.1,4e-4
+Dressings/Dips,Dressing Blue Cheese,809,0.9,1e-4,666,9.5,3e-4
+Herbs/Garlic,Herbs Fresh Other Organic,810,0.9,1e-4,518,14.3,5e-4
+Shelf Stable Juice,Tomato Juice (50% And Under),811,0.9,1e-4,975,3.5,1e-4
+Popcorn,Caramel Coated Snacks,812,0.9,1e-4,1006,3.1,1e-4
+Deli Meat: Presliced,Deli Meat: Turkey,813,0.9,1e-4,516,14.3,5e-4
+Cake DÃ©cor,Cake Decors â€“ Candies,814,0.9,1e-4,841,5.4,2e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Mozzarell,815,0.9,1e-4,471,16.2,5e-4
+Shelf Stable Juice,Cranapple/Cran Grape Juice,816,0.9,1e-4,797,6.3,2e-4
+Rtd Tea/New Age Juice,Juice (Over 50% Juice),817,0.9,1e-4,1047,2.7,1e-4
+Crackers & Misc Baked Food,Specialty Crackers,818,0.9,1e-4,444,17.8,6e-4
+Salad & Dips,Salad Bar,819,0.9,1e-4,644,10,3e-4
+Service Case Meat,Marinated Beef,820,0.9,1e-4,782,6.6,2e-4
+Juice,Nonâ€Carb Jce (Under 50% Juice),821,0.9,1e-4,880,4.8,2e-4
+Organics Fruit & Vegetables,Organic Salad Mix,822,0.9,1e-4,499,15.1,5e-4
+Chilled Ready Meals,Store Brand,823,0.9,1e-4,932,4.2,1e-4
+Frzn Meatless,Meatless Breakfast,824,0.9,1e-4,697,8.6,3e-4
+Dry Tea/Coffee/Coco Mixes,Tea Bags (Supplement),825,0.9,1e-4,681,9.2,3e-4
+Melons,Watermelon W/Seeds Whole,826,0.9,1e-4,1019,3,1e-4
+Dry Mix Desserts,Misc: Cheesecake/Mousse Mixes,827,0.9,1e-4,1087,2.3,1e-4
+Value Added Fruit,Parfait Cups Instore,828,0.8,1e-4,1032,2.9,1e-4
+Vinegar&Cooking Wines,Specialty Vinegar,829,0.8,1e-4,552,12.9,4e-4
+Pork Shoulder,Fresh Hams,830,0.8,1e-4,1030,2.9,1e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Processed,831,0.8,1e-4,815,6,2e-4
+Turkey Smoked,Turkey Wings,832,0.8,1e-4,1228,1.3,0
+Frzn Seafood,Frz Nonâ€Coated Fish Fillets,833,0.8,1e-4,860,5.2,2e-4
+Vegetables Salad,Radish,834,0.8,1e-4,713,8.3,3e-4
+Cookies,Specialty Cookies,835,0.8,1e-4,622,10.7,3e-4
+Traditional Asian Foods,Traditional Thai Foods,836,0.8,1e-4,710,8.3,3e-4
+Yogurt,Yogurt/Adult Drinks,837,0.8,1e-4,958,3.8,1e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Cheddar,838,0.8,1e-4,527,13.9,4e-4
+Peppers,Peppers All Other,839,0.8,1e-4,864,5.1,2e-4
+Pickle/Relish/Pckld Veg&Olives,Pickld Veg/Peppers/Etc,840,0.8,1e-4,820,5.9,2e-4
+Candy â€“ Packaged,Candy Bagsâ€Non Chocolate W/Flour,841,0.8,1e-4,965,3.7,1e-4
+Frozen Juice And Smoothies,Frzn Conc Under 50% Juice,842,0.8,1e-4,983,3.4,1e-4
+Pickle/Relish/Pckld Veg&Olives,Specialty Olives,843,0.8,1e-4,614,11,3e-4
+Salad & Dips,Sal: Dessertsâ€Bulk,844,0.8,1e-4,890,4.7,1e-4
+Authentic Asian Foods,Authentic Japanese Foods,845,0.8,1e-4,755,7.1,2e-4
+Crackers,Crackers,846,0.8,1e-4,508,14.6,5e-4
+Smoked Pork,Smoked Picnics [Pork],847,0.8,1e-4,1105,2.2,1e-4
+Condiments,Nut Butters/Peanut Butter,848,0.8,1e-4,549,12.9,4e-4
+Tomato Productsâ€Shelf Stable,Tomatoes/Whole,849,0.8,1e-4,865,5.1,2e-4
+Party Tray,Deli Tray:Appetizers&Hors D'oe,850,0.8,1e-4,957,3.9,1e-4
+Soup,Cans Soup/Chili,851,0.8,1e-4,561,12.7,4e-4
+Service Case Meat,Kabobs Beef,852,0.8,1e-4,843,5.4,2e-4
+Vegetables Salad,Variety Lettuce Organic,853,0.8,1e-4,568,12.5,4e-4
+Melons,Honeydew Whole,854,0.8,1e-4,817,5.9,2e-4
+Grapes,Grapes Red Globe,855,0.8,1e-4,980,3.5,1e-4
+Condiments & Sauces,Chili Sauce/Cocktail Sauce,856,0.7,1e-4,813,6,2e-4
+Tropical Fruit,Pomegranates,857,0.7,1e-4,926,4.3,1e-4
+Organics Fruit & Vegetables,Organic Value Added Vegetables,858,0.7,1e-4,762,7,2e-4
+Grapes,Grapes Other,859,0.7,1e-4,960,3.8,1e-4
+Chicken Fresh,Mixed Packs [Chicken],860,0.7,1e-4,923,4.3,1e-4
+Nuts,Nuts Inshell,861,0.7,1e-4,894,4.6,1e-4
+Authentic Hispanic Fds&Product,Hispanic Juice Under 50% Juice,862,0.7,1e-4,1123,2,1e-4
+Coffee & Creamers,Flavored Can Coffee,863,0.7,1e-4,823,5.8,2e-4
+Prepared/Pdgd Foods,Vegetables/Dry Beans,864,0.7,1e-4,575,12.2,4e-4
+Bread,Bread:Rye/Cocktail,865,0.7,1e-4,720,8.1,3e-4
+Baking Needs,Maraschino Cherries,866,0.7,1e-4,944,4.1,1e-4
+Seafood â€“ Crab,Crab â€“ Dungy,867,0.7,1e-4,952,3.9,1e-4
+Bread,Whole Grain Bread,868,0.7,1e-4,680,9.2,3e-4
+Smoked Hams,Hamsâ€Whole Boneâ€In,869,0.7,1e-4,1092,2.3,1e-4
+Apples,Apples Braeburn (Bulk&Bag),870,0.7,1e-4,668,9.4,3e-4
+Shelf Stable Juice,Grapefruit Juice (Over 50% Juice),871,0.7,1e-4,939,4.1,1e-4
+Water,Fortified/Water,872,0.7,1e-4,913,4.4,1e-4
+Meat â€ Shelf Stable,Potted Meats And Spreads,873,0.7,1e-4,1103,2.2,1e-4
+Water â€ (Sparkling&Still),Sparkling Water  â€ Unflavored,874,0.7,1e-4,581,12.1,4e-4
+Seafood â€“ Trout,Steelhead Fr [Trout],875,0.7,1e-4,812,6,2e-4
+Can Vegetables â€ Shelf Stable,Beets,876,0.7,1e-4,825,5.8,2e-4
+Frozen Juice And Smoothies,Smoothiesâ€Frozen,877,0.7,1e-4,950,4,1e-4
+Frozen Breakfast Foods,Frzn Bagels,878,0.7,1e-4,1035,2.9,1e-4
+Party Tray,Deli Tray:Fruit And Vegetable,879,0.7,1e-4,758,7.1,2e-4
+Chicken Specialty/Natural,Whole Chicken (Roasters/Fryer),880,0.7,1e-4,902,4.5,1e-4
+Bread,Bread:Wheat/Whl Grain,881,0.7,1e-4,629,10.3,3e-4
+Nonâ€Dairy/Dairy Aseptic,Soy Beverage,882,0.7,1e-4,849,5.3,2e-4
+Fitness & Diet,Fitness&Dietâ€Powder Ntrtnl,883,0.7,1e-4,741,7.3,2e-4
+Frzn Meatless,Meatless Poultry,884,0.7,1e-4,799,6.2,2e-4
+Pies,Pies: Sugar Free,885,0.7,1e-4,904,4.5,1e-4
+Dinner Sausage,Dnr Sausage â€ Fresh Poultry,886,0.7,1e-4,918,4.4,1e-4
+Spices & Extracts,Imitation Extracts,887,0.7,1e-4,973,3.5,1e-4
+Beverages,Can/Btl Carb Beve 50% And Under,888,0.7,1e-4,736,7.6,2e-4
+Vegetables Cooking Packaged,Vegetables Cooking Packaged,889,0.7,1e-4,821,5.9,2e-4
+Frozen Vegetable & Veg Dish,Fz Box Vegetables â€“ Plain,890,0.7,1e-4,824,5.8,2e-4
+Soup,Broths,891,0.7,1e-4,560,12.7,4e-4
+Bread,Bread:Brand,892,0.7,1e-4,679,9.2,3e-4
+Can Vegetables â€ Shelf Stable,Peas Fresh Pack/Crowder,893,0.7,1e-4,978,3.5,1e-4
+Snacks,Snacks: Salty,894,0.7,1e-4,703,8.5,3e-4
+Salad & Dips,Protein Salads â€“ Prepack,895,0.6,1e-4,946,4,1e-4
+Turkey Smoked,Turkey Drums,896,0.6,1e-4,1250,1.2,0
+Apples,Apples Gala (Bulk&Bag) Organic,897,0.6,1e-4,672,9.4,3e-4
+Stone Fruit,Peaches White Flesh,898,0.6,1e-4,833,5.5,2e-4
+Tomatoes,Tomatoesâ€Other,899,0.6,1e-4,1003,3.2,1e-4
+Service Case Meat,Kabobs Poultry,900,0.6,1e-4,879,4.9,2e-4
+Frzn Meatless,Meatless Miscellaneous,901,0.6,1e-4,869,5,2e-4
+Seafood â€ Scallops,Scallops â€“ Sea,902,0.6,1e-4,791,6.4,2e-4
+Convenience/Snacking,Jarred Fruit Multi Serve,903,0.6,1e-4,901,4.5,1e-4
+Traditional Asian Foods,Asian Vegetables,904,0.6,1e-4,847,5.4,2e-4
+Shelf Stable Juice,Cranapple/Cran Grape Juice,905,0.6,1e-4,760,7,2e-4
+Frozen Juice And Smoothies,Cocktail Mixesâ€Frz,906,0.6,1e-4,1107,2.2,1e-4
+Shelf Stable Juice,Grapefruit Juice (50% And Under),NA,NA,NA,NA,NA,NA
+Tomato Productsâ€Shelf Stable,Tomato Crushed,908,0.6,1e-4,780,6.6,2e-4
+Condiments & Sauces,Misc Meat Sauces,909,0.6,1e-4,962,3.7,1e-4
+Shelf Stable Juice,Blended Juice&Combinations,910,0.6,1e-4,1022,3,1e-4
+Coffee & Creamers,Bulk Coffee,911,0.6,1e-4,701,8.6,3e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Semi Soft,912,0.6,1e-4,595,11.4,4e-4
+Nonâ€Dairy/Dairy Aseptic,Nut Milk,913,0.6,1e-4,763,7,2e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Soft&Ripe,914,0.6,1e-4,620,10.8,3e-4
+Authentic Hispanic Fds&Product,Authentic Soups/Bouillons,915,0.6,1e-4,1200,1.5,0
+Authentic Asian Foods,Authentic Chinese Foods,916,0.6,1e-4,931,4.2,1e-4
+Baby Food,Baby Food,917,0.6,1e-4,835,5.5,2e-4
+Deli Meat: Presliced,Deli Meat: Ham,918,0.6,1e-4,665,9.5,3e-4
+Bacon,Bacon â€ Natural/Organic,919,0.6,1e-4,759,7.1,2e-4
+Frozen Potatoes,Frzn Onion Rings,920,0.6,1e-4,1177,1.6,1e-4
+Margarines,Margarine: Squeeze,921,0.6,1e-4,930,4.2,1e-4
+Deli Specialties (Retail Pk),Dl Spec: Dry/Refrig Pastas,922,0.6,1e-4,850,5.3,2e-4
+Seafood â€“ Crab,Crab â€“ Other,923,0.6,1e-4,1213,1.4,0
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Blue/Gorg,924,0.6,1e-4,619,10.8,3e-4
+Tomatoes,Tomatoes Others Organic,925,0.6,1e-4,808,6.1,2e-4
+Teas,Instant Tea & Tea Mix,926,0.6,1e-4,1038,2.9,1e-4
+Refrigerated Vegetarian,Vegetarian Misc,927,0.6,1e-4,963,3.7,1e-4
+Canned & Dry Milk,Non Fat Dry Milk,928,0.6,1e-4,859,5.2,2e-4
+Refrigerated Dairy Case,Kefir,929,0.6,1e-4,751,7.2,2e-4
+Coffee & Creamers,Specialty Instant Coffee,930,0.6,1e-4,1043,2.8,1e-4
+Can Vegetables â€ Shelf Stable,Artichokes,931,0.6,1e-4,682,9.1,3e-4
+Soft Drinks,Mixers(Tonic Water/Gngr Ale),932,0.5,1e-4,540,13.2,4e-4
+Refrigerated Italian,Refrigerated Pasta Sauce,933,0.5,1e-4,742,7.3,2e-4
+Baking Needs,Baking Cocoa,934,0.5,1e-4,851,5.3,2e-4
+Vegetables Salad,Spinach Bulk,935,0.5,1e-4,883,4.8,2e-4
+Infant Formula,Infant Formula Milk Base,936,0.5,1e-4,1455,0.3,0
+Seafood â€ Salad/Dip/Sce/Cond,Dips/Spreads,937,0.5,1e-4,1069,2.5,1e-4
+Authentic Hispanic Fds&Product,Hispanic Baking Needs,938,0.5,1e-4,1233,1.3,0
+Baking Needs,Marshmallow CrÃ¨me,939,0.5,1e-4,977,3.5,1e-4
+Buffalo,Grinds [Buffalo],940,0.5,1e-4,712,8.3,3e-4
+Baking Needs,Yeast: Dry,941,0.5,1e-4,816,5.9,2e-4
+Lamb,Round/Leg [Lamb],942,0.5,1e-4,936,4.2,1e-4
+Seafood â€ Smoked Seafood,Smoked Salmon,943,0.5,1e-4,709,8.4,3e-4
+Processed,Packaged Dry Mixes,944,0.5,1e-4,1039,2.9,1e-4
+Frozen Meat Alternatives,Micro Protein [Meats],945,0.5,1e-4,899,4.6,1e-4
+Refrgrated Dough Products,Misc Refrig Dough Products,946,0.5,1e-4,1162,1.7,1e-4
+Deli Meat: Presliced,Deli Meat: Beef,947,0.5,1e-4,862,5.2,2e-4
+Vegetables Cooking Bulk,Celery Organic,948,0.5,1e-4,779,6.6,2e-4
+Cakes,Cakes: Creme/Pudding Novelties,949,0.5,1e-4,1171,1.7,1e-4
+Lamb,Loin [Lamb],950,0.5,1e-4,882,4.8,2e-4
+Refrgratd Juices/Drinks,Dairy Case Tea No Sugar Or Sweetner,951,0.5,1e-4,1002,3.2,1e-4
+Baking Needs,Coconut [Baking Needs],952,0.5,1e-4,873,4.9,2e-4
+Salad Mix,Salad Spinach Organic,953,0.5,1e-4,696,8.7,3e-4
+Pork Grinds,Ground Pork,954,0.5,1e-4,928,4.3,1e-4
+Processed,Squeeze Lemons/Limes,955,0.5,1e-4,988,3.3,1e-4
+Lamb,Chuck/Shoulder [Lamb],956,0.5,1e-4,1083,2.4,1e-4
+Berries,Raspberries Organic,957,0.5,1e-4,683,9.1,3e-4
+Rolls,Rolls: Biscuits/Eng Muffins,958,0.5,1e-4,886,4.7,2e-4
+Snacks,Snacks:Tortilla Chips,959,0.5,1e-4,874,4.9,2e-4
+Condiments,Honey/Syrup,960,0.5,1e-4,921,4.3,1e-4
+Rice Cakes,Large Cakes,961,0.5,1e-4,855,5.2,2e-4
+Authentic Italian Foods,Italian Vegetables,962,0.5,1e-4,738,7.4,2e-4
+Dressings/Dips,Dips Fruit And Chocolate,963,0.5,1e-4,1149,1.9,1e-4
+Potatoes,Potatoes Other Organic,964,0.5,1e-4,789,6.4,2e-4
+Juices Super Premium,Juices (50% And Under Juice),NA,NA,NA,NA,NA,NA
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Hispanic,966,0.5,1e-4,1192,1.5,0
+Seafood â€ Value Added Seafood,Value Added Crab,967,0.5,1e-4,997,3.2,1e-4
+Service Case Meat,Stuffed/Mixed Pork,968,0.5,1e-4,1051,2.7,1e-4
+Herbs/Garlic,Sprouts,969,0.5,1e-4,955,3.9,1e-4
+Pears,Pears Bosc,970,0.5,1e-4,922,4.3,1e-4
+Meat â€ Shelf Stable,Corn Beef,971,0.5,1e-4,1169,1.7,1e-4
+Refrigerated Vegetarian,Nonâ€Dairy Cheese,972,0.5,1e-4,893,4.6,1e-4
+Isotonic Drinks,Sports Drink N/Supplmnt Milk,973,0.5,1e-4,1017,3,1e-4
+Soft Drinks,Seltzer Unflavored,974,0.5,1e-4,757,7.1,2e-4
+Refrigerated Vegetarian,Tofu,975,0.5,1e-4,809,6.1,2e-4
+Berries,Blueberries Organic,976,0.5,1e-4,660,9.6,3e-4
+Trail Mix & Snacks,Candy W/Flour,977,0.5,1e-4,1027,2.9,1e-4
+Cakes,Cakes: Cheesecake Novelties,978,0.5,1e-4,1115,2.1,1e-4
+Water â€ (Sparkling&Still),Sparkling Water â€ Flvrd Unsweetened,979,0.5,1e-4,675,9.3,3e-4
+Powder & Crystal Drink Mix,Breakfast Crystals,980,0.5,1e-4,1209,1.4,0
+Nonâ€Dairy/Dairy Aseptic,Rice Beverage,981,0.5,1e-4,891,4.6,1e-4
+Pies,Pies: Tarts/Minis/Crstdas,982,0.5,1e-4,1045,2.7,1e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Gouda&Eda,983,0.5,1e-4,721,8,3e-4
+Enhancements (Pickles/Spreads),Enhancements â€ Spices/Sauces,984,0.5,1e-4,1082,2.4,1e-4
+Snacks,Snacks: Crackers/Cookies,985,0.5,1e-4,705,8.4,3e-4
+Baking Needs,Corn Starch,986,0.5,1e-4,1062,2.6,1e-4
+Candy â€“ Packaged,Bulk Candy,987,0.5,1e-4,1031,2.9,1e-4
+Prepared/Pdgd Foods,Pasta/Ramen,988,0.5,1e-4,801,6.2,2e-4
+Specialty Cheese Pre Pack,Specialty Ppk Cheese Goat Milk,989,0.5,1e-4,624,10.4,3e-4
+Herbs/Garlic,Herbs Basil Organic,990,0.4,1e-4,692,9,3e-4
+Bakery Party Trays,Party Trays: Cakes,991,0.4,1e-4,1147,1.9,1e-4
+Mushrooms,Mushrooms White Bulk,992,0.4,1e-4,830,5.7,2e-4
+Candy,Candy/Chocolate,993,0.4,1e-4,786,6.5,2e-4
+Candy â€“ Packaged,Seasonal Candy Bagsâ€Chocolate,994,0.4,1e-4,999,3.2,1e-4
+Tomatoes,Tomatoes Cocktail,995,0.4,1e-4,714,8.3,3e-4
+Pears,Pears Asian,996,0.4,1e-4,961,3.8,1e-4
+Authentic Caribbean Foods,Caribbean Foods,997,0.4,1e-4,1273,1.1,0
+Dry Bean Veg & Rice,Misc Grain Mixes,998,0.4,1e-4,735,7.6,2e-4
+Can Vegetables â€“ Shelf Stable,Peas & Onions/Peas & Carrot,999,0.4,1e-4,1136,1.9,1e-4
+Seafood â€“ Shellfish Other,Shellfish â€“ Other,1000,0.4,1e-4,1225,1.3,0
